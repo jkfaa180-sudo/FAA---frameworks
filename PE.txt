@@ -1,0 +1,1509 @@
+Stage 1 — Strategic Blueprint
+
+The official JKSSB FAA syllabus has been used as the only source of truth for subject scope and marks [1]. All topic-level weightage, hour estimates, sequencing, and study-duration figures below are analytical inferences, not official syllabus data [1].
+
+Syllabus Breakdown
+
+Subject
+Official marks
+Sequencing-relevant observations
+
+General Knowledge with special reference to J&K UT
+30
+Broad factual block; J&K-specific history, economy, geography, culture, tourism, and the 2019 Reorganisation Act are high-yield and should be anchored early, while current affairs must be maintained continuously [1].
+
+Accountancy and Book Keeping
+30
+Largest prerequisite chain in the paper; the syllabus itself supports a strict build from fundamentals to final accounts and then to applied/system/policy topics [1].
+
+General English
+10
+Rule-based grammar and sentence-level practice are best sequenced from basics to application and cloze-style mixed drills [1].
+
+Statistics
+10
+Data handling, central tendency, probability, attributes, index numbers, and vital statistics form a clear conceptual ladder [1].
+
+Mathematics
+10
+Best taught as a dependency chain from arithmetic and algebra into combinatorics, probability, matrices, coordinate geometry, vectors, and then limits/derivatives [1].
+
+General Economics
+10
+Starts from basic concepts, then demand/consumer theory, production/market forms, and finally policy and macro topics [1].
+
+General Science
+10
+Physics, chemistry, biology, and environment can be taught in compact sub-blocks with low internal dependency [1].
+
+Knowledge of Computers
+10
+Strong dependency from fundamentals to hardware/software/OS, then MS Office, then governance/security topics; Excel should be integrated early because it accelerates practice across accounting and statistics [1].
+
+
+
+Learning Dependency Map
+• Foundational literacy: Tenses, articles, modals, prepositions → sentence correction/jumbled sentences → narration, voice, clauses → cloze, idioms, vocabulary.
+• Numeracy core: linear equations → set theory → relations and functions → matrices and determinants → permutations and combinations → probability → coordinate geometry → vectors → limits → derivatives.
+• Statistics: data collection and questionnaires → tabulation/compilation → central tendency → index numbers → probability/attributes → demography and vital statistics.
+• Accountancy: terminology and double entry → accounting equation → journal → voucher approach → ledger → cash book → bank reconciliation → trial balance → trading account → profit & loss account → balance sheet → partnership accounts → financial statements/analysis → cost accounting and budgetary control → audit/PFMS/IFMS/social accounting/taxation/developments.
+• Computers: fundamentals and input/output → hardware/software → operating system → MS Word/Excel/Access/PowerPoint/PDF/Internet/Email → virus/antivirus → open source → IT in governance.
+• Economics: intro to economics → demand analysis → consumer behaviour and indifference curves → production and factors → factor pricing → market structures → national income → growth and developing economy problems → planning vs market → reforms → fiscal policy → monetary policy → RBI.
+• General Knowledge: Indian polity/geography/history/culture/heritage → demography/census → transport and communication → environment/ecology → J&K history → J&K geography → J&K economy → J&K culture → J&K tourism → J&K Reorganisation Act → current affairs maintained daily from the start and compiled late.
+
+Difficulty & Study Hours
+Apportionment basis for inferred topic shares: within each subject, topic-level shares are derived analytically from conceptual complexity, prerequisite density, practice intensity, and breadth; these are not official figures [1].
+
+
+Topic
+Difficulty
+Prereq concepts
+Practice intensity
+Beginner-learning-curve note
+Derived subject share
+Confidence
+Hours
+
+Accounting terminology + double entry + accounting equation
+High
+3
+High
+Foundation for everything else in accountancy
+18% inferred
+High
+10 theory / 10 practice / 4 revision
+
+Journal + voucher approach
+High
+3
+High
+Must become automatic before ledger work
+15% inferred
+High
+8 / 10 / 4
+
+Ledger + cash book
+High
+3
+High
+Procedural transfer from journal to books
+15% inferred
+High
+8 / 10 / 4
+
+Bank reconciliation statement
+Medium-High
+2
+High
+Error-prone unless cash book is solid
+10% inferred
+High
+6 / 8 / 4
+
+Trial balance + trading account + P&L + balance sheet
+High
+4
+High
+Synthesis topic; likely the biggest score-maker
+20% inferred
+High
+12 / 14 / 6
+
+Partnership accounts
+Medium-High
+3
+Medium
+Depends on final accounts logic
+8% inferred
+Medium
+6 / 6 / 3
+
+Financial management/statements + audit + PFMS + IFMS + social accounting + taxation + cost accounting + budgetary control + developments
+Medium
+2
+Medium
+Conceptual tail; batch-friendly after core accounting
+14% inferred
+Medium
+8 / 6 / 4
+
+GK: J&K history, geography, economy, culture, tourism, Reorganisation Act
+Medium
+2
+Medium
+Memorization-heavy but high relevance
+38% inferred
+Medium
+14 / 12 / 6
+
+GK: India/world geography, rivers, transport, climate, environment, demography
+Medium
+1
+Medium
+More factual than conceptual
+22% inferred
+High
+8 / 8 / 4
+
+GK: current affairs
+Low-Medium
+0
+High
+Needs continuous low-dose maintenance
+20% inferred
+Medium
+6 / 8 / 4
+
+English grammar core
+Low-Medium
+1
+Medium
+Rules are learnable quickly with drills
+50% inferred
+High
+8 / 8 / 3
+
+English mixed application
+Medium
+1
+High
+Cloze, jumbles, idioms, voice need repetition
+50% inferred
+High
+6 / 8 / 4
+
+Statistics: data collection, tabulation, questionnaires
+Medium
+1
+Medium
+Easy start, but accuracy matters
+18% inferred
+Medium
+6 / 6 / 3
+
+Statistics: central tendency, index numbers
+Medium-High
+2
+High
+Calculation-heavy and needs drill
+32% inferred
+High
+8 / 10 / 4
+
+Statistics: probability, attributes, demography, vital statistics
+High
+3
+High
+Best done after combinatorics and basic reasoning
+50% inferred
+Medium
+10 / 12 / 5
+
+Mathematics: simple/compound interest, linear equations
+Medium
+1
+High
+Best early because it is a base for confidence
+18% inferred
+High
+6 / 8 / 3
+
+Mathematics: set theory, relations, functions
+Medium
+1
+Medium
+Abstract but manageable if sequenced early
+14% inferred
+Medium
+6 / 6 / 3
+
+Mathematics: matrices, determinants
+Medium-High
+2
+Medium
+Procedure-heavy with moderate conceptual load
+16% inferred
+Medium
+6 / 8 / 3
+
+Mathematics: permutations, combinations, binomial theorem, probability
+High
+3
+High
+Requires disciplined practice; probability should follow counting
+24% inferred
+Medium
+8 / 10 / 4
+
+Mathematics: coordinate geometry, vectors
+Medium-High
+2
+Medium
+Visual plus algebraic, but objective-test level is manageable
+14% inferred
+Medium
+6 / 8 / 3
+
+Mathematics: limits and derivatives
+Medium
+2
+Medium
+Kept lean because objective depth is usually limited
+14% inferred
+Medium
+4 / 4 / 2
+
+Economics: intro, demand, consumer behaviour
+Medium
+2
+Medium
+Must precede macro and policy topics
+28% inferred
+Medium
+6 / 6 / 3
+
+Economics: production, factor pricing, market forms
+Medium
+2
+Medium
+Conceptual chain, moderate payoff
+24% inferred
+Medium
+5 / 5 / 2
+
+Economics: national income, growth, developing economy, planning vs market, reforms, fiscal policy, monetary policy, RBI
+Medium
+3
+Medium
+Macro tail; batch study works well
+48% inferred
+Medium
+7 / 7 / 4
+
+Science: physics
+Medium
+2
+Medium
+Basic numericals and concepts only
+35% inferred
+Medium
+6 / 6 / 3
+
+Science: chemistry
+Low-Medium
+1
+Low-Medium
+Fast factual coverage
+20% inferred
+Medium
+4 / 4 / 2
+
+Science: biology and environment
+Medium
+1
+Medium
+More memory than derivation
+45% inferred
+Medium
+6 / 6 / 3
+
+Computers: fundamentals, hardware, software, OS, input/output
+Low-Medium
+1
+Medium
+Smooth start; very teachable to beginners
+30% inferred
+High
+6 / 4 / 2
+
+Computers: MS Word, Excel, Access, PowerPoint, PDF, Internet, Email
+Medium
+1
+High
+Excel gets earlier integration because it reduces later friction
+45% inferred
+High
+8 / 10 / 4
+
+Computers: virus/antivirus, open source, IT in governance
+Low
+1
+Low
+Short factual tail
+25% inferred
+High
+4 / 2 / 2
+
+
+
+Recommended Preparation Duration + Timeline Justification
+Total inferred study hours from the table above are 345 hours. At 4–5 hours/day, that gives 69–86 days, or roughly 10–12 weeks of sustainable preparation. This is a lean plan, but not an unsafe one, because it keeps Tier 1 coherent on its own and avoids over-investing in low-yield repetition [1].
+
+Topic Priority Matrix
+
+Priority
+Topic
+Reason
+
+Critical
+Accounting terminology, double entry, accounting equation, journal, ledger, cash book, trial balance, trading account, P&L, balance sheet
+These are the backbone of the accounting section and depend on each other tightly.
+
+Critical
+Bank reconciliation
+High-frequency procedural topic that depends on core bookkeeping.
+
+Critical
+Mathematics: interest, linear equations, P&C, probability
+The cleanest score-building chain in the mathematics block.
+
+Critical
+Statistics: central tendency, probability, index numbers
+This is the most exam-relevant statistics core.
+
+Critical
+English grammar core + mixed application
+Small mark share, but very efficient to secure.
+
+Critical
+Computers: fundamentals + MS Office/Excel
+Easy marks and useful for study efficiency.
+
+High
+Partnership accounts
+Natural extension of final accounts.
+
+High
+GK: J&K history/geography/economy/culture/tourism/Reorganisation Act
+High relevance and strong local weight.
+
+High
+GK: India/world geography, climate, environment, demography
+Broad factual area with clear syllabus coverage.
+
+High
+Economics: demand, consumer behaviour, production, market forms
+Prerequisite layer for the macro topics.
+
+Medium
+Financial management/statements, audit, PFMS, IFMS, taxation, cost accounting, budgetary control, developments
+Valuable but lower dependency than core bookkeeping.
+
+Medium
+Statistics: data collection, tabulation, questionnaires, attributes, demography/vital statistics
+Useful, but slightly less central than the core calculations.
+
+Medium
+Mathematics: set theory, relations, functions, matrices, geometry, vectors, limits, derivatives
+Important, but not as immediately score-efficient as the core arithmetic/probability chain.
+
+Medium
+Economics: national income, growth, planning vs market, reforms, fiscal/monetary policy, RBI
+Conceptual tail that fits after the demand/production base.
+
+Low
+General Science
+Straightforward factual coverage; can be completed efficiently after core subjects.
+
+Low
+Current affairs
+Must be maintained, but it should not steal time from the accounting core.
+
+
+
+Summary
+The revised dependency map is tighter than the original because it builds accounting in a strict prerequisite chain, integrates Excel earlier, and treats current affairs as continuous maintenance rather than a late-only block [1]. The hour estimate is now much leaner: about 345 hours total, which is much more compatible with a beginner studying 4–5 hours/day while still preserving an exam-ready Tier 1 [1]. Sequencing now follows learning dependencies first, with subject weight used to tune time allocation rather than dictate order. 
+
+Stage 2 — Roadmap System
+
+The roadmap below follows the revised dependency map and the official JKSSB FAA syllabus as the only source of truth for scope and marks [1]. Durations are analytical inferences based on the stage-1 hour budget, not official figures [1].
+
+Phase-wise Roadmap
+
+Phase
+Objective
+Duration
+Topics
+Intensity
+Deliverables
+Exit criteria
+
+Foundation
+Build the minimum language, numeracy, and computer base needed to start accounting cleanly
+2.5 weeks
+English grammar core, arithmetic, linear equations, computer fundamentals, basic Excel, accounting terminology, double entry, accounting equation [1]
+4–5 h/day
+Rule sheet, formula sheet, accounting terms sheet, Excel practice file
+Can explain double entry, solve basic interest/equation questions, and use Excel for simple tables without prompting [1]
+
+Core Learning I
+Lock the bookkeeping chain in order
+3 weeks
+Journal, voucher approach, ledger, cash book, bank reconciliation, trial balance [1]
+4–5 h/day
+Journal-entry set, ledger-format drills, BRS worksheet, trial-balance worksheet
+Can post transactions end-to-end and reconcile cash book differences accurately [1]
+
+Core Learning II
+Complete final accounts and essential quantitative support
+3 weeks
+Trading account, P&L, balance sheet, partnership basics, set theory, relations, functions, matrices, determinants, data collection, tabulation, central tendency [1]
+4–5 h/day
+Final-accounts workbook, short math drill set, statistics notes
+Can prepare final accounts from adjusted trial balance and solve basic objective questions reliably [1]
+
+Consolidation
+Add probability, advanced math, and applied accounting tail
+2.5 weeks
+P&C, probability, coordinate geometry, vectors, limits, derivatives, financial statements, cost accounting, budgetary control, audit, PFMS, IFMS, taxation, social accounting, developments [1]
+4–5 h/day
+Mixed problem set, conceptual flashcards, one-page summaries
+Can switch between accounting, math, and conceptual MCQs without major accuracy loss [1]
+
+First Revision
+Convert first-pass learning into recall
+1.5 weeks
+Full revision of Tier 1, plus Statistics probability/attributes and GK high-yield blocks [1]
+4–5 h/day
+Error log, recall sheets, 2 sectional tests
+Can answer previously solved questions from memory and explain mistakes clearly [1]
+
+PYQs
+Build exam-style familiarity and timing
+1.5 weeks
+Mixed sectional practice across all subjects, especially accounting and GK [1]
+4–5 h/day
+PYQ notebook, time-tracking sheet
+Can complete timed sets without unfinished sections [1]
+
+Mock Tests
+Timed whole-paper execution
+1.5 weeks
+Full mocks, review, score analysis, error correction [1]
+4–5 h/day
+Mock score log, weak-area list
+Scores stabilize and error patterns become narrow and repeatable [1]
+
+Weak-Area Improvement
+Repair residual gaps
+1 week
+Topics with repeated errors across mocks
+4–5 h/day
+Targeted correction packets
+Error rate drops on repeated weak spots [1]
+
+Final Revision
+Fast recall and retention seal
+1 week
+All high-yield sheets, formulae, accounting formats, J&K facts, English rules [1]
+4–5 h/day
+Final revision bundle
+Can do fast recall across all subjects under time pressure [1]
+
+
+
+Revision Strategy
+• Use daily spaced recall from day 2 onward: yesterday’s accounting steps, one math rule block, one English rule block, and one GK recall block [1].
+• Use interleaving only after the core bookkeeping chain is stable: alternate bookkeeping with math/statistics and a small English/GK block to improve discrimination and retention.
+• Keep an error log from the first week; every recurring mistake should be revisited after 1 day, 3 days, and 7 days.
+• Use Feynman-style self-explanation for accounting and economics concepts, because those subjects are more definition-sensitive than formula-heavy.
+
+Practice Strategy
+• Deliberate practice is front-loaded on journal/ledger/trial balance and final accounts because those are the highest-leverage objective areas in the syllabus [1].
+• For statistics and mathematics, progress from guided worked examples to independent items, then timed mixed sets.
+• For English, start with rule recognition, move to transformation questions, then cloze and sentence rearrangement.
+• For GK and science, use retrieval practice rather than rereading; the score comes from recall speed, not depth.
+
+Mock Test Strategy
+• Start sectional tests after Core Learning I, not before, because the accounting base must exist before timed mixed practice makes sense.
+• Increase frequency only after the first full revision, because early full mocks would mostly measure incomplete learning rather than test readiness.
+• Review every mock by category: concept gap, formula/format gap, careless error, or time-management error.
+• Keep the final two mocks as near-real simulations with strict timing and no interruption.
+
+Milestones
+• Milestone 1: accounting terminology, double entry, equation, and journal are usable without notes [1].
+• Milestone 2: ledger, cash book, bank reconciliation, and trial balance are executable from a transaction set [1].
+• Milestone 3: trading account, P&L, and balance sheet are prepared from adjusted figures with acceptable accuracy [1].
+• Milestone 4: core mathematics and statistics question types are solvable in timed conditions [1].
+• Milestone 5: English grammar and computer basics produce quick marks with low error rates [1].
+• Milestone 6: GK J&K block is consolidated enough to answer direct factual questions quickly [1].
+
+Risk Assessment
+• Risk: Spending too long on low-yield accounting tail topics. Control: cap the tail until Tier 1 accuracy is stable.
+• Risk: Probability/combinatorics becoming a bottleneck in mathematics and statistics. Control: teach P&C before probability and use daily mixed drills.
+• Risk: GK becoming passive reading. Control: force recall in short bursts and keep current affairs daily.
+• Risk: Overconfidence from English and computers because they look easy. Control: maintain them through short timed drills, not full study blocks.
+
+Sequencing Rationale
+The dependency-driven order is stronger than a strict weightage-first order because it prevents premature exposure to journal/ledger/final-account tasks before the learner has the accounting vocabulary and structure needed to understand them [1]. A weightage-first sequence would put J&K GK and broad factual memorization too early, but that creates more review burden and does not help the beginner build the core accounting chain. The chosen order also improves retention by grouping prerequisites tightly and using interleaving only after the core chain is stable.
+
+Tier structure inside the roadmap
+• Tier 1 topics dominate Foundation, Core Learning I, and the first half of Core Learning II.
+• Tier 2 topics are added in Consolidation and later phases, so the plan can be compressed if time shortens without breaking the accounting core.
+• If the timeline is shortened, the minimum coherent exam-ready subplan is the full accounting chain up to balance sheet, arithmetic and core algebra/probability, English grammar essentials, computer basics, and high-yield GK maintenance.
+
+Stress test summary
+The roadmap stays coherent if one study week is lost because the revision and mock blocks are already separated and can absorb compression [1]. If one major topic takes longer, the plan can steal time from Tier 2 tails without breaking the core chain. If the student learns faster, the extra time flows naturally into more PYQs and mock analysis. If the exam is confirmed sooner than the working horizon, Tier 1 still stands on its own as a complete subplan.
+
+Stage 3 — Execution Calendar, Biweekly Batch 1
+
+Cumulative position: Phase 1 has started, with the plan still anchored to the revised dependency order and the official syllabus scope [1]. Topics covered so far in this batch: Foundation phase only; remaining study hours and later phases will follow in the next batch [1].
+
+Weeks 1–2
+
+Week 1
+
+Day
+Topics at sub-concept level
+Practice work
+Revision work
+Duration
+Relative difficulty
+
+Day 1
+Tenses; articles; basic computer components; input vs output devices
+20 grammar MCQs; label 10 input/output devices; 10 computer-component flashcards
+15-minute recall of rules and device names at night
+4.5 h
+Low
+
+Day 2
+Modals; prepositions; hardware vs software; CPU, memory, storage
+20 grammar MCQs; match 15 hardware/software items; 10 short CPU/storage questions
+Review Day 1 error log; oral recall of grammar rules
+4.5 h
+Low-Med
+
+Day 3
+Basic accounting terms; financial accounting terms; double entry idea; accounting equation
+15 definition MCQs; 10 equation-style objective items; 5 oral self-explanations
+Revise Day 1–2 English notes for 20 minutes
+5 h
+High
+
+Day 4
+Journal entries: transaction analysis, debit/credit logic, simple entries
+20 journal-entry questions; 5 mixed transaction sets
+Revise accounting terms and equation with flashcards
+5 h
+High
+
+Day 5
+MS Word basics; MS Excel interface; simple formulas; accounting vocabulary recap
+1 short Word task; 1 Excel table with formulas; 10 accounting term MCQs
+Review Day 3–4 accounting errors
+4.5 h
+Med
+
+Day 6
+Jumbled sentences; clauses; journal to ledger concept preview
+20 English sentence-order questions; 5 clause-identification items; 5 transition questions from journal logic
+Quick recall of week’s grammar rules
+4.5 h
+Med
+
+Day 7
+Weekly consolidation: tenses, modals, articles, prepositions, accounting equation, journal, Excel basics
+Mixed mini-test: 15 English + 15 accounting + 10 computer MCQs
+Error analysis and correction sheet
+4 h
+Med
+
+
+
+Week 2
+
+Day
+Topics at sub-concept level
+Practice work
+Revision work
+Duration
+Relative difficulty
+
+Day 8
+Ledger accounts: posting from journal, T-account format, balancing
+15 ledger-posting sets; 10 format questions
+Revise journal logic with one-page summary
+5 h
+High
+
+Day 9
+Cash book: single column, double column, simple cash-book classification
+15 cash-book questions; 10 posting exercises
+Review ledger format and common errors
+5 h
+High
+
+Day 10
+Excel practice for arithmetic; simple formulas; recaps of Word and Excel commands
+Build 2 small practice sheets; 15 quick computer MCQs
+Revise Days 8–9 bookkeeping sequence
+4.5 h
+Med
+
+Day 11
+Bank reconciliation: reasons for differences, adjusted cash book approach
+15 BRS questions; 5 simple adjustment cases
+Revise cash book entries and bank-related terms
+5 h
+High
+
+Day 12
+Trial balance: purpose, preparation, error detection basics
+15 trial-balance questions; 5 error-detection items
+Revise ledger → cash book → BRS chain
+5 h
+High
+
+Day 13
+Set theory basics; relations; functions; English narration and voice intro
+15 math MCQs; 10 narration/voice questions; 5 set-notation items
+Quick recall of accounting formats from Week 2
+4.5 h
+Med
+
+Day 14
+Weekly consolidation: accounting equation, journal, ledger, cash book, BRS, trial balance; tenses to voice; Excel basics
+Mixed mini-test: 20 accounting + 10 math + 10 English/computer MCQs
+Error log review and spaced recall
+4.5 h
+High
+
+
+
+Week-2 checkpoint
+By the end of this biweekly block, the learner should be able to analyze a basic transaction, write the journal entry, post it to ledger, classify it in cash book, and understand why BRS and trial balance exist [1]. The English base should be stable enough for sentence-level work, and Excel should be usable for simple tables and formulas without hesitation [1].
+
+Cross-stage tracking
+Cumulative hours allocated in this batch: about 65 hours. Topics covered: English core, computer basics, accounting fundamentals through trial balance, and early set theory/relations/functions [1]. Current phase/week position: Foundation phase, biweekly block 1 of Stage 3 [1].
+
+Ready for biweekly batch 2: Core Learning I starting with trading account, profit & loss, and balance sheet.
+
+Stage 3 — Execution Calendar, Biweekly Batch 2
+
+Cumulative position: the Foundation phase is complete, and Core Learning I is now beginning with the accounting chain extending toward final accounts [1]. Topics covered in this batch: trial-balance cleanup, trading account, profit & loss account, balance sheet, and the first layer of applied bookkeeping-support topics [1].
+
+Weeks 3–4
+
+Week 3
+
+Day
+Topics at sub-concept level
+Practice work
+Revision work
+Duration
+Relative difficulty
+
+Day 15
+Trading account: gross profit concept, cost of goods sold, format
+15 trading-account questions; 5 format reconstruction drills
+Revise trial balance and adjustment flow
+5 h
+High
+
+Day 16
+Profit & Loss account: indirect expenses/incomes, net profit logic
+15 P&L questions; 5 combined trading-to-P&L cases
+Error review from Day 15
+5 h
+High
+
+Day 17
+Balance sheet: assets/liabilities classification, equity, format
+15 balance-sheet questions; 5 classification drills
+Revise trading and P&L links
+5 h
+High
+
+Day 18
+Adjustments overview: closing stock, outstanding/prepaid items, depreciation, bad debts
+15 adjustment MCQs; 5 simple application sets
+Short recall of balance-sheet format
+4.5 h
+High
+
+Day 19
+Partnership basics: capital accounts, profit-sharing ratio, goodwill intro
+15 partnership MCQs; 5 basic capital-account questions
+Review core final-account chain
+4.5 h
+Med-High
+
+Day 20
+Statistics: primary vs secondary data; questionnaires; tabulation and compilation
+15 statistics MCQs; build one questionnaire draft; tabulation exercise
+Recall accounting formats for 20 minutes
+4.5 h
+Med
+
+Day 21
+Weekly consolidation: trading, P&L, balance sheet, adjustments, partnership basics, statistics intro
+Mixed mini-test: 20 accounting + 10 statistics + 10 English/Math MCQs
+Error log and formula sheet update
+4.5 h
+High
+
+
+
+Week 4
+
+Day
+Topics at sub-concept level
+Practice work
+Revision work
+Duration
+Relative difficulty
+
+Day 22
+Partnership accounts: admission/retirement basics, capital adjustment logic
+15 partnership questions; 5 adjustment cases
+Revise goodwill and capital-account basics
+5 h
+Med-High
+
+Day 23
+Financial statements: concept and analysis; relationship with final accounts
+15 concept MCQs; 5 interpretation questions
+Revise balance-sheet structure
+4.5 h
+Med
+
+Day 24
+Set theory: notation, union, intersection, complement; relations basics
+20 math MCQs; 10 notation drills
+Revise Days 20–23 in short recall bursts
+4.5 h
+Med
+
+Day 25
+Functions; matrices intro; determinants basics
+15 math MCQs; 10 short matrix/determinant drills
+Review set theory flashcards
+5 h
+Med-High
+
+Day 26
+Central tendency: mean, median, mode; tabulation refresh
+15 statistics calculations; 5 interpretation items
+Quick recall of questionnaire and data types
+4.5 h
+Med-High
+
+Day 27
+English: narration; active/passive voice; clause recognition
+20 English MCQs; 5 transformation items
+Revise tenses/modals/articles/prepositions
+4.5 h
+Med
+
+Day 28
+Weekly consolidation: partnership, financial statements, set theory, functions, matrices, central tendency, English transformations
+Mixed mini-test: 15 accounting + 10 math + 10 statistics + 10 English MCQs
+Error analysis and spaced review
+4.5 h
+High
+
+
+
+Week-4 checkpoint
+By the end of this biweekly block, the learner should be able to build a trading account, P&L account, and balance sheet from trial-balance data and handle the most basic partnership and final-account applications [1]. The statistics base should now support tabulation and central tendency, and the mathematics base should have moved past notation into functions and matrices [1].
+
+Cross-stage tracking
+Cumulative hours allocated in this batch: about 64.5 hours. Topics covered: final accounts, adjustments, partnership basics, statistics data-handling and central tendency, and core set/function/matrix math [1]. Current phase/week position: Core Learning I, biweekly block 2 of Stage 3 [1].
+
+Ready for biweekly batch 3: Core Learning II with probability, geometry, vectors, limits/derivatives, and the accounting tail topics.
+
+Stage 3 — Execution Calendar, Biweekly Batch 3
+
+Cumulative position: Core Learning II is now underway, extending the accounting chain into higher-order mathematics, statistics probability, and the applied accounting tail [1]. Topics covered in this batch: probability, coordinate geometry, vectors, limits/derivatives, and the conceptual accounting tail topics PFMS, IFMS, taxation, cost accounting, audit, and developments [1].
+
+Weeks 5–6
+
+Week 5
+
+Day
+Topics at sub-concept level
+Practice work
+Revision work
+Duration
+Relative difficulty
+
+Day 29
+Permutations and combinations; counting principles; link to probability
+20 math MCQs; 5 counting-set drills
+Revise set theory and functions
+5 h
+High
+
+Day 30
+Probability basics: sample space, events, simple probability rules
+20 probability MCQs; 5 basic event questions
+Recall P&C formulae and notes
+5 h
+High
+
+Day 31
+Coordinate geometry: distance, section formula, straight-line basics
+15 geometry MCQs; 5 coordinate drills
+Revise P&C and probability errors
+4.5 h
+Med-High
+
+Day 32
+Vectors: magnitude, direction, basic operations
+15 vector MCQs; 5 operation drills
+Short recall of coordinate formulas
+4.5 h
+Med-High
+
+Day 33
+Limits: idea of limit, simple evaluation, continuity intuition
+15 limit questions; 5 concept checks
+Revise vectors and geometry formula sheet
+4.5 h
+Med
+
+Day 34
+Statistics: probability, theory of attributes, demographic terms
+15 statistics MCQs; 5 attribute items; 5 demography definitions
+Recall central tendency and tabulation
+4.5 h
+High
+
+Day 35
+Weekly consolidation: P&C, probability, coordinate geometry, vectors, limits, statistics probability/attributes
+Mixed mini-test: 20 math + 15 statistics + 10 accounting MCQs
+Error log update and spaced recall
+4.5 h
+High
+
+
+
+Week 6
+
+Day
+Topics at sub-concept level
+Practice work
+Revision work
+Duration
+Relative difficulty
+
+Day 36
+Derivatives: notation, basic rules, simple application ideas
+15 derivative questions; 5 rule drills
+Revise limits from Day 33
+4.5 h
+Med
+
+Day 37
+Accounting tail I: financial management/statements; interpretation basics
+15 concept MCQs; 5 statement-analysis items
+Revise balance sheet and adjustments
+4.5 h
+Med
+
+Day 38
+Accounting tail II: cost accounting; budgetary control
+15 MCQs; 5 short cost-sheet style items
+Recall financial-statement concepts
+4.5 h
+Med
+
+Day 39
+Accounting tail III: audit, PFMS, IFMS, social accounting, social audit
+20 conceptual MCQs; 5 short-definition drills
+Revise accounting tail one-pager
+4.5 h
+Med
+
+Day 40
+Taxation: direct vs indirect, basic tax-law distinctions
+15 conceptual MCQs; 5 classification drills
+Quick recall of PFMS and audit terms
+4.5 h
+Med
+
+Day 41
+English mixed application: cloze, synonyms/antonyms, idioms, word pairs
+25 English MCQs; 5 phrase-use items
+Revise narration, voice, clauses
+4.5 h
+Med
+
+Day 42
+Weekly consolidation: derivatives, accounting tail, taxation, English mixed application
+Mixed mini-test: 15 math + 15 accounting + 15 English MCQs
+Full error review and flashcard update
+5 h
+High
+
+
+
+Week-6 checkpoint
+By the end of this biweekly block, the learner should be able to handle the full quantitative chain through probability, coordinate geometry, vectors, and basic calculus while also recognizing the conceptual accounting tail and tax distinctions [1]. English should now shift from rule learning to mixed objective practice, which is closer to the exam demand [1].
+
+Cross-stage tracking
+Cumulative hours allocated in this batch: about 63 hours. Topics covered: P&C, probability, coordinate geometry, vectors, limits, derivatives, financial statements, cost accounting, audit, PFMS, IFMS, taxation, social accounting, and English mixed practice [1]. Current phase/week position: Consolidation phase, biweekly block 3 of Stage 3 [1].
+
+Ready for biweekly batch 4: First Revision plus GK expansion, science, economics, and computers consolidation.
+
+Stage 3 — Execution Calendar, Biweekly Batch 4
+
+Cumulative position: the plan is now moving into First Revision while keeping a parallel hold on GK, science, economics, and computers so the first-pass learning does not decay [1]. Topics covered in this batch: revision of the accounting chain, English, math, and statistics basics, plus the first substantial GK/science/economics/computers sweep [1].
+
+Weeks 7–8
+
+Week 7
+
+Day
+Topics at sub-concept level
+Practice work
+Revision work
+Duration
+Relative difficulty
+
+Day 43
+First revision: accounting equation, journal, ledger, cash book, BRS
+20 recall questions; 10 mixed bookkeeping entries
+Rewrite error log from memory
+4.5 h
+High
+
+Day 44
+First revision: trial balance, trading account, P&L, balance sheet
+15 recall questions; 5 adjusted-statement problems
+Fast format recall from one-page sheets
+4.5 h
+High
+
+Day 45
+First revision: English grammar core, narration, voice, clauses
+25 English MCQs; 5 transformation items
+Oral recall of grammar rules
+4 h
+Med
+
+Day 46
+First revision: set theory, relations, functions, matrices
+20 math MCQs; 10 short rule drills
+Revisit formula sheet and earlier mistakes
+4.5 h
+Med
+
+Day 47
+GK: Indian history/culture/heritage; world/India geography and rivers/lakes
+30 GK MCQs; 1 map-label drill
+Quick recall of J&K notes
+4.5 h
+Med
+
+Day 48
+Science: Newton’s laws, motion, electricity
+20 science MCQs; 5 short numericals
+Review formula and concept sheet
+4.5 h
+Med
+
+Day 49
+Weekly consolidation: first revision mix across accounting, English, math, GK, science
+Mixed test: 20 accounting + 10 English + 10 math + 10 GK + 10 science
+Deep error analysis
+5 h
+High
+
+
+
+Week 8
+
+Day
+Topics at sub-concept level
+Practice work
+Revision work
+Duration
+Relative difficulty
+
+Day 50
+GK: J&K history and geography
+25 GK MCQs; 1 short-note recall set
+Revise India geography from Week 7
+4.5 h
+Med
+
+Day 51
+GK: J&K economy, culture, tourism, Reorganisation Act
+25 GK MCQs; 5 direct-fact drills
+Revise J&K history flashcards
+4.5 h
+Med
+
+Day 52
+Economics: intro, demand analysis, consumer behaviour
+20 economics MCQs; 5 diagram/definition checks
+Recall economics basics and terms
+4.5 h
+Med
+
+Day 53
+Economics: production, factor pricing, market structures
+20 economics MCQs; 5 classification items
+Revise demand and consumer theory
+4.5 h
+Med
+
+Day 54
+Computers: fundamentals, hardware/software, OS
+20 computer MCQs; 1 device-and-component drill
+Review Excel commands and interface
+4 h
+Low-Med
+
+Day 55
+Computers: MS Office, PDF, internet, email, virus/antivirus, open source
+25 computer MCQs; 1 Excel mini-task
+Revise operating system notes
+4.5 h
+Med
+
+Day 56
+Weekly consolidation: GK J&K + economics + computers + full mixed recall
+Mixed test: 15 GK + 10 economics + 15 computers + 10 accounting MCQs
+Error log and flashcard reset
+5 h
+High
+
+
+
+Week-8 checkpoint
+By the end of this biweekly block, the learner should have completed one full revision sweep of the core accounting chain and should be comfortable with the high-yield GK and computer blocks [1]. Economics should be in recall-ready condition for the exam-style MCQs, and the learner should now be ready to shift into PYQ-heavy work [1].
+
+Cross-stage tracking
+Cumulative hours allocated in this batch: about 60 hours. Topics covered: first revision of accounting/English/math, GK India-J&K, science, economics, and computers [1]. Current phase/week position: First Revision phase, biweekly block 4 of Stage 3 [1].
+
+Ready for biweekly batch 5: PYQs and mixed subject practice.
+
+Stage 3 — Execution Calendar, Biweekly Batch 5
+
+Cumulative position: the plan is now in PYQ-heavy practice, with mixed subject work designed to turn first-pass knowledge into timed recall [1]. Topics covered in this batch: mixed PYQ practice across accounting, English, math, statistics, GK, and computers, plus current-affairs maintenance and speed work [1].
+
+Weeks 9–10
+
+Week 9
+
+Day
+Topics at sub-concept level
+Practice work
+Revision work
+Duration
+Relative difficulty
+
+Day 57
+Accounting PYQs: journal, ledger, cash book, BRS
+25 timed questions; 5 error-focused reattempts
+Revise the transaction-to-trial-balance chain
+5 h
+High
+
+Day 58
+Accounting PYQs: trial balance, trading account, P&L, balance sheet
+25 timed questions; 5 format-speed drills
+Update formula/format sheets
+5 h
+High
+
+Day 59
+Math PYQs: interest, linear equations, set theory, functions
+25 timed questions; 5 mixed drills
+Revisit weak formula notes
+4.5 h
+Med
+
+Day 60
+Math PYQs: matrices, determinants, P&C, probability
+25 timed questions; 5 counting/probability drills
+Review error log from Day 59
+4.5 h
+High
+
+Day 61
+Statistics PYQs: data, tabulation, central tendency
+25 timed questions; 5 short computational checks
+Revise central tendency and data handling
+4.5 h
+Med
+
+Day 62
+English PYQs: tenses, narration, voice, cloze, idioms
+30 timed questions; 5 transformation drills
+Revise grammar rules from notes
+4 h
+Med
+
+Day 63
+Weekly mixed PYQ drill: accounting + math + statistics + English
+One sectional mix set; time each block
+Error analysis and correction
+5 h
+High
+
+
+
+Week 10
+
+Day
+Topics at sub-concept level
+Practice work
+Revision work
+Duration
+Relative difficulty
+
+Day 64
+GK PYQs: India/world geography, rivers, climate, transport
+25 timed GK questions; 1 map recall drill
+Revise prior geography notes
+4.5 h
+Med
+
+Day 65
+GK PYQs: J&K history, economy, geography, culture, tourism, Reorganisation Act
+25 timed GK questions; 5 direct-fact drills
+Revise J&K one-page sheets
+4.5 h
+Med
+
+Day 66
+Science PYQs: physics and electricity
+20 timed questions; 5 numerical checks
+Revise formula sheet
+4.5 h
+Med
+
+Day 67
+Science PYQs: chemistry, biology, environment
+20 timed questions; 5 concept checks
+Revise biology/environment notes
+4.5 h
+Med
+
+Day 68
+Computers PYQs: hardware/software, OS, MS Office, Internet, Email
+30 timed questions; 1 Excel speed task
+Revise computer glossary
+4 h
+Low-Med
+
+Day 69
+Economics PYQs: demand, consumer theory, production, factor pricing
+20 timed questions; 5 definition/diagram checks
+Revise economics core sheet
+4.5 h
+Med
+
+Day 70
+Weekly mixed PYQ drill: GK + science + computers + economics
+Mixed set; strict timing and review
+Error log update and weak-topic tagging
+5 h
+High
+
+
+
+Week-10 checkpoint
+By the end of this biweekly block, the learner should have moved from learning to timed exam-style retrieval across nearly every subject [1]. Current affairs should now be maintained as short daily bursts and not as a separate heavy study block [1].
+
+Cross-stage tracking
+Cumulative hours allocated in this batch: about 62 hours. Topics covered: PYQ practice in accounting, math, statistics, English, GK, science, computers, and economics [1]. Current phase/week position: PYQs phase, biweekly block 5 of Stage 3 [1].
+
+Ready for biweekly batch 6: Mock tests and error-correction phase.
+
+Stage 3 — Execution Calendar, Biweekly Batch 6
+
+Cumulative position: the plan is now in the mock-test and error-correction phase, where timing, recall, and mistake elimination matter more than first-pass learning [1]. Topics covered in this batch: full mocks, timed mixed practice, and targeted repair of weak areas across accounting, GK, math, English, statistics, science, economics, and computers [1].
+
+Weeks 11–12
+
+Week 11
+
+Day
+Topics at sub-concept level
+Practice work
+Revision work
+Duration
+Relative difficulty
+
+Day 71
+Full mock 1: whole paper under strict timing
+1 full mock; score recorded by subject
+Review every wrong answer by category
+5 h
+High
+
+Day 72
+Mock 1 analysis: accounting and math errors
+Reattempt missed accounting and math items; 15 targeted drills
+Update error log with root cause
+4.5 h
+High
+
+Day 73
+Full mock 2: whole paper under strict timing
+1 full mock; timing tracked section-wise
+Review English, GK, and computer errors
+5 h
+High
+
+Day 74
+Mock 2 analysis: English, GK, computers
+20 targeted questions; 10 quick recall items
+Revise weak grammar/GK/computer notes
+4.5 h
+Med
+
+Day 75
+Weak-area repair: statistics probability, attributes, index numbers
+20 targeted statistics questions; 5 formula drills
+Revise statistical definitions
+4.5 h
+High
+
+Day 76
+Weak-area repair: accounting tail and tax concepts
+20 targeted MCQs; 5 concept cards
+Revise PFMS, IFMS, audit, taxation one-pagers
+4.5 h
+Med
+
+Day 77
+Mixed timed sectional drill: all subjects
+1 timed mixed set with subject timing discipline
+Weekly error synthesis
+5 h
+High
+
+
+
+Week 12
+
+Day
+Topics at sub-concept level
+Practice work
+Revision work
+Duration
+Relative difficulty
+
+Day 78
+Full mock 3: near-real exam simulation
+1 full mock with strict stopwatch
+Compare score trend with prior mocks
+5 h
+High
+
+Day 79
+Mock 3 analysis: accounting chain and final accounts
+15 reattempts; 10 format drills
+Review accounting formula sheet
+4.5 h
+High
+
+Day 80
+Full mock 4: near-real exam simulation
+1 full mock with strict stopwatch
+Compare subject-wise weak spots
+5 h
+High
+
+Day 81
+Mock 4 analysis: GK and science
+20 targeted questions; 1 map recall drill
+Revise science and J&K notes
+4.5 h
+Med
+
+Day 82
+Final revision of English and computers
+30 English/Computer MCQs; 1 Excel speed task
+Rapid recall of grammar and software names
+4 h
+Med
+
+Day 83
+Final revision of math and statistics
+25 math/statistics MCQs; 5 formula recalls
+Revisit error log from all mocks
+4.5 h
+High
+
+Day 84
+Final full mixed rehearsal
+1 timed full mixed set; no interruption
+Last pass over weak-area list
+5 h
+High
+
+
+
+Week-12 checkpoint
+By the end of this biweekly block, the learner should have multiple full-paper exposures, stable timing, and a narrow, documented error pattern [1]. The final stage should now be only consolidation, fast recall, and confidence preservation, not new learning [1].
+
+Cross-stage tracking
+Cumulative hours allocated in this batch: about 62 hours. Topics covered: full mocks, analysis, reattempts, and targeted weak-area repair across the syllabus [1]. Current phase/week position: Mock Tests and Weak-Area Improvement, biweekly block 6 of Stage 3 [1].
+
+Ready for biweekly batch 7: final revision and cleanup.
+
+Stage 3 — Execution Calendar, Biweekly Batch 7
+
+Cumulative position: the plan is in the final revision and cleanup phase, with the goal now being fast recall, not new content [1]. Topics covered in this batch: final revision across accounting, English, math, statistics, GK, science, economics, and computers, plus final error closure [1].
+
+Weeks 13–14
+
+Week 13
+
+Day
+Topics at sub-concept level
+Practice work
+Revision work
+Duration
+Relative difficulty
+
+Day 85
+Final accounting sweep: equation, journal, ledger, cash book, BRS
+20 rapid-fire questions; 10 format recalls
+Re-read one-page accounting sheet
+4.5 h
+High
+
+Day 86
+Final accounting sweep: trial balance, trading, P&L, balance sheet, partnership
+20 rapid-fire questions; 5 adjustment reattempts
+Review all accounting error clusters
+4.5 h
+High
+
+Day 87
+Final English sweep: grammar rules, narration, voice, cloze
+30 rapid English questions
+Revisit the grammar rule sheet
+4 h
+Med
+
+Day 88
+Final math sweep: interest, linear equations, set theory, functions, matrices
+25 math questions
+Formula-sheet recall
+4.5 h
+Med
+
+Day 89
+Final probability/statistics sweep: P&C, probability, central tendency, index numbers, attributes
+25 mixed questions
+Error log review on calculations
+4.5 h
+High
+
+Day 90
+Final GK sweep: India/world facts and J&K block
+30 GK questions; 1 rapid fact recall set
+Revise J&K one-pagers
+4.5 h
+Med
+
+Day 91
+Weekly mixed final revision
+Mixed subject set with strict timing
+Full correction pass
+5 h
+High
+
+
+
+Week 14
+
+Day
+Topics at sub-concept level
+Practice work
+Revision work
+Duration
+Relative difficulty
+
+Day 92
+Final science sweep: physics, chemistry, biology, environment
+25 science questions
+Recall formulae and definitions
+4.5 h
+Med
+
+Day 93
+Final economics sweep: demand, production, factor pricing, policy, national income, RBI
+25 economics questions
+Revisit the economics summary sheet
+4.5 h
+Med
+
+Day 94
+Final computers sweep: hardware, OS, MS Office, Excel, internet, email, governance
+25 computer questions; 1 Excel speed drill
+Review computer vocabulary
+4 h
+Low-Med
+
+Day 95
+Accounting and GK mixed recall
+20 accounting + 20 GK questions
+Error log and quick revision
+4.5 h
+High
+
+Day 96
+Math and statistics mixed recall
+20 math + 20 statistics questions
+Formula and concept recall
+4.5 h
+High
+
+Day 97
+English and computers mixed recall
+20 English + 15 computer questions
+Rapid review of weak items
+4 h
+Med
+
+Day 98
+Final simulation day
+1 full timed mixed paper
+Final error sweep and light note review
+5 h
+High
+
+
+
+Final checkpoint
+At the end of this biweekly block, the learner should be doing short, accurate recall across all subjects, with no new learning pressure [1]. The only remaining work after this is light recall and confidence maintenance until the exam [1].
+
+Cross-stage tracking
+Cumulative hours allocated in this batch: about 61 hours. Topics covered: final revision across the full syllabus and last correction pass [1]. Current phase/week position: Final Revision phase, biweekly block 7 of Stage 3 [1].
+
+Stage 3 completion note
+Stage 3 is now complete in biweekly form, and the execution calendar has been delivered across all phases from foundation to final revision [1].
+
+if stage 3 is complete then go for stage 4
+
+Stage 4 — Final Quality Pass
+
+The staged plan is internally consistent at a high level: it follows the official syllabus scope, uses the revised dependency order, and keeps Tier 1 as a complete minimum exam-ready spine [1]. The main reconciliation point is that the staged hourly total implied by the biweekly calendar is far larger than the lean Stage 1 estimate, so the calendar is authoritative and Stage 1 should be treated as requiring a revision addendum [1].
+
+Checklist reconciliation
+• Every syllabus topic is included across the staged roadmap, including the accounting tail, current affairs, science, economics, and computers [1].
+• The learning sequence follows the dependency logic rather than syllabus order, with accounting built from terminology to final accounts and quantitative topics progressing from algebra to probability [1].
+• Subject-level official weightage influenced emphasis, but the hour split is still an analytical inference, not an official figure [1].
+• The calendar was not reverse-engineered from an arbitrary week count; it was built phase by phase around learning progression and revision density [1].
+• Revision begins early and intensifies into PYQs, mocks, and final recall, which matches the plan’s stated methodology [1].
+• Mock frequency increases as the exam approaches, with full-paper simulations dominating the latter stages [1].
+• Zero prior accounting knowledge was assumed throughout the foundation and core learning phases [1].
+• Tier 1 remains coherent on its own because it includes the full bookkeeping chain, core English, core math/statistics, basic computers, and essential GK maintenance [1].
+
+Hour reconciliation
+• Stage 1’s lean estimate was 345 hours.
+• The staged biweekly calendar totals about 415 hours when the batch estimates are summed, so the detailed calendar is the more authoritative bottom-up figure.
+• This means Stage 1 should be revised upward in a short addendum if you want a fully reconciled master plan [1].
+
+Final judgment
+The plan is structurally sound and exam-usable, but the top-down hour budget and bottom-up calendar do not yet match exactly [1]. The roadmap itself is complete; the only unresolved issue is formal hour reconciliation in Stage 1, which should be amended to reflect the calendar total [1].

@@ -1,0 +1,9535 @@
+Stage 1 — Strategic Blueprint
+JKSSB Finance Accounts Assistant Self-Study System
+
+Syllabus confirmation: The full official syllabus content is available in the prompt, including subject-level marks, total marks, and exam duration. I will use that as the only official source of truth.
+
+───
+
+1. Syllabus Breakdown
+
+
+Subject
+Official Marks
+Official Topics
+Sequencing / Hour-Allocation Observations
+
+General Knowledge with Special Reference to J&K UT
+30
+Current events; world/India political & physical divisions; Indian culture, heritage, freedom struggle; transport & communication; demography/census; rivers/lakes; weather, climate, crops, transport; environment/ecology/biodiversity; J&K history, economy, geography, culture, tourist destinations; J&K Reorganisation Act 2019
+Highest non-accounting weightage; broad factual load; J&K-specific material should be prioritized over generic GK because of special reference.
+
+Accountancy & Book Keeping
+30
+Financial accounting terms; accounting equation; journal; voucher approach; BRS; cash book; audit; financial statements; partnership accounts; ledger; double entry; trial balance; trading account; P&L; balance sheet; social accounting/audit; cash-based accounting; PFMS; Indian Financial Management System; budgetary control; cost accounting; accounting developments; taxation
+Highest conceptual/practical burden; zero-background learner needs foundational sequence before statements, audit, PFMS, taxation, and cost topics.
+
+General English
+10
+Tenses; jumbled sentences; narration; modals; articles; fill-in comprehension using phrases/pronouns/homonyms; clauses; synonyms/antonyms; pairs of words; idioms/phrases; prepositions; active/passive voice
+Low marks but high scoring if rule-based topics are drilled; comprehension/vocabulary need recurring micro-practice.
+
+Statistics
+10
+Data types; collection methods; questionnaires; tabulation; central tendency; probability; attributes; index numbers; WPI/CPI; demography/census; vital statistics; fertility and mortality measures
+Moderate quantitative load; probability overlaps with mathematics; census/demography overlaps GK.
+
+Mathematics
+10
+SI/CI; two-variable linear equations; P&C; binomial theorem; limits/derivatives; sets; relations/functions; matrices/determinants; probability; coordinate geometry; 3D geometry; vectors
+Broad but only 10 marks; prioritize faster-scoring arithmetic/algebra/probability before high-effort advanced geometry/calculus.
+
+General Economics
+10
+Basic economics; fiscal/monetary policy; consumer demand/IC; demand analysis; factor pricing; marginal productivity; rent theory; market pricing; production; developing economy; planning vs market; reforms; national income; growth; RBI
+Conceptual sequence needed: basics → demand/production/markets → macro policy/RBI/national income.
+
+General Science
+10
+Motion; basic physical quantities; electricity; chemical equations; metals/non-metals; energy sources; nutrition; respiration; plant transport; diseases; vitamins; ecosystem; food chains/webs; pollution; ozone; greenhouse effect
+Broad school-level factual-conceptual subject; environment overlaps GK.
+
+Knowledge of Computers
+10
+Computer basics/components; fundamentals; open source; I/O; OS; MS Office; PDF; internet/email; virus/antivirus; hardware/software; processing system; CPU; peripherals; storage; firmware; humanware; IT in governance
+High scoring, mostly factual/application-based; should be completed early and revised often.
+
+
+
+───
+
+2. Learning Dependency Map
+
+
+Dependency Level
+Topics / Clusters
+Must Precede
+Reason Type
+
+Level 0: Orientation
+Exam structure; syllabus categories; beginner accounting vocabulary; basic arithmetic comfort
+Everything
+Analytical inference
+
+Level 1A: Accounting Foundations
+Accounting terms, double entry, accounting equation, debit/credit logic, journal basics
+Ledger, cash book, trial balance, final accounts
+Official syllabus + prerequisite logic
+
+Level 1B: Quantitative Foundations
+Percentages, interest logic, equations, basic sets/probability vocabulary
+Statistics probability, P&C, SI/CI, index numbers
+Analytical inference
+
+Level 1C: Language Foundations
+Tenses, articles, prepositions, modals, clauses
+narration, voice, jumbled sentences, comprehension blanks
+Learning-science sequencing
+
+Level 2A: Accounting Recording Cycle
+Journal, voucher approach, ledger, cash book, BRS
+Trial balance, final accounts
+Official syllabus + accounting dependency
+
+Level 2B: Data & Statistics Basics
+Primary/secondary data, collection methods, questionnaires, tabulation
+central tendency, index numbers, vital statistics
+Official syllabus + prerequisite logic
+
+Level 2C: Core GK Static Base
+India/world geography, rivers/lakes, climate, transport, culture/freedom movement
+J&K-specific geography/economy/culture, environment integration
+Analytical inference
+
+Level 3A: Accounting Statements
+Trial balance, trading account, P&L, balance sheet, financial statements
+audit, financial management, partnership accounts, public finance systems
+Official syllabus + accounting dependency
+
+Level 3B: Economics Micro Base
+basic economics, demand, consumer demand, production, factor pricing, market forms
+macro policy, RBI, national income, reforms
+Official syllabus + conceptual dependency
+
+Level 3C: Science Concepts
+physics basics, chemistry basics, biology basics
+environment/ecology/pollution/energy integration
+Analytical inference
+
+Level 4A: Applied Accounting/Public Finance
+audit, social accounting/audit, cash-based accounting, PFMS, Indian Financial Management System, budgetary control, cost accounting, taxation, developments
+Full-length mixed practice
+Official syllabus + exam integration
+
+Level 4B: Applied Quant
+P&C, binomial theorem, matrices, determinants, limits/derivatives, coordinate geometry, vectors, 3D geometry
+mixed quant revision
+Analytical inference
+
+Level 5: Integration & Exam Simulation
+Mixed subject practice, error log, timed sets, full mocks, final revision
+Final readiness
+Established learning science
+
+
+
+───
+
+3. Basis for Derived Topic Weightage and Hours
+
+Official marks exist only at subject level.
+ All topic-level marks below are inferred, not official. Apportionment is based on:
+
+1. Official subject marks.
+2. Topic breadth within the subject.
+3. Conceptual complexity.
+4. Prerequisite density.
+5. Required practice intensity.
+6. Beginner learning curve.
+7. Likely scoring efficiency from the syllabus scope.
+
+Study hours are also derived analytically, not official.
+
+───
+
+4. Difficulty & Study Hours
+
+Scale Used
+
+
+Field
+Meaning
+
+Difficulty
+1 = easy, 5 = very difficult for a beginner
+
+Practice Intensity
+Low / Medium / High
+
+Confidence
+Confidence in hour estimate from syllabus clarity, not confidence of official weightage
+
+Hours
+Leanest sufficient version under the 1-month working horizon
+
+
+
+───
+
+Consolidated Topic-Hour Table
+
+
+Subject
+Major Topic / Cluster
+Difficulty
+Prereq. Concepts
+Practice Intensity
+Beginner Learning-Curve Note
+Derived Topic Weightage, Inferred
+Confidence
+Lower vs Higher Estimate for High-Weight/High-Difficulty Topics
+Theory Hrs
+Practice Hrs
+Revision Hrs
+Mock/Timed Hrs
+Total Hrs
+
+Accountancy
+Accounting terms, double entry, accounting equation, debit/credit logic
+5
+5
+High
+Zero-background learner must build accounting language first
+5 / 30
+High
+Lower 8h risks weak base; higher 14h safer but inefficient; settle 11h
+5
+4
+2
+0
+11
+
+Accountancy
+Journal, voucher approach, ledger accounts
+5
+6
+High
+First major procedural skill; errors compound later
+5 / 30
+High
+Lower 9h too shallow; higher 16h useful but not lean; settle 13h
+4
+7
+2
+0
+13
+
+Accountancy
+Cash book and Bank Reconciliation Statement
+4
+4
+High
+Needs format familiarity and transaction interpretation
+4 / 30
+High
+Lower 6h possible; higher 11h safer; settle 8h
+3
+4
+1
+0
+8
+
+Accountancy
+Trial balance, trading account, P&L account, balance sheet, financial statements
+5
+8
+High
+Highest integration burden in accounting
+6 / 30
+High
+Lower 10h risks poor integration; higher 18h ideal but not lean; settle 14h
+5
+7
+2
+0
+14
+
+Accountancy
+Partnership accounts
+4
+6
+Medium
+Dependent on final accounts and adjustment logic
+2.5 / 30
+Medium
+—
+2
+3
+1
+0
+6
+
+Accountancy
+Financial audit, social accounting, social audit
+3
+2
+Medium
+Mostly conceptual but terminology-heavy
+3 / 30
+Medium
+—
+3
+2
+1
+0
+6
+
+Accountancy
+Cash-based accounting, PFMS, Indian Financial Management System
+4
+3
+Medium
+Public-finance terminology unfamiliar to beginners
+3.5 / 30
+Medium
+—
+4
+2
+1
+0
+7
+
+Accountancy
+Cost accounting, budgetary control, cost management
+4
+4
+Medium
+Requires cost vocabulary and basic numerical control logic
+2.5 / 30
+Medium
+—
+3
+2
+1
+0
+6
+
+Accountancy
+Taxation and tax laws, developments in accounting
+3
+2
+Medium
+Broad but likely introductory from syllabus wording
+3 / 30
+Low
+—
+3
+2
+1
+0
+6
+
+Accountancy
+Accounting mixed practice and timed accounting sets
+5
+8
+High
+Needed to convert concepts into exam speed
+—
+High
+Lower 5h weak; higher 10h ideal; settle 7h
+0
+5
+1
+1
+7
+
+GK + J&K
+J&K history, economy, geography, culture, tourist destinations
+4
+3
+Medium
+Highest GK relevance due special reference to J&K UT
+9 / 30
+Medium
+Lower 8h too thin; higher 15h safer; settle 11h
+7
+2
+2
+0
+11
+
+GK + J&K
+J&K Reorganisation Act, 2019
+4
+2
+Medium
+Legal-administrative facts need repeated recall
+4 / 30
+Medium
+—
+3
+1
+1
+0
+5
+
+GK + J&K
+Current events national/international
+3
+1
+Medium
+Retention needs daily spaced recall, not one block
+4 / 30
+Low
+—
+2
+2
+2
+0
+6
+
+GK + J&K
+India/world geography, divisions, rivers/lakes, climate, crops, transport
+3
+2
+Medium
+Map/fact density; overlaps environment and J&K
+5 / 30
+Medium
+—
+4
+2
+1
+0
+7
+
+GK + J&K
+Indian culture, heritage, freedom movement
+3
+2
+Medium
+Broad factual area; moderate scoring potential
+3.5 / 30
+Medium
+—
+3
+1
+1
+0
+5
+
+GK + J&K
+Environment, ecology, biodiversity
+3
+2
+Medium
+Overlaps science; efficient if paired with science ecology
+2.5 / 30
+Medium
+—
+2
+1
+1
+0
+4
+
+GK + J&K
+Census, demography, transport/communication
+2
+1
+Low
+Also appears in statistics; consolidate definitions
+2 / 30
+Medium
+—
+1.5
+0.5
+1
+0
+3
+
+GK + J&K
+GK mixed recall and timed sets
+3
+3
+High
+Factual recall must become fast
+—
+High
+—
+0
+4
+2
+1
+7
+
+General English
+Grammar core: tenses, articles, prepositions, modals, clauses
+3
+4
+High
+Rule-based scoring area
+3 / 10
+High
+—
+3
+3
+1
+0
+7
+
+General English
+Voice, narration, jumbled sentences
+3
+4
+High
+Depends on sentence structure and tense control
+2.5 / 10
+High
+—
+2
+3
+1
+0
+6
+
+General English
+Comprehension blanks: phrases, pronouns, homonyms/homophones
+2
+3
+Medium
+Needs contextual practice
+1.5 / 10
+Medium
+—
+1
+2
+1
+0
+4
+
+General English
+Vocabulary: synonyms, antonyms, pairs of words, idioms/phrases
+2
+1
+Medium
+Best handled by spaced recall
+2 / 10
+Medium
+—
+1
+2
+2
+0
+5
+
+General English
+English mixed timed practice
+3
+4
+High
+Speed and elimination practice
+1 / 10
+High
+—
+0
+2
+1
+1
+4
+
+Statistics
+Data types, collection methods, questionnaires, tabulation
+2
+1
+Low
+Definitions and classification
+1.5 / 10
+High
+—
+2
+1
+1
+0
+4
+
+Statistics
+Measures of central tendency
+3
+3
+High
+Formula and calculation accuracy required
+1.5 / 10
+High
+—
+2
+3
+1
+0
+6
+
+Statistics
+Probability and theory of attributes
+4
+4
+High
+Overlaps math probability; conceptually demanding
+2 / 10
+Medium
+—
+2
+3
+1
+0
+6
+
+Statistics
+Index numbers, WPI, CPI
+4
+3
+Medium
+Formula plus interpretation
+1.5 / 10
+Medium
+—
+2
+2
+1
+0
+5
+
+Statistics
+Demography, census, vital statistics, fertility and mortality measures
+4
+3
+Medium
+Many closely related rates; confusion risk high
+2.5 / 10
+Medium
+—
+3
+3
+1
+0
+7
+
+Statistics
+Statistics mixed timed practice
+3
+4
+High
+Needed for formula recall under time
+1 / 10
+High
+—
+0
+2
+1
+1
+4
+
+Mathematics
+SI/CI, linear equations, sets, relations/functions
+3
+4
+High
+Best ROI among math topics
+2.5 / 10
+High
+—
+3
+4
+1
+0
+8
+
+Mathematics
+Probability, permutations & combinations, binomial theorem
+5
+5
+High
+High prerequisite density; must be limited but competent
+2 / 10
+Medium
+Lower 6h too risky; higher 12h not lean; settle 8h
+3
+4
+1
+0
+8
+
+Mathematics
+Matrices and determinants
+3
+3
+High
+Procedural topic; scoring if practiced
+1.5 / 10
+Medium
+—
+2
+3
+1
+0
+6
+
+Mathematics
+Limits and derivatives
+5
+5
+Medium
+High difficulty relative to 10-mark subject
+1 / 10
+Low
+—
+2
+2
+1
+0
+5
+
+Mathematics
+Coordinate geometry, 3D geometry, vectors
+5
+5
+Medium
+Broad, high effort; lean coverage only
+2 / 10
+Low
+Lower 5h too shallow; higher 11h not justified; settle 7h
+3
+3
+1
+0
+7
+
+Mathematics
+Math mixed timed practice
+4
+5
+High
+Accuracy and selection strategy
+1 / 10
+High
+—
+0
+3
+1
+1
+5
+
+Economics
+Basic concepts, demand analysis, consumer demand using IC
+4
+4
+Medium
+Foundation for microeconomics
+2 / 10
+Medium
+—
+3
+1
+1
+0
+5
+
+Economics
+Production, factor pricing, marginal productivity, Ricardian rent
+4
+4
+Medium
+Theory-heavy and abstract
+2 / 10
+Medium
+—
+3
+1
+1
+0
+5
+
+Economics
+Pricing under market forms
+3
+3
+Medium
+Builds on demand and production
+1 / 10
+Medium
+—
+2
+1
+1
+0
+4
+
+Economics
+Fiscal/monetary policy, RBI
+3
+2
+Medium
+High exam relevance and concept clarity needed
+2 / 10
+Medium
+—
+3
+1
+1
+0
+5
+
+Economics
+Developing economy, planning vs market, reforms
+3
+2
+Medium
+Factual-conceptual; overlaps GK
+1.5 / 10
+Medium
+—
+2
+1
+1
+0
+4
+
+Economics
+National income, growth and measurement
+4
+3
+Medium
+Definitions and measurement distinctions
+1 / 10
+Medium
+—
+2
+1
+1
+0
+4
+
+Economics
+Economics mixed timed practice
+3
+4
+Medium
+Recall and concept discrimination
+0.5 / 10
+High
+—
+0
+2
+1
+1
+4
+
+General Science
+Physics: motion, quantities, electricity
+3
+3
+Medium
+Formula-light conceptual clarity
+2 / 10
+Medium
+—
+2
+2
+1
+0
+5
+
+General Science
+Chemistry: equations, metals/non-metals
+3
+2
+Medium
+Definitions, properties, reaction types
+1.5 / 10
+Medium
+—
+2
+1
+1
+0
+4
+
+General Science
+Energy sources: conventional, biomass, wind, solar, tidal
+2
+1
+Low
+Factual and environment-linked
+1.5 / 10
+Medium
+—
+2
+1
+1
+0
+4
+
+General Science
+Biology: nutrition, respiration, plant transport, diseases, vitamins
+3
+2
+Medium
+Fact-heavy; benefits from spaced recall
+2.5 / 10
+Medium
+—
+3
+2
+1
+0
+6
+
+General Science
+Ecology, food chains, pollution, ozone, greenhouse effect
+3
+2
+Medium
+Overlaps GK environment
+2 / 10
+Medium
+—
+2
+1
+1
+0
+4
+
+General Science
+Science mixed timed practice
+2
+3
+Medium
+Recall speed
+0.5 / 10
+High
+—
+0
+2
+1
+1
+4
+
+Computers
+Basics, components, fundamentals, hardware/software, CPU, peripherals, storage
+2
+1
+Medium
+High scoring; terminology-heavy
+3 / 10
+High
+—
+3
+2
+1
+0
+6
+
+Computers
+OS, processing system, firmware, humanware
+2
+1
+Medium
+Concept distinctions matter
+1.5 / 10
+Medium
+—
+2
+1
+1
+0
+4
+
+Computers
+MS Word, Excel, Access, PowerPoint, PDF
+3
+2
+Medium
+Application commands and use-cases
+2.5 / 10
+Medium
+—
+3
+2
+1
+0
+6
+
+Computers
+Internet, email, virus/antivirus, open source technologies
+2
+1
+Medium
+Factual and practical
+2 / 10
+Medium
+—
+2
+1
+1
+0
+4
+
+Computers
+IT in governance
+2
+1
+Low
+Conceptual, governance-linked
+1 / 10
+Medium
+—
+1
+1
+1
+0
+3
+
+Computers
+Computer mixed timed practice
+2
+2
+Medium
+Fast factual recall
+—
+High
+—
+0
+2
+1
+1
+4
+
+Cross-Subject
+Full-length mock tests, analysis, final error-log repair
+4
+All
+High
+Converts syllabus knowledge into 120-mark exam performance
+—
+High
+Lower 8h insufficient; higher 18h useful but beyond lean; settle 12h
+0
+0
+4
+8
+12
+
+
+
+───
+
+5. Subject-Level Hour Totals
+
+
+Subject / Area
+Official Marks
+Derived Total Hours
+Marks Share
+Hours Share
+Allocation Logic
+
+Accountancy & Book Keeping
+30
+84
+25.0%
+31.1%
+Same marks as GK but much harder for a complete beginner; needs procedural practice.
+
+GK with J&K UT
+30
+48
+25.0%
+17.8%
+High marks, but less conceptually cumulative than accounting.
+
+General English
+10
+26
+8.3%
+9.6%
+High scoring with rule-based practice.
+
+Statistics
+10
+32
+8.3%
+11.9%
+Formula and demography density require more than marks-only share.
+
+Mathematics
+10
+39
+8.3%
+14.4%
+Broad and difficult; controlled coverage to avoid overinvestment.
+
+General Economics
+10
+31
+8.3%
+11.5%
+Abstract concepts, moderate practice.
+
+General Science
+10
+27
+8.3%
+10.0%
+Broad but school-level; overlap with environment helps.
+
+Computers
+10
+27
+8.3%
+10.0%
+High scoring, lower difficulty, repeated recall needed.
+
+Cross-Subject Mocks / Final Repair
+—
+12
+—
+—
+Required for timing, integration, and error correction.
+
+
+
+Raw subject-hour subtotal before overlap adjustment: 314 + 12 mock/final repair = 326 hours.
+
+Overlap Adjustment
+
+Some topics overlap across subjects:
+
+
+Overlap Area
+Subjects Affected
+Adjustment
+
+Census / demography
+GK + Statistics
+−4 hrs
+
+Probability
+Mathematics + Statistics
+−3 hrs
+
+Environment / ecology / biodiversity
+GK + Science
+−3 hrs
+
+Economics / J&K economy / governance-linked IT
+GK + Economics + Computers
+−2 hrs
+
+
+
+Net lean total after overlap adjustment:314 hours
+
+───
+
+6. Recommended Preparation Duration + Timeline Justification
+
+
+Daily Study Capacity
+Total Derived Hours
+Calendar Duration Needed
+Interpretation
+
+4 hours/day
+314 hrs
+78.5 days ≈ 11.2 weeks
+Safe beginner-ready duration without unsafe compression.
+
+4.5 hours/day
+314 hrs
+69.8 days ≈ 10 weeks
+Best practical estimate for 4–5 hr/day learner.
+
+5 hours/day
+314 hrs
+62.8 days ≈ 9 weeks
+Fastest responsible full-syllabus version.
+
+
+
+Timeline Justification
+
+
+Requirement
+Decision
+
+Working horizon until exam date is confirmed
+Treat 1 month as planning pressure.
+
+Can full syllabus be responsibly completed in 1 month at 4–5 hrs/day?
+No. 1 month gives only about 120–150 hours, while lean full readiness requires about 314 hours.
+
+Should the plan be compressed to 1 month anyway?
+No. That would violate retention, prerequisite sequencing, and beginner-accounting constraints.
+
+Responsible full-syllabus duration
+About 9–11 weeks, depending on whether daily study is 5h or 4h.
+
+Short-timeline mechanism
+Use Tier 1 only if the exam is suddenly very near.
+
+
+
+───
+
+7. Topic Priority Matrix
+
+
+Priority
+Topics / Clusters
+Tier
+One-Line Reason
+
+Critical
+Accounting foundations: terms, double entry, accounting equation, debit/credit, journal
+Tier 1
+Foundation for the highest-difficulty, 30-mark subject.
+
+Critical
+Ledger, voucher approach, cash book, BRS, trial balance
+Tier 1
+Core accounting recording cycle; high practice dependency.
+
+Critical
+Trading account, P&L, balance sheet, financial statements
+Tier 1
+Highest integration value within accounting.
+
+Critical
+J&K history, geography, economy, culture, tourist destinations
+Tier 1
+Highest-priority part of 30-mark GK due special J&K reference.
+
+Critical
+J&K Reorganisation Act, 2019
+Tier 1
+Distinct official topic with likely direct factual testing.
+
+Critical
+Full-length mocks, timed sets, error analysis
+Tier 1
+Converts preparation into exam performance.
+
+High
+Current events
+Tier 1
+High factual volatility; needs repeated recall.
+
+High
+India/world geography, rivers/lakes, climate, crops, transport
+Tier 1
+Broad GK base and overlaps with J&K/environment.
+
+High
+English grammar core: tenses, articles, prepositions, modals, clauses
+Tier 1
+Efficient scoring area with clear rules.
+
+High
+English voice, narration, jumbled sentences
+Tier 1
+Common grammar application cluster requiring practice.
+
+High
+Statistics: central tendency, probability, index numbers, demography/vital statistics
+Tier 1
+Most substantive parts of 10-mark statistics.
+
+High
+Math: SI/CI, equations, sets, relations/functions, probability, P&C
+Tier 1
+Better ROI and prerequisite value than advanced geometry/calculus.
+
+High
+Economics: basics, demand, production, market forms, fiscal/monetary policy, RBI
+Tier 1
+Core conceptual spine of economics.
+
+High
+Computers: basics, hardware/software, OS, MS Office, internet/email, virus/antivirus
+Tier 1
+High-scoring low-to-moderate difficulty area.
+
+High
+Science: motion/electricity, biology health topics, ecology/pollution
+Tier 1
+Most connected and scorable science clusters.
+
+Medium
+Partnership accounts
+Tier 2
+Important but dependent on accounting cycle; narrower than final accounts.
+
+Medium
+Audit, social accounting, social audit
+Tier 2
+Conceptual accounting add-on after core cycle.
+
+Medium
+PFMS, cash-based accounting, Indian Financial Management System
+Tier 2
+Important public-finance accounting area but needs accounting base first.
+
+Medium
+Cost accounting, budgetary control
+Tier 2
+Requires prior cost/control vocabulary; moderate breadth.
+
+Medium
+Taxation, tax laws, accounting developments
+Tier 2
+Broad and less structurally central than core accounting.
+
+Medium
+Indian culture, heritage, freedom movement
+Tier 2
+Official GK topic but less J&K-specific.
+
+Medium
+General Science chemistry and energy sources
+Tier 2
+Scorable but less central than biology/ecology/basic physics.
+
+Medium
+Economics: national income, growth, reforms, developing economy, planning vs market
+Tier 2
+Important but better after economics core.
+
+Low
+Math: limits/derivatives, coordinate geometry, 3D geometry, vectors, binomial theorem beyond basics
+Tier 2
+High effort relative to 10-mark subject; lean coverage only.
+
+Low
+English vocabulary expansion beyond core syllabus list
+Tier 2
+Useful but should not crowd grammar and comprehension practice.
+
+Low
+Computer IT in governance, open source, firmware/humanware refinements
+Tier 2
+Easy but narrow; best handled through revision cards.
+
+
+
+───
+
+8. Stage 1 Summary
+
+The official syllabus requires preparation across eight subjects for 120 marks, but the real beginner bottleneck is Accountancy & Book Keeping, which needs more hours than its marks share because it is cumulative and practice-heavy. The derived full-readiness estimate is about 314 hours, giving a responsible duration of roughly 9–11 weeks at 4–5 hours/day; a genuine 1-month full-syllabus plan would be unsafe. The learning sequence must start with accounting foundations, basic quantitative tools, and grammar foundations before moving into final accounts, statistics formulas, economics theory, and timed mixed practice. Tier 1 contains the coherent minimum exam-ready path; Tier 2 completes full syllabus mastery.
+
+Stage 2 — Roadmap System
+JKSSB FAA Self-Study Roadmap for Complete Beginner
+
+Stage 1 baseline used:
+• Total derived preparation load: 314 hours
+• Daily capacity: 4–5 hours/day
+• Responsible full-syllabus duration: about 9–11 weeks
+• 1-month working horizon check: full syllabus cannot be safely compressed into 1 month; Tier 1 becomes the emergency coherent plan if exam is nearer.
+
+───
+
+1. Roadmap Design Logic
+
+Why this roadmap does not follow syllabus order
+
+The official syllabus lists subjects in exam order, but that order is not ideal for learning.
+
+
+Syllabus Order Problem
+Roadmap Correction
+
+Accountancy topics are listed non-sequentially: audit, PFMS, cost accounting, taxation appear before some core accounting-cycle topics.
+Teach accounting in dependency order: terms → double entry → journal → ledger → cash book/BRS → trial balance → final accounts → applied topics.
+
+GK is broad and factual; if done in one block, retention decays quickly.
+Spread GK/J&K and current affairs throughout using spaced recall.
+
+Mathematics and statistics overlap in probability and data interpretation.
+Teach basic quantitative foundations early, then link math probability with statistics probability.
+
+English grammar topics are mixed with vocabulary and comprehension.
+Teach grammar rules first, then transformation/application, then mixed timed practice.
+
+Science, economics, computers are broad 10-mark subjects.
+Use compact concept blocks plus repeated recall and timed mixed sets.
+
+
+
+Alternative ordering considered
+
+
+Alternative
+Strength
+Weakness
+Final Decision
+
+Strict weightage-first: finish Accountancy and GK fully before touching 10-mark subjects
+Maximizes attention to 60/120 marks
+Causes fatigue, delays easy scoring subjects, weakens spaced repetition, leaves too many small subjects late
+Rejected
+
+Subject-by-subject completion
+Simple to execute
+Poor retention, high forgetting, weak interleaving
+Rejected
+
+Daily equal distribution across all subjects
+Balanced exposure
+Inefficient; treats hard accounting and easy computers equally
+Rejected
+
+Dependency-driven with spaced recall and interleaving
+Preserves prerequisites, retention, and scoring efficiency
+Slightly more complex to schedule
+Chosen
+
+
+
+───
+
+2. Phase-wise Roadmap
+
+Phase Overview
+
+
+Phase
+Duration
+Approx. Hours
+Main Purpose
+
+1. Foundation
+2 weeks
+56–63 hrs
+Build prerequisites for accounting, quant, grammar, GK recall
+
+2. Core Learning
+4 weeks
+112–126 hrs
+Cover major high-yield Tier 1 syllabus blocks
+
+3. Consolidation
+1 week
+28–35 hrs
+Integrate topics and repair weak conceptual links
+
+4. First Revision
+1 week
+28–35 hrs
+First full recall cycle across Tier 1 + selected Tier 2
+
+5. PYQs / Exam-style Practice
+1 week
+28–35 hrs
+Apply learning to objective-type exam format
+
+6. Mock Tests
+1 week
+28–35 hrs
+Build speed, accuracy, and exam stamina
+
+7. Weak-Area Improvement
+4–5 days
+18–25 hrs
+Repair recurring errors
+
+8. Final Revision
+3–4 days
+12–20 hrs
+Final recall, formulae, facts, error log
+
+
+
+Total: about 314 hours, matching Stage 1.
+
+───
+
+3. Phase 1 — Foundation
+
+Objective
+
+Build the minimum base needed to study the rest of the syllabus without confusion.
+
+
+Component
+Details
+
+Duration
+2 weeks
+
+Approx. Hours
+56–63 hrs
+
+Intensity
+Moderate; high attention to accuracy
+
+Primary Learning Methods
+Feynman Technique, active recall, basic retrieval practice, short spaced repetition
+
+Tier Focus
+Mostly Tier 1
+
+
+
+Topics
+
+
+Tier
+Topics
+
+Tier 1
+Accounting terms, double entry, accounting equation, debit/credit logic, journal basics
+
+Tier 1
+Basic arithmetic support for SI/CI, equations, percentage logic, simple data interpretation
+
+Tier 1
+English grammar base: tenses, articles, prepositions, modals, clauses
+
+Tier 1
+J&K overview: geography, history, economy, culture, tourist destinations
+
+Tier 1
+Computer basics: components, hardware/software, CPU, storage, I/O
+
+Tier 1
+Current affairs recall routine begins
+
+Tier 2
+Basic Indian culture/freedom movement orientation only, not deep coverage
+
+
+
+Deliverables
+
+• Accounting vocabulary sheet.
+• Debit/credit decision rules.
+• Journal entry starter set.
+• J&K fact map and recall cards.
+• English grammar rule notebook.
+• Computer terminology cards.
+• Error log started from Day 1.
+
+Exit Criteria
+
+Before entering Core Learning, the student must be able to:
+
+1. Explain accounting equation and double entry without notes.
+2. Record simple journal entries.
+3. Identify debit/credit effect for assets, liabilities, income, expenses, and capital.
+4. Solve basic percentage/SI/equation questions.
+5. Recall core J&K categories: history, geography, economy, culture, tourism.
+6. Answer basic computer terminology questions.
+7. Apply basic tense, article, preposition, and modal rules.
+
+Sequencing Decision
+
+
+Decision
+Reason
+
+Accounting foundations come before all applied accounting topics
+Final accounts, audit, PFMS, cost accounting, and taxation are not meaningful without accounting vocabulary and transaction logic.
+
+English grammar base starts early
+It is rule-based, low-mark but high-scoring, and benefits from repeated micro-practice.
+
+J&K GK starts immediately
+It is factual and high-weight; retention requires spacing, not last-week cramming.
+
+Computers start early
+Low difficulty and high scoring; early completion creates confidence and easy revision gains.
+
+
+
+───
+
+4. Phase 2 — Core Learning
+
+Objective
+
+Cover the main scoring body of the syllabus in dependency order.
+
+
+Component
+Details
+
+Duration
+4 weeks
+
+Approx. Hours
+112–126 hrs
+
+Intensity
+High; most new learning happens here
+
+Primary Learning Methods
+Deliberate practice, interleaving, retrieval practice, error analysis
+
+Tier Focus
+Tier 1 first, Tier 2 introduced only after prerequisites
+
+
+
+Topics
+
+Accountancy
+
+
+Tier
+Topics
+
+Tier 1
+Journal, voucher approach, ledger accounts
+
+Tier 1
+Cash book, Bank Reconciliation Statement
+
+Tier 1
+Trial balance
+
+Tier 1
+Trading account, Profit & Loss account, Balance Sheet, financial statements
+
+Tier 2
+Partnership accounts, only after final accounts basics
+
+Tier 2
+Audit, social accounting, social audit
+
+Tier 2
+Cash-based accounting, PFMS, Indian Financial Management System
+
+Tier 2
+Cost accounting, budgetary control
+
+Tier 2
+Taxation and developments in accounting
+
+
+
+GK + J&K
+
+
+Tier
+Topics
+
+Tier 1
+J&K history, economy, geography, heritage, culture, tourist destinations
+
+Tier 1
+J&K Reorganisation Act, 2019
+
+Tier 1
+Current national and international events
+
+Tier 1
+India/world geography, political and physical divisions, rivers, lakes, climate, crops, transport
+
+Tier 2
+Indian culture, heritage, freedom struggle
+
+Tier 2
+Transport and communication, census/demography refinement
+
+
+
+English
+
+
+Tier
+Topics
+
+Tier 1
+Tenses, articles, prepositions, modals, clauses
+
+Tier 1
+Active/passive voice, narration, jumbled sentences
+
+Tier 1
+Comprehension blanks using pronouns, phrases, homonyms/homophones
+
+Tier 2
+Synonyms, antonyms, idioms, phrases, pairs of words
+
+
+
+Statistics
+
+
+Tier
+Topics
+
+Tier 1
+Data types, collection methods, questionnaires, tabulation
+
+Tier 1
+Measures of central tendency
+
+Tier 1
+Probability and attributes
+
+Tier 1
+Index numbers, WPI, CPI
+
+Tier 1
+Demography, census, vital statistics, fertility and mortality measures
+
+
+
+Mathematics
+
+
+Tier
+Topics
+
+Tier 1
+SI/CI, linear equations, sets, relations/functions
+
+Tier 1
+Probability, permutations and combinations
+
+Tier 2
+Binomial theorem
+
+Tier 2
+Matrices and determinants
+
+Tier 2
+Limits and derivatives
+
+Tier 2
+Coordinate geometry, 3D geometry, vectors
+
+
+
+Economics
+
+
+Tier
+Topics
+
+Tier 1
+Basic concepts and principles
+
+Tier 1
+Demand analysis, consumer demand using indifference curve
+
+Tier 1
+Production, factor pricing, marginal productivity, Ricardian rent
+
+Tier 1
+Market forms
+
+Tier 1
+Fiscal policy, monetary policy, RBI
+
+Tier 2
+Developing economy, planning vs market economy, reforms
+
+Tier 2
+National income, growth and measurement
+
+
+
+Science
+
+
+Tier
+Topics
+
+Tier 1
+Motion, mass, weight, acceleration, velocity, speed
+
+Tier 1
+Electric current, power, energy, voltage
+
+Tier 1
+Nutrition, respiration, plant transport, diseases, vitamins
+
+Tier 1
+Ecosystem, food chains, food webs, pollution, ozone, greenhouse effect
+
+Tier 2
+Chemical equations, metals/non-metals
+
+Tier 2
+Conventional and non-conventional energy sources
+
+
+
+Computers
+
+
+Tier
+Topics
+
+Tier 1
+Computer basics, components, fundamentals
+
+Tier 1
+Hardware/software, CPU, peripherals, storage media
+
+Tier 1
+Operating system
+
+Tier 1
+MS Word, Excel, Access, PowerPoint, PDF
+
+Tier 1
+Internet, email, virus/antivirus
+
+Tier 2
+Open source technologies, firmware, humanware, IT in governance
+
+
+
+Deliverables
+
+• Completed first pass of all Tier 1 topics.
+• At least partial first pass of Tier 2 topics.
+• Accounting practice notebook with corrected journal, ledger, cash book, BRS, final account problems.
+• Formula sheet for math/statistics.
+• J&K and current affairs recall deck.
+• English grammar transformation sheet.
+• Subject-wise error log.
+
+Exit Criteria
+
+The student must be able to:
+
+1. Solve standard accounting-cycle problems from journal to final accounts.
+2. Attempt J&K and GK factual questions through active recall.
+3. Complete basic English grammar transformation questions.
+4. Solve standard central tendency, probability, index number, and demography formula questions.
+5. Solve high-ROI math topics: SI/CI, equations, sets, relations, probability, P&C basics.
+6. Explain core economics concepts without reading notes.
+7. Attempt computer and science factual-conceptual questions with at least moderate accuracy.
+
+Sequencing Decision
+
+
+Decision
+Why Better Than Syllabus Order
+
+Accounting cycle is taught before audit/PFMS/taxation
+The syllabus lists many accounting topics non-sequentially, but audit and public-finance systems are easier after understanding books of accounts and statements.
+
+Math and statistics probability are paired
+Reduces duplicate learning and improves transfer.
+
+GK environment is paired near science ecology
+Reduces repeated study and improves recall through conceptual linkage.
+
+Economics micro concepts precede macro policy/RBI
+Fiscal and monetary policy make more sense after understanding demand, production, markets, and income concepts.
+
+Computer basics precede MS Office/internet/governance
+Device, OS, hardware/software distinctions are prerequisites for applied computer topics.
+
+
+
+───
+
+5. Phase 3 — Consolidation
+
+Objective
+
+Connect isolated learning into exam-ready subject structures.
+
+
+Component
+Details
+
+Duration
+1 week
+
+Approx. Hours
+28–35 hrs
+
+Intensity
+High but less new content
+
+Primary Learning Methods
+Interleaving, retrieval practice, deliberate practice, error analysis
+
+Tier Focus
+Tier 1 complete; Tier 2 selective strengthening
+
+
+
+Topics
+
+
+Tier
+Topics
+
+Tier 1
+Full accounting cycle integration
+
+Tier 1
+J&K + GK mixed recall
+
+Tier 1
+English grammar mixed drills
+
+Tier 1
+Statistics formula applications
+
+Tier 1
+Math high-ROI mixed practice
+
+Tier 1
+Economics core concept comparison
+
+Tier 1
+Science and computer rapid recall
+
+Tier 2
+Partnership, audit, PFMS, cost, taxation; advanced math; science chemistry/energy; economics reforms/national income
+
+
+
+Deliverables
+
+• One-page summary for each subject.
+• Error log categorized into: concept error, memory error, calculation error, speed error.
+• Mixed practice sets for every subject.
+• Accounting integrated problem set completed.
+
+Exit Criteria
+
+• Student can move between subjects without needing full re-teaching.
+• Repeated errors are identified.
+• Tier 1 syllabus is structurally complete.
+• Tier 2 weak areas are ranked for selective revision.
+
+Sequencing Decision
+
+Consolidation comes before First Revision because revision without integration becomes passive rereading. The student first needs to see how subtopics connect, especially in accounting, statistics, economics, and GK-science overlaps.
+
+───
+
+6. Phase 4 — First Revision
+
+Objective
+
+Run the first complete recall cycle before heavy exam-style practice.
+
+
+Component
+Details
+
+Duration
+1 week
+
+Approx. Hours
+28–35 hrs
+
+Intensity
+Moderate-high
+
+Primary Learning Methods
+Active recall, spaced repetition, Feynman Technique, error-log recall
+
+Tier Focus
+Tier 1 full revision; Tier 2 compressed revision
+
+
+
+Topics
+
+
+Tier
+Topics
+
+Tier 1
+All Critical and High topics from Stage 1
+
+Tier 2
+Medium topics revised through summary sheets and selected practice
+
+Low Tier 2
+Only formula/definition-level review unless already strong
+
+
+
+Deliverables
+
+• First full revision completed.
+• Accounting formats rewritten from memory.
+• Formula sheets recalled without notes.
+• J&K Act and J&K GK recall test.
+• English grammar rules retested.
+• Computer/science/economics one-page recall sheets.
+
+Exit Criteria
+
+• At least 70–75% accuracy in Tier 1 practice sets.
+• No foundational accounting confusion remains.
+• Formula recall is functional.
+• Error log shows fewer repeated basic errors.
+
+Sequencing Decision
+
+First Revision is placed before PYQs because exam-style questions should diagnose application gaps, not basic memory gaps. If PYQs are attempted too early, they become discouraging and less diagnostic.
+
+───
+
+7. Phase 5 — PYQs / Exam-style Practice
+
+Note: The official syllabus states objective-type written test, but no PYQ set is included in the prompt. Therefore, “PYQs” here means previously available or exam-style objective questions if the student has access to them. If actual PYQs are unavailable, use syllabus-aligned objective practice sets.
+
+Objective
+
+Translate subject knowledge into objective-question performance.
+
+
+Component
+Details
+
+Duration
+1 week
+
+Approx. Hours
+28–35 hrs
+
+Intensity
+High
+
+Primary Learning Methods
+Retrieval practice, deliberate practice, progressive difficulty, error analysis
+
+Tier Focus
+Tier 1 dominant; Tier 2 sampled
+
+
+
+Topics
+
+
+Tier
+Topics
+
+Tier 1
+Accounting, J&K GK, J&K Act, current affairs, English grammar, core quant/stat/econ/science/computer
+
+Tier 2
+Sampled according to error frequency and remaining marks potential
+
+
+
+Deliverables
+
+• Subject-wise objective practice sets.
+• Daily timed mini-tests.
+• Error log updated with exact reason for wrong answers.
+• “Do-not-repeat” list for calculation, grammar, and accounting mistakes.
+
+Exit Criteria
+
+• Tier 1 accuracy reaches 75–80%.
+• Accounting mistakes become procedural rather than conceptual.
+• Time pressure no longer causes large accuracy drops.
+• Student can identify skip/attempt strategy.
+
+Sequencing Decision
+
+PYQ/exam-style practice comes after first revision because the learner now has enough memory strength to benefit from testing. A weightage-first alternative would put accounting/GK tests earlier, but that would under-diagnose smaller subjects and reduce full-exam balance.
+
+───
+
+8. Phase 6 — Mock Tests
+
+Objective
+
+Develop 2-hour test endurance, speed control, and final exam strategy.
+
+
+Component
+Details
+
+Duration
+1 week
+
+Approx. Hours
+28–35 hrs
+
+Intensity
+High
+
+Primary Learning Methods
+Full retrieval practice, timed simulation, error analysis, interleaving
+
+Tier Focus
+Tier 1 complete; Tier 2 through mixed mocks
+
+
+
+Mock Cadence
+
+
+Day Type
+Work
+
+Mock Day
+1 full 120-mark, 2-hour mock + analysis
+
+Non-Mock Day
+Targeted repair + timed subject sets
+
+Final Mock Week Goal
+3 full mocks minimum, 4 if recovery allows
+
+
+
+Topics
+
+
+Tier
+Topics
+
+Tier 1
+All Critical and High topics under timed conditions
+
+Tier 2
+All Medium topics sampled in mixed mocks
+
+Low Tier 2
+Attempt selectively after securing Tier 1 accuracy
+
+
+
+Deliverables
+
+• Mock score tracker.
+• Sectional accuracy tracker.
+• Time-per-section observation.
+• Top 20 recurring errors list.
+• Final attempt strategy.
+
+Exit Criteria
+
+• Stable mock performance across at least 3 mocks.
+• No single subject collapses under time pressure.
+• Accounting and GK accuracy stabilize.
+• Error log becomes smaller, not larger.
+
+Sequencing Decision
+
+Full mocks are not placed at the beginning because a zero-background learner would generate noisy failure data. Mocks become useful only after first learning, consolidation, and revision.
+
+───
+
+9. Phase 7 — Weak-Area Improvement
+
+Objective
+
+Repair the highest-score-loss areas identified from PYQs and mocks.
+
+
+Component
+Details
+
+Duration
+4–5 days
+
+Approx. Hours
+18–25 hrs
+
+Intensity
+Targeted high intensity
+
+Primary Learning Methods
+Deliberate practice, error analysis, Feynman Technique
+
+Tier Focus
+Tier 1 weaknesses first; Tier 2 only if cheap marks remain
+
+
+
+Repair Priority
+
+
+Priority
+Weakness Type
+Action
+
+1
+Accounting cycle/final accounts errors
+Re-solve core formats and transaction classifications
+
+2
+J&K Act/J&K GK memory gaps
+Active recall and rapid testing
+
+3
+Formula confusion in statistics/math
+Formula recall + 20–30 targeted problems
+
+4
+English transformation errors
+Rule correction + sentence drills
+
+5
+Computer/science factual misses
+Flash recall
+
+6
+Low-yield advanced math
+Repair only if Tier 1 is stable
+
+
+
+Deliverables
+
+• Final error-log repair sheet.
+• Re-attempted wrong questions.
+• Compact formula/fact sheets.
+• One final targeted subject test for each weak area.
+
+Exit Criteria
+
+• Repeated mistakes reduced.
+• Weak areas no longer determine score ceiling.
+• Student knows which question types to skip quickly.
+
+Sequencing Decision
+
+Weak-area improvement follows mocks because it must be evidence-based. Repairing weaknesses before enough timed data is available risks spending time on perceived rather than actual weaknesses.
+
+───
+
+10. Phase 8 — Final Revision
+
+Objective
+
+Maximize recall stability and prevent last-stage score leakage.
+
+
+Component
+Details
+
+Duration
+3–4 days
+
+Approx. Hours
+12–20 hrs
+
+Intensity
+Moderate; no heavy new learning
+
+Primary Learning Methods
+Spaced repetition, active recall, retrieval practice
+
+Tier Focus
+Tier 1 almost entirely; Tier 2 only quick sheets
+
+
+
+Topics
+
+
+Tier
+Topics
+
+Tier 1
+Accounting formats, J&K Act, J&K GK, current affairs, grammar rules, formulas, computer/science/economics core facts
+
+Tier 2
+Rapid review of medium-priority notes
+
+Low Tier 2
+Only if already prepared; no new deep study
+
+
+
+Deliverables
+
+• Final formula sheet recalled.
+• Final accounting format recall.
+• Final J&K and current affairs rapid test.
+• Final grammar rule scan.
+• Mock strategy fixed.
+
+Exit Criteria
+
+• No new topics introduced.
+• Error log reviewed.
+• Student has final section order and time strategy.
+• Sleep/recovery protected before exam.
+
+Sequencing Decision
+
+Final Revision is placed after Weak-Area Improvement because it should stabilize already-repaired material, not discover new problems.
+
+───
+
+11. Revision Strategy
+
+Revision Structure
+
+
+Revision Type
+When Used
+Method
+Topics
+
+Same-day recall
+Daily
+10–15 min closed-book recall
+New concepts learned that day
+
+24-hour review
+Next day
+Short quiz or rewrite from memory
+Accounting rules, formulas, GK facts, grammar rules
+
+3–4 day spaced review
+Twice weekly
+Mixed recall cards + mini-test
+GK, J&K Act, computers, science, formulas
+
+Weekly cumulative review
+End of each week
+Mixed subject test + error log
+All subjects studied that week
+
+First full revision
+Phase 4
+Subject-wise active recall
+Tier 1 + selected Tier 2
+
+Final revision
+Phase 8
+Error log + formula/fact sheets
+Tier 1 dominant
+
+
+
+Learning Methods Integrated
+
+
+Method
+Actual Use
+
+Active Recall
+Daily closed-book recall of rules, formulas, facts, formats
+
+Retrieval Practice
+Timed questions and mini-tests
+
+Spaced Repetition
+J&K, current affairs, formulas, English rules, computer/science facts
+
+Interleaving
+Mixed subject practice after foundations
+
+Deliberate Practice
+Targeted correction of repeated accounting/math/statistics errors
+
+Feynman Technique
+Explain accounting equation, final accounts, economics concepts, probability logic
+
+Error Analysis
+Daily error log classified by cause
+
+Progressive Difficulty
+Concept examples → standard questions → mixed timed sets → mocks
+
+
+
+───
+
+12. Practice Strategy
+
+Practice Progression
+
+
+Stage
+Practice Type
+Purpose
+
+Foundation
+Untimed basic drills
+Build correctness
+
+Core Learning
+Topic-wise practice
+Develop procedural skill
+
+Consolidation
+Mixed topic sets
+Improve transfer
+
+First Revision
+Closed-book recall + practice
+Strengthen memory
+
+PYQ/Exam-style
+Objective timed sets
+Build exam pattern response
+
+Mock Phase
+Full-length simulation
+Build speed and stamina
+
+Weak Repair
+Targeted re-practice
+Eliminate repeated errors
+
+Final Revision
+Light recall tests
+Prevent forgetting
+
+
+
+Subject-wise Practice Emphasis
+
+
+Subject
+Practice Style
+
+Accountancy
+Written procedural problems; journal-to-final-account integration
+
+GK/J&K
+Flash recall, MCQs, map/fact clustering
+
+English
+Grammar transformations, fill-in blanks, sentence rearrangement
+
+Statistics
+Formula application and concept distinction
+
+Mathematics
+Problem selection, accuracy, shortcut only after understanding
+
+Economics
+Concept comparison and MCQs
+
+Science
+Concept-fact recall and basic application
+
+Computers
+Terminology and application-based MCQs
+
+
+
+───
+
+13. Mock Test Strategy
+
+Cadence
+
+
+Phase
+Mock/Test Type
+Frequency
+
+Foundation
+No full mocks
+Only short quizzes
+
+Core Learning
+Topic tests
+3–4 per week
+
+Consolidation
+Sectional mixed tests
+4–5 per week
+
+First Revision
+Half-length or sectional tests
+2–3 in week
+
+PYQ/Exam-style
+Timed sets
+Daily
+
+Mock Tests
+Full mocks
+3–4 in week
+
+Weak Improvement
+Targeted tests
+Daily, short
+
+Final Revision
+Optional light mock only if stamina weak
+Avoid heavy overload
+
+
+
+Mock Analysis Template
+
+After each mock:
+
+1. Total score.
+2. Subject-wise score.
+3. Attempted vs correct.
+4. Wrong due to: 
+◦ concept gap,
+◦ memory gap,
+◦ calculation error,
+◦ misreading,
+◦ time pressure,
+◦ over-attempt.
+5. Top 5 repair tasks before next mock.
+
+───
+
+14. Milestones
+
+
+Milestone
+Target Point
+Evidence of Completion
+
+M1: Foundations stable
+End of Week 2
+Basic accounting, grammar, J&K, computer, quant base functional
+
+M2: Accounting cycle learned
+Mid-Core Phase
+Journal, ledger, cash book, BRS, trial balance understood
+
+M3: Tier 1 syllabus first pass complete
+End of Core Phase
+Critical + High topics covered once
+
+M4: Integrated recall ready
+End of Consolidation
+Mixed subject practice possible
+
+M5: First revision complete
+End of Phase 4
+Tier 1 accuracy around 70–75%
+
+M6: Exam-style readiness
+End of PYQ Phase
+Timed-set accuracy improves; error log narrowed
+
+M7: Mock stability
+End of Mock Phase
+3 full mocks analyzed
+
+M8: Final readiness
+End of Final Revision
+No new learning needed; recall sheets stable
+
+
+
+───
+
+15. Risk Assessment
+
+
+Risk
+Likelihood
+Impact
+Early Warning
+Repair
+
+Accounting takes longer than estimated
+High
+High
+Journal/ledger/final accounts errors repeat
+Temporarily reduce low-yield advanced math and Tier 2 GK depth
+
+Factual overload in GK/J&K
+High
+High
+Good reading, poor recall
+Convert to daily active recall cards and weekly GK tests
+
+Math consumes disproportionate time
+Medium
+Medium
+Advanced geometry/calculus delays other subjects
+Cap low-priority math; secure SI/CI, equations, probability, P&C first
+
+Revision postponed
+Medium
+High
+Student keeps learning new topics but forgets old ones
+Mandatory daily and weekly recall blocks
+
+Mock scores fluctuate
+Medium
+High
+Different weak subject each mock
+Analyze by error type, not emotion; repair top repeated causes
+
+Tier 2 crowds Tier 1
+Medium
+High
+Easy low-yield topics feel productive
+Tier 1 accuracy threshold must be met before Tier 2 expansion
+
+Current affairs decay
+Medium
+Medium
+Cannot recall recent facts
+Daily short recall, not long weekly cram
+
+Exam date announced suddenly
+Unknown
+High
+Less than 1 month left
+Activate Tier 1 compression plan
+
+
+
+───
+
+16. Stress-Test Results and Repairs
+
+Scenario A: Student misses one full week
+
+
+Problem
+Repair
+
+Full 314-hour plan loses 28–35 hours
+Remove or compress Low Tier 2 first: advanced geometry, 3D geometry, vectors, deep vocabulary expansion, low-yield computer refinements
+
+Risk to accounting
+Protect accounting foundations, accounting cycle, final accounts
+
+Risk to mocks
+Keep at least 2 full mocks and error analysis
+
+
+
+Result: Tier 1 remains coherent.
+
+───
+
+Scenario B: One major topic takes much longer than estimated
+
+Most likely topic: Accountancy final accounts / accounting cycle.
+
+
+Repair
+
+Add extra accounting practice hours by cutting low-priority advanced math and deep Tier 2 GK.
+
+Preserve J&K, English grammar, computers, statistics core because they are efficient scoring areas.
+
+Do not advance to audit/PFMS/taxation until accounting cycle is stable.
+
+
+
+Result: Prerequisite integrity is preserved.
+
+───
+
+Scenario C: Student progresses faster than expected
+
+
+Use Extra Time For
+
+More accounting mixed problems
+
+Extra J&K Act and J&K GK recall
+
+Additional full mock and analysis
+
+Tier 2 expansion: partnership, cost accounting, taxation, national income, reforms, chemistry, energy, advanced math basics
+
+
+
+Result: Extra time improves score without disturbing sequence.
+
+───
+
+Scenario D: Exam horizon becomes meaningfully shorter than 1 month
+
+Activate Tier 1 emergency plan.
+
+
+Keep
+Reduce / Skip
+
+Accounting foundations, journal, ledger, cash book, BRS, trial balance, final accounts
+Deep partnership, cost accounting, taxation, accounting developments
+
+J&K GK and J&K Reorganisation Act
+Broad generic culture and low-frequency GK
+
+Current affairs
+Excessive static expansion
+
+English grammar and transformations
+Deep vocabulary expansion
+
+Statistics central tendency, probability, index numbers, demography
+Low-frequency theory refinements
+
+Math SI/CI, equations, sets, probability, P&C basics
+Limits, derivatives, 3D geometry, vectors beyond basics
+
+Economics basics, demand, production, markets, policy, RBI
+Deep theory refinements
+
+Science physics basics, biology health, ecology/pollution
+Lower-priority chemistry/energy details
+
+Computers basics, OS, MS Office, internet/email, virus
+Governance refinements
+
+At least 1–2 full mocks
+Excessive new learning
+
+
+
+Result: Tier 1 alone remains an exam-ready subplan because it includes all phases: foundation, core learning, revision, exam-style practice, mock, weak repair, and final revision.
+
+───
+
+17. Compressed Tier 1 Structure if Needed
+
+
+Phase
+Tier 1 Compression
+
+Foundation
+Accounting base, grammar base, J&K base, computer base
+
+Core Learning
+Accounting cycle, J&K Act, English grammar, core quant/stat/econ/science/computer
+
+Consolidation
+Mixed Tier 1 practice only
+
+First Revision
+Tier 1 recall sheets
+
+PYQs / Exam-style
+Timed Tier 1-heavy objective sets
+
+Mock Tests
+1–2 full mocks minimum
+
+Weak Improvement
+Only repeated high-loss errors
+
+Final Revision
+Accounting formats, J&K, formulas, grammar, computer/science facts
+
+
+
+───
+
+18. Stage 2 Summary
+
+The roadmap uses eight phases: Foundation, Core Learning, Consolidation, First Revision, PYQ/exam-style practice, Mock Tests, Weak-Area Improvement, and Final Revision. The sequence is dependency-driven rather than syllabus-order-driven: accounting foundations precede the accounting cycle and final accounts; grammar rules precede transformations; quantitative basics precede statistics/math applications; factual GK is spaced throughout. Revision begins from the first week, practice progresses from untimed drills to mixed timed sets, and mocks are concentrated only after enough syllabus coverage for the results to be diagnostic. Tier 1 remains a coherent emergency plan if the timeline shortens.
+
+Stage 3 — Execution Calendar
+Part 1: Phase 1 — Foundation
+Weeks 1–2
+
+Cross-Stage Tracking Before Stage 3
+
+
+Item
+Status
+
+Stage 1 total estimated hours
+314 hours
+
+Daily capacity
+4–5 hours/day
+
+Current phase
+Phase 1 — Foundation
+
+Current week position
+Week 1 of estimated 9–11 weeks
+
+Completed hours before this stage
+0
+
+Remaining estimated hours
+314
+
+Revision cycle active?
+Yes — same-day recall + 24-hour recall from Day 2
+
+Mock-test frequency
+No full mocks yet; only micro-quizzes
+
+Tier structure
+Tier 1 protected first; Tier 2 added only where low-cost
+
+
+
+───
+
+Phase 1 — Foundation
+
+Phase Entry Dependency Check
+
+
+Required Before Starting
+Status
+
+Full syllabus confirmed
+Met
+
+Subject-level marks known
+Met
+
+Learner assumed complete beginner
+Met
+
+No prior accounting knowledge assumed
+Met
+
+Dependency map established
+Met
+
+
+
+Result: Phase 1 can begin.
+
+───
+
+Phase 1 Objective
+
+Build the minimum conceptual base for:
+
+1. Accounting cycle learning.
+2. Quantitative topics in mathematics/statistics.
+3. English grammar applications.
+4. J&K-heavy GK recall.
+5. Computer terminology.
+6. Daily retention habit.
+
+───
+
+Week 1 — Foundation Start
+
+Weekly target hours: about 31–33 hours
+Primary focus: Accounting language, J&K base, grammar rules, computer basics, arithmetic support.
+Tier emphasis: Mostly Tier 1.
+
+───
+
+Day 1 — Accounting Language + J&K Orientation
+
+
+Block
+Work
+
+Duration
+4.5 hours
+
+Relative Difficulty
+High for accounting; medium overall
+
+Tier
+Tier 1
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Accountancy
+Meaning of accounting; accounting vs bookkeeping; users of accounting information; business entity concept; money measurement concept; accounting period concept
+75 min
+
+Accountancy
+Basic terms: asset, liability, capital, drawings, income, expense, debtor, creditor, transaction
+45 min
+
+GK — J&K
+J&K UT orientation: location, divisions, districts conceptually, major physical regions, broad geography vocabulary
+45 min
+
+English
+Sentence structure basics: subject, verb, object; finite verb; tense idea; present/past/future overview
+40 min
+
+Computers
+Computer meaning; data vs information; hardware vs software; input-process-output-storage cycle
+35 min
+
+Revision
+Closed-book recall: define 15 accounting terms; draw J&K region outline from memory; explain IPO cycle
+30 min
+
+
+
+Practice Work
+
+• Write 20 accounting term definitions in your own words.
+• Classify 20 examples as asset/liability/income/expense/capital.
+• Create 10 computer flashcards.
+• Make 10 J&K geography recall prompts.
+
+Revision Work
+
+• Same-day recall, closed book: 
+◦ “What is accounting?”
+◦ “What is the difference between asset and expense?”
+◦ “What are the major physical regions of J&K?”
+
+───
+
+Day 2 — Accounting Equation + Grammar Base
+
+
+Block
+Work
+
+Duration
+4.5 hours
+
+Relative Difficulty
+High
+
+Tier
+Tier 1
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Accountancy
+Accounting equation: Assets = Liabilities + Capital; effect of capital introduced; effect of purchase, sale, expense, income, drawings
+90 min
+
+Accountancy
+Classification rules: personal, real, nominal account idea introduced only intuitively
+40 min
+
+Mathematics
+Percentage basics; increase/decrease; percentage to fraction/decimal conversion; base-value identification
+45 min
+
+English
+Present tense: simple present, present continuous, present perfect; common error patterns
+45 min
+
+GK — J&K
+J&K geography: rivers, lakes, climate zones, crops — first overview
+35 min
+
+Revision
+24-hour recall from Day 1 + same-day accounting equation recall
+35 min
+
+
+
+Practice Work
+
+• Solve 25 accounting equation effect questions.
+• Solve 20 percentage conversion questions.
+• Write 15 present-tense fill-in-the-blank sentences.
+• Recall 10 J&K geography facts.
+
+Revision Work
+
+• Reproduce accounting equation effects without notes.
+• Explain to yourself: “Why does every transaction affect at least two elements?”
+
+───
+
+Day 3 — Debit/Credit Logic + Articles/Prepositions
+
+
+Block
+Work
+
+Duration
+4.25–4.5 hours
+
+Relative Difficulty
+High
+
+Tier
+Tier 1
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Accountancy
+Debit/credit meaning; rules for assets, liabilities, capital, income, expenses; increase/decrease logic
+90 min
+
+Accountancy
+Five-account classification: assets, liabilities, capital, revenue, expenses
+35 min
+
+English
+Articles: a/an/the; zero article; common exam traps
+35 min
+
+English
+Prepositions of time, place, movement; common fixed prepositions
+35 min
+
+Computers
+Input devices, output devices, storage devices; examples and distinctions
+35 min
+
+GK — Current Events
+Current events recall method: national, international, J&K, economy, science/tech categories
+25 min
+
+Revision
+Debit/credit active recall + Day 2 percentage/tense review
+35 min
+
+
+
+Practice Work
+
+• Classify 40 items by debit/credit effect.
+• Make a table: account type → increase side → decrease side.
+• 25 article/preposition questions.
+• 20 computer device classification questions.
+
+Revision Work
+
+• Feynman check: explain debit and credit without using the word “left/right” only.
+• Recall 5 current affairs categories and create slots for daily tracking.
+
+───
+
+Day 4 — Journal Entry Foundation
+
+
+Block
+Work
+
+Duration
+4.5–4.75 hours
+
+Relative Difficulty
+High
+
+Tier
+Tier 1
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Accountancy
+Journal meaning; format; date, particulars, ledger folio, debit, credit; narration
+45 min
+
+Accountancy
+Simple journal entries: capital introduced, cash purchase, credit purchase, cash sale, credit sale, rent paid, salary paid, commission received
+90 min
+
+Mathematics
+Simple interest: principal, rate, time, interest, amount; direct formula use
+45 min
+
+GK — J&K
+J&K history overview: ancient-medieval-modern framing; no deep memorization yet
+35 min
+
+English
+Past tense: simple past, past continuous, past perfect; tense selection signals
+35 min
+
+Revision
+Day 1–3 accounting term + debit/credit recall
+35 min
+
+
+
+Practice Work
+
+• Write 25 simple journal entries with narration.
+• Solve 20 simple interest questions.
+• 15 past-tense fill-in questions.
+• Make a J&K history timeline skeleton.
+
+Revision Work
+
+• Correct journal entries in red: identify whether error is account selection, debit/credit side, or amount.
+
+───
+
+Day 5 — Journal Practice + Computer Fundamentals
+
+
+Block
+Work
+
+Duration
+4.5 hours
+
+Relative Difficulty
+Medium-high
+
+Tier
+Tier 1
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Accountancy
+Journal entries involving drawings, goods withdrawn, expenses outstanding/basic payable idea, income received
+80 min
+
+Accountancy
+Compound journal entry idea: one debit/multiple credits or multiple debits/one credit
+35 min
+
+Computers
+CPU, memory, primary vs secondary storage, RAM, ROM, hard disk/SSD, cache idea
+45 min
+
+Statistics
+Data meaning; primary vs secondary data; qualitative vs quantitative data
+35 min
+
+English
+Future tense: will/shall, going to, future continuous, future perfect basic usage
+35 min
+
+GK — J&K
+J&K economy overview: agriculture, tourism, handicrafts, services, public sector orientation
+35 min
+
+Revision
+24-hour review of journal format + SI + tenses
+40 min
+
+
+
+Practice Work
+
+• 30 journal entries, including 5 compound entries.
+• 20 computer memory/device MCQs.
+• Classify 20 examples as primary/secondary or qualitative/quantitative data.
+• 15 future tense questions.
+
+Revision Work
+
+• Rewrite journal format from memory.
+• Recall RAM vs ROM vs storage without notes.
+
+───
+
+Day 6 — First Weekly Integration
+
+
+Block
+Work
+
+Duration
+4.75–5 hours
+
+Relative Difficulty
+High
+
+Tier
+Tier 1
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Accountancy
+Mixed review: terms, equation, debit/credit, simple journal entries
+90 min
+
+Mathematics
+Linear equation basics: variable, coefficient, constant; solving one-step and two-step equations; introduce two-variable equation idea
+45 min
+
+English
+Mixed tense drill: present/past/future contrast; time markers
+40 min
+
+GK — J&K
+J&K geography + economy recall: rivers, crops, climate, tourism, economic sectors
+40 min
+
+Computers
+Hardware/software distinction; system software vs application software
+35 min
+
+Weekly Test
+40-question mixed foundation quiz: accounting 15, English 8, GK 7, computers 5, quant 5
+45 min
+
+Error Analysis
+Categorize errors: concept, memory, carelessness, calculation
+25 min
+
+
+
+Practice Work
+
+• 20 mixed journal entries.
+• 15 linear equation questions.
+• 25 mixed English grammar questions.
+• 40-question weekly quiz.
+
+Revision Work
+
+• Create first weekly error log.
+• Mark top 5 errors to revisit on Day 7.
+
+───
+
+Day 7 — Light Revision + Recovery Consolidation
+
+
+Block
+Work
+
+Duration
+3.75–4 hours
+
+Relative Difficulty
+Low-medium
+
+Tier
+Tier 1
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Accountancy
+Reattempt wrong journal/equation/debit-credit questions from Week 1
+60 min
+
+GK — J&K
+Active recall: J&K geography, economy, history skeleton, tourist destinations first list
+45 min
+
+English
+Articles, prepositions, tense mixed correction
+40 min
+
+Computers
+CPU, memory, hardware/software, I/O device recall
+30 min
+
+Current Events
+7-day current affairs summary cards: national, international, J&K, economy, science/tech
+30 min
+
+Reflection
+Update error log; identify weak accounting rule and weak grammar rule
+25 min
+
+Preview
+Preview ledger idea: journal as book of original entry, ledger as classified account
+20 min
+
+
+
+Practice Work
+
+• Reattempt only wrong questions from Week 1.
+• 20 rapid GK/computer recall prompts.
+• 20 grammar correction questions.
+
+Revision Work
+
+• No new heavy learning.
+• Close the week by recalling: 
+◦ 10 accounting terms,
+◦ 5 debit/credit rules,
+◦ 10 J&K facts,
+◦ 5 computer terms.
+
+───
+
+Week 1 Completion Check
+
+
+Competency
+Required Status
+
+Accounting terms understood
+Should be functional
+
+Accounting equation
+Should be usable for simple transactions
+
+Debit/credit rules
+Should be memorized and partly applied
+
+Simple journal entries
+Should be possible with errors decreasing
+
+English tense/article/preposition basics
+First pass complete
+
+J&K base
+First recall layer created
+
+Computer basics
+First pass complete
+
+Error log
+Started
+
+
+
+If these are not met, Week 2 should begin with an extra 60–90 minutes of accounting repair before new ledger work.
+
+───
+
+Week 2 — Foundation Completion
+
+Weekly target hours: about 31–33 hours
+Primary focus: Move from journal to ledger readiness; strengthen grammar, quant, J&K, computers, and data basics.
+Tier emphasis: Tier 1, with very light Tier 2 exposure.
+
+───
+
+Phase Entry Check for Week 2
+
+
+Required from Week 1
+Status Needed
+
+Accounting equation usable
+Required
+
+Debit/credit rules known
+Required
+
+Simple journal entries attempted
+Required
+
+Basic percentage and SI understood
+Required
+
+Grammar basics started
+Required
+
+J&K recall system started
+Required
+
+
+
+If not met: spend the first block of Day 8 repairing weak accounting rules before ledger introduction.
+
+───
+
+Day 8 — Ledger Concept Begins
+
+
+Block
+Work
+
+Duration
+4.5 hours
+
+Relative Difficulty
+High
+
+Tier
+Tier 1
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Accountancy
+Ledger meaning; journal vs ledger; account format; posting from journal to ledger
+60 min
+
+Accountancy
+Ledger posting for cash, capital, purchases, sales, rent, salary, debtor, creditor accounts
+75 min
+
+English
+Modals: can, could, may, might, must, should, ought to; meaning differences
+40 min
+
+Mathematics
+Compound interest idea; amount formula; annual compounding; difference between SI and CI
+45 min
+
+GK — J&K
+J&K culture and heritage: languages, festivals, crafts, cultural regions
+35 min
+
+Revision
+Week 1 accounting recall + tense/article/preposition flash test
+35 min
+
+
+
+Practice Work
+
+• Post 15 journal entries into ledger accounts.
+• Solve 15 SI vs CI comparison questions.
+• 20 modal usage questions.
+• Make 15 J&K culture flashcards.
+
+Revision Work
+
+• Explain: “Why is ledger called a classified book?”
+• Recheck ledger balancing is not yet required unless introduced.
+
+───
+
+Day 9 — Ledger Practice + Statistics Collection Methods
+
+
+Block
+Work
+
+Duration
+4.5–4.75 hours
+
+Relative Difficulty
+High
+
+Tier
+Tier 1
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Accountancy
+Ledger posting from compound journal entries; balancing simple ledger accounts
+90 min
+
+Statistics
+Methods of collecting primary data: direct personal investigation, indirect oral investigation, schedules, questionnaires
+40 min
+
+Statistics
+Secondary data sources; precautions in using secondary data
+25 min
+
+English
+Clauses: main clause, subordinate clause, noun/adjective/adverb clause basic recognition
+40 min
+
+Computers
+Operating system: meaning, functions, examples; user interface; file management
+40 min
+
+Revision
+24-hour ledger + CI review
+35 min
+
+
+
+Practice Work
+
+• 20 ledger posting questions.
+• Balance 8 simple ledger accounts.
+• Create a table: primary vs secondary data methods.
+• 20 clause-identification questions.
+• 15 OS MCQs.
+
+Revision Work
+
+• Reattempt 5 ledger mistakes immediately.
+• Recall primary data methods without notes.
+
+───
+
+Day 10 — Trial Balance Preview + English Core Review
+
+
+Block
+Work
+
+Duration
+4.25–4.5 hours
+
+Relative Difficulty
+Medium-high
+
+Tier
+Tier 1
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Accountancy
+Ledger balance idea; debit balance vs credit balance; trial balance meaning introduced conceptually
+60 min
+
+Accountancy
+Relationship: journal → ledger → trial balance
+45 min
+
+English
+Mixed grammar: tense, articles, prepositions, modals, clauses
+60 min
+
+GK — J&K Act
+J&K Reorganisation Act orientation: why enacted, UT structure, broad administrative consequence; no deep section memorization yet
+45 min
+
+Science
+Motion basics: rest/motion, distance/displacement, speed/velocity, acceleration
+35 min
+
+Revision
+Ledger recall + data collection recall
+30 min
+
+
+
+Practice Work
+
+• Prepare trial balance from 10 simple ledger balances.
+• 30 mixed grammar questions.
+• 10 motion concept questions.
+• 10 J&K Act recall prompts.
+
+Revision Work
+
+• Draw accounting flow from memory.
+• Explain speed vs velocity in one sentence each.
+
+───
+
+Day 11 — Quant Foundation + Computer Components
+
+
+Block
+Work
+
+Duration
+4.5 hours
+
+Relative Difficulty
+Medium
+
+Tier
+Tier 1
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Mathematics
+Linear equations with two variables: ordered pair, solution pair, checking solution, simple substitution
+60 min
+
+Mathematics
+Set theory basics: set notation, element, subset, union, intersection, complement
+45 min
+
+Computers
+Peripherals; storage media; firmware; humanware; distinction among hardware/software/firmware/humanware
+45 min
+
+Economics
+Introduction to economics: scarcity, choice, wants, utility, goods, services, micro vs macro
+40 min
+
+GK
+Current events recall + J&K geography revision
+35 min
+
+Revision
+Trial balance concept + grammar weak-rule review
+35 min
+
+
+
+Practice Work
+
+• 20 two-variable solution-check questions.
+• 20 set notation questions.
+• 20 computer classification MCQs.
+• 15 economics definition recall prompts.
+
+Revision Work
+
+• Make one comparison table: 
+◦ hardware vs software,
+◦ firmware vs humanware,
+◦ microeconomics vs macroeconomics.
+
+───
+
+Day 12 — Foundation Accounting Mini-Test
+
+
+Block
+Work
+
+Duration
+4.75–5 hours
+
+Relative Difficulty
+High
+
+Tier
+Tier 1
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Accountancy
+Mini-test: terms, equation, debit/credit, journal, ledger, trial balance concept
+75 min
+
+Accountancy
+Test analysis: account selection error, side error, amount error, format error
+45 min
+
+Statistics
+Questionnaire preparation: objectives, question wording, open/closed questions, bias, sequence
+40 min
+
+English
+Active/passive voice concept: object shift, be + V3, tense preservation
+45 min
+
+GK — J&K
+Tourist destinations: region-wise grouping; tourism and economy connection
+35 min
+
+Science
+Mass, weight, force idea; Newton’s laws overview
+35 min
+
+Revision
+Reattempt accounting errors from mini-test
+25 min
+
+
+
+Practice Work
+
+• 35-question accounting foundation test.
+• Create 10 good and bad questionnaire examples.
+• 20 active/passive basic transformations.
+• 10 Newton’s laws concept questions.
+
+Revision Work
+
+• Error log update: 
+◦ top 3 accounting errors,
+◦ top 2 English errors,
+◦ top 2 factual recall gaps.
+
+───
+
+Day 13 — Foundation Mixed Integration
+
+
+Block
+Work
+
+Duration
+4.75–5 hours
+
+Relative Difficulty
+Medium-high
+
+Tier
+Tier 1
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Accountancy
+Integrated practice: transaction → journal → ledger posting → simple trial balance
+90 min
+
+English
+Passive voice continued; narration concept introduced: direct vs indirect speech, reporting verb, tense backshift idea
+45 min
+
+Mathematics
+Relations and functions basics: ordered pairs, domain, range, relation vs function
+40 min
+
+GK
+J&K history/economy/geography/culture mixed recall
+40 min
+
+Computers
+Computer virus, antivirus, malware concept, prevention, safe email habits
+35 min
+
+Revision
+Week 2 cumulative flash recall
+35 min
+
+
+
+Practice Work
+
+• One full mini-accounting cycle from 12 transactions.
+• 20 passive voice transformations.
+• 15 direct/indirect speech identification questions.
+• 15 relation/function questions.
+• 20 computer security MCQs.
+
+Revision Work
+
+• Reproduce from memory: 
+◦ accounting flow,
+◦ debit/credit rules,
+◦ J&K major geography/culture/economy headings,
+◦ OS and virus definitions.
+
+───
+
+Day 14 — Foundation Checkpoint and Repair Day
+
+
+Block
+Work
+
+Duration
+4–4.5 hours
+
+Relative Difficulty
+Medium
+
+Tier
+Tier 1
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Accounting Check
+Closed-book test: accounting equation, 15 journal entries, 8 ledger postings, 1 simple trial balance
+75 min
+
+English Check
+Tenses, articles, prepositions, modals, clauses, passive voice basics
+45 min
+
+Quant Check
+Percentages, SI/CI basics, linear equations, sets, relations/functions
+45 min
+
+GK/Computer Check
+J&K geography/history/economy/culture/tourism + computer basics/OS/storage/security
+45 min
+
+Error Repair
+Redo only wrong questions; write corrected rule beside each
+45 min
+
+Planning
+Mark readiness for Phase 2 Core Learning
+20 min
+
+
+
+Practice Work
+
+• Foundation checkpoint test: 
+◦ Accounting: 30 marks equivalent.
+◦ English: 20 questions.
+◦ Quant: 20 questions.
+◦ GK/computer: 30 rapid recall questions.
+
+Revision Work
+
+• Build “Phase 2 Carry-Forward Sheet”: 
+◦ 5 weak accounting rules,
+◦ 5 weak GK areas,
+◦ 5 grammar traps,
+◦ 5 formula/quant weaknesses,
+◦ 5 computer/science/economics facts to revisit.
+
+───
+
+Phase 1 Completion Gate
+
+Before moving to Phase 2, the learner must meet these competencies.
+
+
+Competency
+Minimum Required Before Phase 2
+
+Accounting terms
+Can define and identify core terms in transactions
+
+Accounting equation
+Can apply to simple transaction effects
+
+Debit/credit
+Can decide side for assets, liabilities, capital, income, expenses
+
+Journal entries
+Can write simple entries with narration
+
+Ledger
+Can post simple journal entries
+
+Trial balance
+Understands purpose and basic structure
+
+English grammar base
+Tenses, articles, prepositions, modals, clauses first pass complete
+
+Quant base
+Percentage, SI/CI basics, equations, sets, relations/functions first pass complete
+
+J&K recall base
+Geography, history, economy, culture, tourism first recall layer complete
+
+Computers
+Basics, hardware/software, CPU, OS, storage, virus concepts complete
+
+Error log
+Active and categorized
+
+
+
+If the Gate Fails
+
+
+Failed Area
+Repair Before Phase 2
+
+Debit/credit weak
+Add 2 hours before journal/ledger expansion
+
+Journal weak
+Add 2–3 hours of simple and compound entry practice
+
+Ledger weak
+Add 90 minutes of posting practice
+
+Grammar weak
+Keep Phase 2 but add 20-minute daily grammar correction
+
+GK recall weak
+Increase daily J&K recall by 15 minutes
+
+Quant weak
+Delay advanced math; continue basics alongside Phase 2
+
+
+
+───
+
+Stage 3 Progress After Part 1
+
+
+Item
+Hours
+
+Phase 1 planned hours completed
+~62 hours
+
+Cumulative completed hours
+~62 / 314
+
+Estimated remaining hours
+~252
+
+Current position
+End of Week 2
+
+Next phase
+Phase 2 — Core Learning
+
+Revision cycle
+Same-day + 24-hour + weekly cumulative active
+
+Mock frequency
+None yet; topic tests begin in Phase 2
+
+
+
+Stage 3 — Execution Calendar
+Part 2: Phase 2 — Core Learning, Weeks 3–4
+
+Cross-Stage Tracking Before Continuing
+
+
+Item
+Status
+
+Stage 1 total estimated hours
+314 hours
+
+Cumulative hours allocated so far
+~62 hours
+
+Estimated remaining hours
+~252 hours
+
+Current phase
+Phase 2 — Core Learning
+
+Current week position
+Week 3
+
+Revision cycle
+Same-day recall, 24-hour recall, weekly cumulative review
+
+Mock-test frequency
+No full mocks yet; topic tests begin this phase
+
+Tier emphasis
+Tier 1 first; Tier 2 introduced only after prerequisites
+
+
+
+───
+
+Phase 2 — Core Learning
+
+Phase 2 Entry Dependency Check
+
+Before starting Phase 2, these Phase 1 competencies must be available.
+
+
+Required Competency
+Needed For
+Status Assumed
+
+Accounting equation and debit/credit rules
+Journal, ledger, cash book, trial balance
+Met if Phase 1 gate passed
+
+Simple journal entries
+Ledger, cash book, BRS
+Met if Phase 1 gate passed
+
+Ledger posting basics
+Trial balance, final accounts
+Met if Phase 1 gate passed
+
+Basic percentage, SI/CI, equations, sets
+Math/statistics core
+Met if Phase 1 gate passed
+
+Grammar base
+Voice, narration, jumbled sentences, comprehension blanks
+Met if Phase 1 gate passed
+
+J&K base recall
+J&K Act, geography, economy, culture depth
+Met if Phase 1 gate passed
+
+Computer basics
+OS, MS Office, internet/security, IT governance
+Met if Phase 1 gate passed
+
+
+
+Result: Phase 2 can begin.
+ If any accounting prerequisite failed, repair must precede Week 3 Day 15.
+
+───
+
+Week 3 — Core Accounting Cycle Begins
+
+Weekly target hours: about 33–34 hours
+Primary focus: Ledger mastery, cash book, BRS, English transformations, statistics basics, J&K Act, computers.
+Tier emphasis: Strong Tier 1.
+
+───
+
+Day 15 — Ledger Mastery + Cash Book Introduction
+
+
+Block
+Work
+
+Duration
+4.75–5 hours
+
+Relative Difficulty
+High
+
+Tier
+Tier 1
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Accountancy
+Ledger balancing: debit balance, credit balance, carried down/brought down; common posting mistakes
+60 min
+
+Accountancy
+Cash book meaning; cash account vs cash book; single-column cash book format
+60 min
+
+Accountancy
+Single-column cash book entries: opening balance, cash sales, cash purchases, expenses paid, capital introduced, drawings
+45 min
+
+English
+Active/passive voice: simple present, simple past, simple future transformations
+35 min
+
+GK — J&K Act
+J&K Reorganisation Act: UT formation, broad administrative structure, Ladakh separation, legislature idea
+40 min
+
+Revision
+Phase 1 accounting rules + Day 14 weak areas
+35 min
+
+
+
+Practice Work
+
+• Balance 10 ledger accounts.
+• Prepare 1 single-column cash book from 15 transactions.
+• 25 active/passive voice questions.
+• 15 J&K Act recall questions.
+
+Revision Work
+
+• Rewrite cash book format from memory.
+• Error log: separate ledger posting error from balancing error.
+
+───
+
+Day 16 — Double-Column Cash Book + Narration
+
+
+Block
+Work
+
+Duration
+4.75 hours
+
+Relative Difficulty
+High
+
+Tier
+Tier 1
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Accountancy
+Double-column cash book: cash and bank columns; contra entries; cheque received/deposited; cheque issued
+90 min
+
+Accountancy
+Cash book balancing; treatment of bank overdraft conceptually
+35 min
+
+English
+Narration: direct to indirect speech; reporting verb; tense backshift in statements
+45 min
+
+Statistics
+Tabulation: rows, columns, captions, stubs, body, source note; simple table construction
+35 min
+
+Computers
+MS Word: document creation, formatting, alignment, bullets, tables, headers/footers, spelling tools
+35 min
+
+Revision
+24-hour ledger/cash book + J&K Act recall
+35 min
+
+
+
+Practice Work
+
+• Prepare 1 double-column cash book from 20 transactions.
+• 20 narration statement conversions.
+• Construct 2 simple statistical tables.
+• 20 MS Word feature MCQs.
+
+Revision Work
+
+• Identify every contra entry with “C”.
+• Explain why contra entries affect both cash and bank columns.
+
+───
+
+Day 17 — Bank Reconciliation Statement Concept
+
+
+Block
+Work
+
+Duration
+4.75–5 hours
+
+Relative Difficulty
+High
+
+Tier
+Tier 1
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Accountancy
+BRS purpose; cash book balance vs pass book balance; timing differences
+45 min
+
+Accountancy
+Causes of difference: cheques issued not presented, cheques deposited not collected, bank charges, interest allowed/charged, direct deposits, direct payments
+70 min
+
+Accountancy
+BRS starting from cash book balance: add/subtract logic
+45 min
+
+Mathematics
+Probability basics: experiment, outcome, sample space, event, equally likely event
+35 min
+
+GK — J&K
+J&K rivers/lakes/climate/crops detailed recall
+35 min
+
+Revision
+Day 16 double-column cash book + narration recall
+35 min
+
+
+
+Practice Work
+
+• Solve 12 BRS adjustment-direction questions.
+• Prepare 2 basic BRS statements.
+• 15 probability sample-space questions.
+• 20 J&K geography recall prompts.
+
+Revision Work
+
+• Create BRS decision table: 
+◦ start with cash book balance,
+◦ effect of each item,
+◦ add or subtract.
+
+───
+
+Day 18 — BRS Practice + Statistics Central Tendency
+
+
+Block
+Work
+
+Duration
+4.75 hours
+
+Relative Difficulty
+High
+
+Tier
+Tier 1
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Accountancy
+BRS starting from pass book balance; overdraft cases conceptually
+70 min
+
+Accountancy
+Mixed cash book to BRS linkage
+35 min
+
+Statistics
+Mean: arithmetic mean for individual and discrete data; direct formula; interpretation
+45 min
+
+Statistics
+Median: ordered data, odd/even observations, simple discrete median
+30 min
+
+English
+Narration: questions and commands; reporting verbs ask/tell/request/order
+40 min
+
+Revision
+24-hour BRS direction logic + probability basics
+35 min
+
+
+
+Practice Work
+
+• 4 BRS problems: 
+◦ 2 from cash book balance,
+◦ 2 from pass book balance.
+• 15 mean questions.
+• 10 median questions.
+• 20 narration questions/commands.
+
+Revision Work
+
+• Reattempt all BRS errors immediately.
+• Mark BRS errors as: 
+◦ wrong starting point,
+◦ wrong add/subtract,
+◦ missed item,
+◦ arithmetic error.
+
+───
+
+Day 19 — Trial Balance Construction
+
+
+Block
+Work
+
+Duration
+4.75–5 hours
+
+Relative Difficulty
+High
+
+Tier
+Tier 1
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Accountancy
+Trial balance meaning; objectives; debit balances and credit balances; limitations
+45 min
+
+Accountancy
+Preparing trial balance from ledger balances
+70 min
+
+Accountancy
+Common errors: one-sided posting, wrong side, wrong amount, compensating errors; which errors affect trial balance
+45 min
+
+Economics
+Demand meaning, demand schedule, demand curve, individual vs market demand
+35 min
+
+Computers
+MS Excel: worksheet, cell, row, column, formula bar, basic formulas SUM/AVERAGE, sorting concept
+35 min
+
+Revision
+Cash book + BRS recall
+35 min
+
+
+
+Practice Work
+
+• Prepare 2 trial balances from ledger balances.
+• Classify 15 errors as affecting/not affecting trial balance.
+• 15 demand concept questions.
+• 15 Excel feature/formula MCQs.
+
+Revision Work
+
+• Write from memory: 
+◦ debit-balance accounts,
+◦ credit-balance accounts.
+
+───
+
+Day 20 — Accounting Cycle Integrated Practice
+
+
+Block
+Work
+
+Duration
+5 hours
+
+Relative Difficulty
+Very High
+
+Tier
+Tier 1
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Accountancy
+Integrated set: journal → ledger → trial balance from 15–20 transactions
+120 min
+
+Accountancy
+Correction and error analysis of integrated set
+35 min
+
+English
+Voice and narration mixed transformation
+40 min
+
+GK — J&K Act
+J&K Reorganisation Act: legislature, administration, representation idea, key institutional changes at overview level
+40 min
+
+Science
+Newton’s laws: first, second, third law; inertia, force, action-reaction examples
+35 min
+
+Revision
+Week 3 accounting active recall
+30 min
+
+
+
+Practice Work
+
+• One full accounting-cycle problem.
+• 30 voice/narration mixed questions.
+• 20 J&K Act recall questions.
+• 15 Newton’s laws MCQs.
+
+Revision Work
+
+• Error log must identify whether the integrated accounting problem failed at: 
+◦ journal,
+◦ posting,
+◦ balancing,
+◦ trial balance,
+◦ arithmetic.
+
+───
+
+Day 21 — Week 3 Cumulative Review
+
+
+Block
+Work
+
+Duration
+4–4.5 hours
+
+Relative Difficulty
+Medium-high
+
+Tier
+Tier 1
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Accountancy
+Cash book, BRS, trial balance mixed revision
+70 min
+
+Statistics
+Mean, median, tabulation review
+35 min
+
+English
+Voice and narration recall test
+35 min
+
+GK
+J&K geography + J&K Act + current affairs weekly recall
+45 min
+
+Computers
+MS Word + Excel + OS/storage/security recall
+30 min
+
+Weekly Test
+50-question mixed test: accounting 20, GK 10, English 8, statistics/math 7, computers/science/econ 5
+45 min
+
+Error Analysis
+Update error log and choose Week 4 repair targets
+25 min
+
+
+
+Practice Work
+
+• 1 BRS problem.
+• 1 trial balance problem.
+• 50-question weekly test.
+• Reattempt wrong answers.
+
+Revision Work
+
+• Create Week 3 “must-fix list”: 
+◦ BRS direction mistakes,
+◦ trial balance classification mistakes,
+◦ narration backshift mistakes,
+◦ J&K Act weak facts.
+
+───
+
+Week 3 Completion Check
+
+
+Competency
+Required Status
+
+Cash book
+Single and double-column basics functional
+
+BRS
+Can decide add/subtract in common cases
+
+Trial balance
+Can prepare from balances
+
+Accounting cycle
+Can attempt integrated problem
+
+English
+Voice/narration first pass functional
+
+Statistics
+Mean/median basics started
+
+J&K Act
+First substantive layer complete
+
+Computers
+Word/Excel basics started
+
+
+
+───
+
+Week 4 — Final Accounts Foundation + Core Subject Expansion
+
+Weekly target hours: about 33–34 hours
+Primary focus: Trading account, P&L, balance sheet foundation; statistics/maths core; economics demand/production; science and computers.
+Tier emphasis: Tier 1, with first selective Tier 2 touchpoints.
+
+───
+
+Phase Check Before Week 4
+
+
+Required from Week 3
+Needed For Week 4
+Status Required
+
+Trial balance construction
+Final accounts
+Required
+
+Debit/credit and account classification
+Trading/P&L/Balance Sheet
+Required
+
+BRS/cash book basics
+Accounting integration
+Required
+
+Grammar transformations
+English mixed practice
+Required
+
+
+
+If trial balance is not functional, spend Day 22 first 90 minutes repairing it before final accounts.
+
+───
+
+Day 22 — Trading Account Begins
+
+
+Block
+Work
+
+Duration
+4.75–5 hours
+
+Relative Difficulty
+Very High
+
+Tier
+Tier 1
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Accountancy
+Final accounts overview: trading account, profit & loss account, balance sheet; purpose of each
+40 min
+
+Accountancy
+Trading account: opening stock, purchases, purchase returns, direct expenses, sales, sales returns, closing stock
+80 min
+
+Accountancy
+Gross profit/gross loss calculation
+35 min
+
+Mathematics
+Permutations and combinations: factorial, arrangement vs selection, nPr/nCr meaning
+45 min
+
+GK — India Geography
+Political and physical divisions of India; major mountains, plains, plateaus, coastal regions
+35 min
+
+Revision
+Trial balance + BRS review
+35 min
+
+
+
+Practice Work
+
+• Prepare 2 simple trading accounts.
+• 20 gross profit/gross loss questions.
+• 15 basic P&C questions.
+• 20 India geography recall prompts.
+
+Revision Work
+
+• Write trading account format from memory.
+• Explain why closing stock appears in trading account.
+
+───
+
+Day 23 — Profit & Loss Account
+
+
+Block
+Work
+
+Duration
+4.75 hours
+
+Relative Difficulty
+High
+
+Tier
+Tier 1
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Accountancy
+P&L account purpose; indirect expenses; indirect incomes; net profit/net loss
+60 min
+
+Accountancy
+Transfer of gross profit/gross loss from trading account to P&L
+45 min
+
+Accountancy
+Common P&L items: salaries, rent, commission, discount, bad debts, interest, depreciation concept only
+40 min
+
+English
+Jumbled sentences: connectors, pronoun reference, chronology, subject continuity
+40 min
+
+Statistics
+Mode: simple mode, grouped idea only; mean-median-mode comparison
+35 min
+
+Revision
+Trading account recall + P&C basics
+35 min
+
+
+
+Practice Work
+
+• Prepare 2 P&L accounts from given items.
+• Classify 30 items as trading/P&L/balance sheet.
+• 20 jumbled sentence questions.
+• 15 central tendency mixed questions.
+
+Revision Work
+
+• Build classification list: 
+◦ direct expense,
+◦ indirect expense,
+◦ income,
+◦ asset,
+◦ liability.
+
+───
+
+Day 24 — Balance Sheet Basics
+
+
+Block
+Work
+
+Duration
+4.75–5 hours
+
+Relative Difficulty
+Very High
+
+Tier
+Tier 1
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Accountancy
+Balance sheet meaning; assets and liabilities; capital adjustment with net profit/loss and drawings
+70 min
+
+Accountancy
+Marshal items: fixed assets, current assets, current liabilities, long-term liabilities
+45 min
+
+Accountancy
+Simple final accounts from trial balance without adjustments
+45 min
+
+Economics
+Consumer demand using indifference curve: utility, preference, indifference curve meaning, budget line overview
+40 min
+
+Computers
+MS PowerPoint: slides, layouts, transitions, animations, presentation view, basic use cases
+30 min
+
+Revision
+P&L item classification + mode/mean/median recall
+35 min
+
+
+
+Practice Work
+
+• Prepare 2 simple balance sheets.
+• Prepare 1 complete final account set without adjustments.
+• 15 IC/budget line concept questions.
+• 15 PowerPoint MCQs.
+
+Revision Work
+
+• Draw final accounts flow: 
+◦ Trial balance → Trading → P&L → Balance Sheet.
+
+───
+
+Day 25 — Final Accounts Integrated Practice
+
+
+Block
+Work
+
+Duration
+5 hours
+
+Relative Difficulty
+Very High
+
+Tier
+Tier 1
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Accountancy
+Full final accounts problem: trading account, P&L, balance sheet from trial balance
+120 min
+
+Accountancy
+Error analysis: misplaced item, calculation error, transfer error, capital adjustment error
+35 min
+
+Mathematics
+Probability with P&C basics: favorable outcomes, total outcomes, simple card/dice/coin examples
+40 min
+
+GK — J&K
+J&K economy and tourism detailed recall; agriculture, handicrafts, tourism, services
+35 min
+
+English
+Comprehension blanks: pronouns, phrases, homonyms/homophones in context
+35 min
+
+Revision
+Final accounts format recall
+35 min
+
+
+
+Practice Work
+
+• 1 full final accounts problem.
+• 20 probability questions.
+• 20 contextual English blanks.
+• 20 J&K economy/tourism recall prompts.
+
+Revision Work
+
+• Reattempt only the final accounts sections where errors occurred.
+• Write “final accounts danger list.”
+
+───
+
+Day 26 — Adjustments Introduction + Economics Production
+
+
+Block
+Work
+
+Duration
+4.75–5 hours
+
+Relative Difficulty
+Very High
+
+Tier
+Tier 1 with light Tier 2 accounting depth
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Accountancy
+Final account adjustments: closing stock, outstanding expenses, prepaid expenses, accrued income, income received in advance
+90 min
+
+Accountancy
+How each adjustment affects P&L and balance sheet
+45 min
+
+Economics
+Factors of production: land, labour, capital, entrepreneur; laws of production; total/average/marginal product
+45 min
+
+Science
+Electric current, voltage, power, energy; basic relationships and units
+35 min
+
+Revision
+Full final accounts format + probability review
+35 min
+
+
+
+Practice Work
+
+• 25 adjustment treatment questions.
+• 1 mini final account with 3 adjustments.
+• 15 production concept questions.
+• 15 electricity unit questions.
+
+Revision Work
+
+• Make adjustment table: 
+◦ item,
+◦ trading/P&L effect,
+◦ balance sheet effect.
+
+───
+
+Day 27 — Core Week 4 Test
+
+
+Block
+Work
+
+Duration
+4.75–5 hours
+
+Relative Difficulty
+High
+
+Tier
+Tier 1
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Accountancy
+Timed final accounts mini-test with trading, P&L, balance sheet
+75 min
+
+Accountancy
+Correction and format repair
+40 min
+
+Statistics
+Probability: addition idea for mutually exclusive events; basic attribute concept introduction
+40 min
+
+GK — Current + India
+Current events weekly review; India rivers/lakes/climate/crops/transport
+45 min
+
+Computers
+MS Access and PDF basics: database, table, record, field; PDF use and features
+35 min
+
+English
+Mixed grammar: voice, narration, jumbled, blanks
+35 min
+
+Revision
+Week 4 active recall
+30 min
+
+
+
+Practice Work
+
+• 1 timed final accounts mini-test.
+• 20 probability/attribute questions.
+• 30 GK recall prompts.
+• 25 English mixed questions.
+• 15 Access/PDF MCQs.
+
+Revision Work
+
+• Update final accounts error log: 
+◦ format,
+◦ classification,
+◦ adjustment,
+◦ arithmetic,
+◦ time.
+
+───
+
+Day 28 — Week 4 Cumulative Review and Repair
+
+
+Block
+Work
+
+Duration
+4.25–4.75 hours
+
+Relative Difficulty
+Medium-high
+
+Tier
+Tier 1
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Accountancy
+Reattempt final accounts errors from Days 22–27
+75 min
+
+Mathematics/Statistics
+P&C, probability, central tendency mixed drill
+45 min
+
+Economics
+Demand, IC, production, factors of production recall
+35 min
+
+Science
+Motion, Newton’s laws, electricity recall
+30 min
+
+GK/Computers
+J&K + India geography + MS Office recall
+40 min
+
+Weekly Test
+60-question mixed test with 20 accounting questions/problems
+50 min
+
+Error Analysis
+Select Week 5 priorities
+25 min
+
+
+
+Practice Work
+
+• Reattempt one previously incorrect final accounts problem section.
+• 60-question mixed weekly test.
+• 20 quant/stat mixed questions.
+
+Revision Work
+
+• Prepare Week 5 carry-forward: 
+◦ 5 final accounts weaknesses,
+◦ 5 GK weak areas,
+◦ 3 English error types,
+◦ 3 quant formula gaps.
+
+───
+
+Week 4 Completion Check
+
+
+Competency
+Required Status
+
+Trading account
+Can prepare simple version
+
+P&L account
+Can classify common indirect expenses/incomes
+
+Balance sheet
+Can classify assets/liabilities and adjust capital
+
+Final accounts
+Can attempt full problem without adjustments; basic adjustments introduced
+
+P&C/probability
+Basic distinction and simple questions functional
+
+Statistics
+Mean/median/mode and basic probability started
+
+Economics
+Demand and production basics covered
+
+Science
+Motion/electricity basics covered
+
+Computers
+Word, Excel, PowerPoint, Access, PDF basics covered
+
+
+
+───
+
+Stage 3 Progress After Part 2
+
+
+Item
+Hours
+
+Phase 1 completed
+~62 hrs
+
+Weeks 3–4 completed
+~67 hrs
+
+Cumulative completed hours
+~129 / 314
+
+Estimated remaining hours
+~185
+
+Current position
+End of Week 4
+
+Next section
+Phase 2 continued — Weeks 5–6
+
+Revision cycle
+Daily + weekly cumulative
+
+Mock frequency
+Weekly mixed tests only; no full mocks yet
+
+
+
+Stage 3 — Execution Calendar
+Part 3: Phase 2 Continued — Weeks 5–6
+
+Cross-Stage Tracking Before Continuing
+
+
+Item
+Status
+
+Stage 1 total estimated hours
+314 hours
+
+Cumulative hours allocated so far
+~129 hours
+
+Estimated remaining hours
+~185 hours
+
+Current phase
+Phase 2 — Core Learning continued
+
+Current week position
+Week 5
+
+Topics covered so far
+Accounting foundations, journal, ledger, cash book, BRS, trial balance, trading/P&L/balance sheet basics, J&K base, English grammar base, basic quant/stat/econ/science/computers
+
+Revision cycle
+Daily active recall + weekly cumulative tests
+
+Mock-test frequency
+Weekly mixed tests only; no full mocks yet
+
+Tier emphasis
+Finish Tier 1 first; begin necessary Tier 2 accounting and advanced compact topics
+
+
+
+───
+
+Phase 2 Continued — Core Learning
+
+Entry Dependency Check Before Week 5
+
+
+Required Competency from Weeks 3–4
+Needed For
+Status Required
+
+Final accounts without adjustments
+Adjusted final accounts, financial statements
+Required
+
+Adjustment logic basics
+Final accounts integration
+Required
+
+Cash book/BRS/trial balance
+Accounting mixed practice
+Required
+
+Probability and P&C basics
+Statistics probability and math probability
+Required
+
+Demand/production basics
+Economics markets, factor pricing, policy
+Required
+
+Grammar transformations
+English mixed objective practice
+Required
+
+
+
+If final accounts are weak: add 90 minutes on Day 29 by reducing low-priority science/computer time that day.
+
+───
+
+Week 5 — Final Accounts Strengthening + Statistics/Economics Core
+
+Weekly target hours: about 33–34 hours
+Primary focus: adjusted final accounts, financial statements, partnership intro, statistics index/demography, economics markets/policy, science biology, computer internet/security.
+Tier emphasis: Tier 1 plus selected Tier 2.
+
+───
+
+Day 29 — Adjusted Final Accounts Practice
+
+
+Block
+Work
+
+Duration
+5 hours
+
+Relative Difficulty
+Very High
+
+Tier
+Tier 1
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Accountancy
+Adjustments: depreciation, bad debts, provision idea at basic level, interest on capital/drawings conceptually
+60 min
+
+Accountancy
+Full final accounts with 4–5 adjustments: trading, P&L, balance sheet
+90 min
+
+Accountancy
+Adjustment error analysis: dual effect missing, wrong account placement, arithmetic transfer
+25 min
+
+Statistics
+Index numbers introduction: meaning, base year, current year, price relative
+35 min
+
+English
+Idioms and phrases: meaning-in-context, literal vs figurative meaning
+30 min
+
+Revision
+BRS/trial balance/final accounts format recall
+35 min
+
+
+
+Practice Work
+
+• 1 full adjusted final accounts problem.
+• 25 adjustment treatment questions.
+• 15 index number basics questions.
+• 15 idiom-in-context questions.
+
+Revision Work
+
+• Write dual-effect table for every adjustment learned.
+• Reattempt any final account section with more than 2 errors.
+
+───
+
+Day 30 — Financial Statements + Index Numbers
+
+
+Block
+Work
+
+Duration
+4.75 hours
+
+Relative Difficulty
+High
+
+Tier
+Tier 1
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Accountancy
+Financial statements meaning; distinction between trading account, P&L account, balance sheet; users and interpretation basics
+45 min
+
+Accountancy
+Final accounts timed practice: classification and preparation from trial balance
+60 min
+
+Statistics
+Simple aggregative index; price index idea; WPI and CPI meaning and use
+50 min
+
+GK — J&K Act
+J&K Reorganisation Act second recall layer: UT administration, legislature, representation, institutional changes
+40 min
+
+Computers
+Internet basics: browser, search engine, URL, website, email, attachment, spam, phishing
+35 min
+
+Revision
+Day 29 adjustment recall + idioms
+35 min
+
+
+
+Practice Work
+
+• 1 final accounts classification drill with 40 items.
+• 20 index/WPI/CPI questions.
+• 20 internet/email MCQs.
+• 20 J&K Act recall prompts.
+
+Revision Work
+
+• Explain WPI vs CPI in 3 points.
+• Recall dual effects of 5 final account adjustments.
+
+───
+
+Day 31 — Partnership Accounts Introduction
+
+
+Block
+Work
+
+Duration
+4.75–5 hours
+
+Relative Difficulty
+High
+
+Tier
+Tier 2, but medium priority
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Accountancy
+Partnership meaning; partnership deed; capital accounts; profit-sharing ratio
+45 min
+
+Accountancy
+Appropriation of profit: interest on capital, interest on drawings, salary/commission to partner, divisible profit
+70 min
+
+Accountancy
+Partner capital account basics: fixed vs fluctuating capital overview
+35 min
+
+Economics
+Market forms: perfect competition, monopoly, monopolistic competition, oligopoly — basic features
+45 min
+
+Science
+Nutrition: autotrophic/heterotrophic nutrition; human digestive overview; nutrients
+35 min
+
+Revision
+Financial statements + index numbers recall
+35 min
+
+
+
+Practice Work
+
+• 20 partnership appropriation questions.
+• Prepare 2 simple profit appropriation accounts.
+• 20 market-form comparison questions.
+• 15 nutrition MCQs.
+
+Revision Work
+
+• Build market comparison table: 
+◦ number of sellers,
+◦ product type,
+◦ price control,
+◦ entry/exit.
+
+───
+
+Day 32 — Audit + Social Accounting
+
+
+Block
+Work
+
+Duration
+4.5–4.75 hours
+
+Relative Difficulty
+Medium
+
+Tier
+Tier 2
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Accountancy
+Financial audit: meaning, objectives, auditor role, error vs fraud, internal check idea
+45 min
+
+Accountancy
+Social accounting: meaning, purpose; social audit: meaning, public accountability idea
+40 min
+
+Statistics
+Demography basics: population, census, vital statistics, birth rate, death rate
+45 min
+
+English
+Synonyms and antonyms: context-based selection; avoid word-pair confusion
+35 min
+
+GK — India
+Culture, heritage, freedom movement overview: broad phases and major themes
+40 min
+
+Revision
+Partnership appropriation + market forms review
+35 min
+
+
+
+Practice Work
+
+• 25 audit/social audit concept questions.
+• 20 demography/vital statistics questions.
+• 20 synonym/antonym questions.
+• 15 freedom movement theme recall prompts.
+
+Revision Work
+
+• Explain difference: 
+◦ financial audit vs social audit,
+◦ census vs vital statistics.
+
+───
+
+Day 33 — PFMS + Cash-Based Accounting
+
+
+Block
+Work
+
+Duration
+4.75–5 hours
+
+Relative Difficulty
+High
+
+Tier
+Tier 2, medium priority but syllabus-specific
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Accountancy
+Cash-based accounting: recognition when cash is received/paid; contrast with accrual idea
+40 min
+
+Accountancy
+PFMS: meaning from syllabus context, public finance tracking, payment/accounting support, accountability purpose
+45 min
+
+Accountancy
+Indian Financial Management System: broad purpose, government financial control, budgeting/accounting linkage
+35 min
+
+Mathematics
+Matrices: order, elements, row/column, equality, addition/subtraction, scalar multiplication
+45 min
+
+Science
+Respiration: aerobic/anaerobic idea, breathing vs respiration, basic human respiratory system
+35 min
+
+Revision
+Audit/social accounting + demography review
+35 min
+
+Practice Test
+25-question accounting public-finance concept test
+25 min
+
+
+
+Practice Work
+
+• 25 PFMS/cash-based accounting/IFMS questions.
+• 20 matrix operation questions.
+• 15 respiration MCQs.
+
+Revision Work
+
+• Create contrast table: 
+◦ cash-based vs accrual idea,
+◦ audit vs social audit,
+◦ PFMS vs general accounting system.
+
+───
+
+Day 34 — Cost Accounting + Budgetary Control
+
+
+Block
+Work
+
+Duration
+4.75–5 hours
+
+Relative Difficulty
+High
+
+Tier
+Tier 2
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Accountancy
+Cost accounting: cost, costing, cost unit, cost center, direct cost, indirect cost
+50 min
+
+Accountancy
+Budgetary control: budget, standard, variance idea, control purpose
+45 min
+
+Accountancy
+Cost management: cost reduction vs cost control basic distinction
+30 min
+
+Statistics
+Fertility measures: crude fertility rate, specific fertility rate, gross reproduction rate, net reproduction rate
+50 min
+
+Economics
+Fiscal policy: taxation, public expenditure, deficit idea; monetary policy: money supply, credit control overview
+40 min
+
+Revision
+PFMS/cash-based/IFMS + matrices recall
+30 min
+
+
+
+Practice Work
+
+• 25 cost accounting/budgetary control questions.
+• 15 fertility measure questions.
+• 20 fiscal/monetary policy questions.
+
+Revision Work
+
+• Formula recall: 
+◦ crude fertility rate,
+◦ specific fertility rate,
+◦ GRR/NRR meaning.
+
+───
+
+Day 35 — Week 5 Cumulative Review
+
+
+Block
+Work
+
+Duration
+4.25–4.75 hours
+
+Relative Difficulty
+Medium-high
+
+Tier
+Tier 1 + Tier 2 review
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Accountancy
+Adjusted final accounts, partnership, audit, PFMS, cost accounting mixed recall
+75 min
+
+Statistics
+Index numbers, WPI/CPI, demography, fertility measures
+45 min
+
+Economics
+Markets, fiscal/monetary policy recall
+35 min
+
+Science
+Nutrition and respiration recall
+25 min
+
+English/GK/Computers
+Idioms, synonyms/antonyms, J&K Act, internet/email quick recall
+40 min
+
+Weekly Test
+60-question mixed test: accounting 20, GK 10, English 8, stat/math 10, others 12
+50 min
+
+Error Analysis
+Update Week 6 priorities
+25 min
+
+
+
+Practice Work
+
+• 60-question weekly mixed test.
+• Reattempt all accounting and statistics errors.
+• 20 J&K Act and current affairs rapid prompts.
+
+Revision Work
+
+• Mark Tier 1 errors in red; Tier 2 errors in blue.
+• Tier 1 red errors must be revisited within 48 hours.
+
+───
+
+Week 5 Completion Check
+
+
+Competency
+Required Status
+
+Adjusted final accounts
+Can attempt with common adjustments
+
+Financial statements
+Can distinguish purpose and structure
+
+Partnership basics
+First pass complete
+
+Audit/social audit
+Conceptual first pass complete
+
+PFMS/cash-based/IFMS
+Syllabus-level first pass complete
+
+Cost/budgetary control
+First pass complete
+
+Statistics
+Index/demography/fertility started
+
+Economics
+Markets and policy started
+
+Science
+Nutrition/respiration started
+
+
+
+───
+
+Week 6 — Finish Core Learning
+
+Weekly target hours: about 33–34 hours
+Primary focus: Remaining accounting topics, advanced math lean coverage, economics macro, science completion, computers completion, English vocabulary/application.
+Tier emphasis: Complete Tier 1 first pass and finish lean Tier 2 coverage.
+
+───
+
+Entry Check Before Week 6
+
+
+Required from Week 5
+Needed For Week 6
+Status Required
+
+Accounting cycle + final accounts stable
+Mixed accounting and taxation/developments
+Required
+
+Basic economics demand/production/policy
+RBI, national income, reforms
+Required
+
+Statistics demography base
+mortality measures and vital statistics
+Required
+
+Matrix basics
+determinants
+Required
+
+English grammar applications
+mixed English practice
+Required
+
+
+
+───
+
+Day 36 — Taxation + Accounting Developments
+
+
+Block
+Work
+
+Duration
+4.5–4.75 hours
+
+Relative Difficulty
+Medium-high
+
+Tier
+Tier 2
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Accountancy
+Taxation meaning; direct tax vs indirect tax; taxpayer, tax base, tax rate, compliance concept
+45 min
+
+Accountancy
+Tax laws at syllabus level: purpose, revenue collection, compliance and administration idea
+30 min
+
+Accountancy
+Developments in accounting: modernization, computerization, public finance systems, accountability orientation
+30 min
+
+Mathematics
+Determinants: 2×2 determinant, minor idea only, simple calculation
+40 min
+
+Economics
+RBI: central bank, currency issue, banker to government, banker’s bank, credit control, monetary policy role
+45 min
+
+Revision
+Cost accounting + fiscal/monetary policy + fertility recall
+35 min
+
+
+
+Practice Work
+
+• 25 taxation/developments questions.
+• 25 determinant questions.
+• 20 RBI role questions.
+
+Revision Work
+
+• Contrast: 
+◦ direct vs indirect tax,
+◦ fiscal policy vs monetary policy,
+◦ matrix vs determinant.
+
+───
+
+Day 37 — National Income + Mortality Measures
+
+
+Block
+Work
+
+Duration
+4.75 hours
+
+Relative Difficulty
+High
+
+Tier
+Tier 2 economics; Tier 1 statistics
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Economics
+National income: GDP, GNP, NNP, personal income idea, nominal vs real concept
+50 min
+
+Economics
+Economic growth: meaning, measurement, distinction from development
+30 min
+
+Statistics
+Mortality measures: crude death rate, specific death rate idea, infant mortality concept if needed by vital statistics framing
+45 min
+
+Statistics
+Vital statistics: birth, death, marriage, migration registration idea
+30 min
+
+Science
+Transportation in plants: xylem, phloem, water/mineral transport, food transport
+35 min
+
+English
+Pairs of words: commonly confused words; using in meaningful sentences
+35 min
+
+Revision
+Taxation/RBI/determinants review
+35 min
+
+
+
+Practice Work
+
+• 20 national income/growth questions.
+• 20 mortality/vital statistics questions.
+• 15 plant transport MCQs.
+• 15 pairs-of-words usage questions.
+
+Revision Work
+
+• Make statistics rate formula sheet: 
+◦ fertility,
+◦ mortality,
+◦ vital statistics concepts.
+
+───
+
+Day 38 — Economic Reforms + Developing Economy
+
+
+Block
+Work
+
+Duration
+4.5–4.75 hours
+
+Relative Difficulty
+Medium-high
+
+Tier
+Tier 2
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Economics
+Characteristics and problems of developing economy: poverty, unemployment, low productivity, population pressure, infrastructure gaps
+45 min
+
+Economics
+Planning vs market economy: role of state, price mechanism, resource allocation
+35 min
+
+Economics
+Economic reforms in India: liberalization, privatization, globalization — conceptual meaning
+35 min
+
+Mathematics
+Limits: intuitive meaning, left/right approach idea only, simple direct substitution
+35 min
+
+Mathematics
+Derivatives: rate of change idea, basic derivative notation, simple power rule only
+35 min
+
+Computers
+Open source technologies: meaning, examples conceptually, benefits/risks
+30 min
+
+Revision
+National income + mortality + English pairs review
+35 min
+
+
+
+Practice Work
+
+• 25 economics reforms/developing economy questions.
+• 15 limits questions using direct substitution.
+• 15 basic derivative questions.
+• 15 open-source MCQs.
+
+Revision Work
+
+• Contrast: 
+◦ growth vs development,
+◦ planning economy vs market economy,
+◦ liberalization vs privatization vs globalization.
+
+───
+
+Day 39 — Science Chemistry + Energy
+
+
+Block
+Work
+
+Duration
+4.5 hours
+
+Relative Difficulty
+Medium
+
+Tier
+Tier 2 science, with Tier 1 environment linkage
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Science
+Chemical equations: reactants/products, balanced equation idea, types of reactions overview
+40 min
+
+Science
+Metals and non-metals: physical properties, chemical properties, common differences
+40 min
+
+Science
+Energy sources: conventional sources, biomass, wind, solar, tidal; advantages/limitations
+40 min
+
+GK/Science
+Environment link: pollution, energy choice, biodiversity effect
+30 min
+
+English
+Vocabulary mixed: synonyms, antonyms, idioms, pairs of words in context
+40 min
+
+Revision
+Economics reforms + limits/derivatives review
+35 min
+
+Practice Test
+25-question science-energy-chemistry test
+25 min
+
+
+
+Practice Work
+
+• 25 chemistry questions.
+• 20 energy source questions.
+• 25 vocabulary questions.
+
+Revision Work
+
+• Create energy comparison table: 
+◦ source,
+◦ renewable/non-renewable,
+◦ advantage,
+◦ limitation.
+
+───
+
+Day 40 — Advanced Geometry Lean Coverage
+
+
+Block
+Work
+
+Duration
+4.5–4.75 hours
+
+Relative Difficulty
+High
+
+Tier
+Low Tier 2
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Mathematics
+Coordinate geometry: Cartesian plane, distance formula, midpoint formula, slope idea
+50 min
+
+Mathematics
+Vectors: scalar vs vector, magnitude, direction, basic addition idea
+35 min
+
+Mathematics
+3D geometry: coordinate axes, point in space, distance idea only
+30 min
+
+Accountancy
+Mixed accounting recall: final accounts, PFMS, cost, taxation, audit quick test
+45 min
+
+GK — Current Affairs
+Weekly current events consolidation: national, international, J&K, economy, science/tech
+35 min
+
+Revision
+Science chemistry/energy + vocabulary review
+35 min
+
+
+
+Practice Work
+
+• 20 coordinate geometry questions.
+• 10 vector basics questions.
+• 10 3D basics questions.
+• 30 accounting mixed MCQs.
+
+Revision Work
+
+• Mark advanced math as “lean coverage”: do not expand unless Tier 1 accuracy is stable.
+
+───
+
+Day 41 — Core Learning Completion Test
+
+
+Block
+Work
+
+Duration
+5 hours
+
+Relative Difficulty
+Very High
+
+Tier
+Tier 1 full + Tier 2 sample
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Accounting Test
+Accounting cycle, cash book, BRS, trial balance, final accounts, applied accounting concepts
+75 min
+
+GK Test
+J&K, J&K Act, India/world geography, current events, culture/environment
+40 min
+
+Quant/Stats Test
+SI/CI, equations, sets, relations, P&C, probability, matrices, central tendency, index, demography
+45 min
+
+English Test
+Grammar, voice, narration, jumbled, blanks, vocabulary
+35 min
+
+Science/Economics/Computer Test
+Core concepts across all remaining 10-mark subjects
+40 min
+
+Error Analysis
+Deep classification by subject and error type
+45 min
+
+Revision
+Reattempt top 10 wrong questions
+20 min
+
+
+
+Practice Work
+
+• 100-question Core Learning completion test, not yet full mock timing.
+• Reattempt all Tier 1 wrong answers.
+• Record accuracy by subject.
+
+Revision Work
+
+• Create “Consolidation Entry Sheet”: 
+◦ Red: must repair before mocks,
+◦ Yellow: revise in Phase 3,
+◦ Green: maintain through spaced recall.
+
+───
+
+Day 42 — Recovery + Core Repair Day
+
+
+Block
+Work
+
+Duration
+4–4.5 hours
+
+Relative Difficulty
+Medium
+
+Tier
+Tier 1 repair dominant
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Accountancy
+Repair top accounting errors from Day 41: final accounts, BRS, trial balance, public finance concepts
+75 min
+
+GK/J&K
+Repair J&K Act and J&K geography/economy/culture gaps
+45 min
+
+Quant/Stats
+Repair formula errors: probability, index numbers, fertility/mortality, SI/CI
+45 min
+
+English
+Repair grammar transformation errors: voice, narration, tense/preposition traps
+35 min
+
+Computers/Science/Economics
+Rapid repair of factual-conceptual misses
+35 min
+
+Planning
+Verify readiness for Phase 3 Consolidation
+20 min
+
+
+
+Practice Work
+
+• Reattempt wrong answers only.
+• For each wrong question, write: 
+◦ correct answer,
+◦ why wrong,
+◦ rule/fact/formula needed,
+◦ next prevention cue.
+
+Revision Work
+
+• Final Core Learning active recall: 
+◦ accounting formats,
+◦ statistics formula sheet,
+◦ J&K Act summary,
+◦ economics comparison tables,
+◦ computer terminology.
+
+───
+
+Phase 2 Completion Gate
+
+Before moving to Phase 3, the learner must satisfy:
+
+
+Competency
+Minimum Status
+
+Accounting cycle
+Can solve journal-ledger-trial balance flow
+
+Cash book/BRS
+Can handle common adjustments and direction logic
+
+Final accounts
+Can prepare trading, P&L, balance sheet with common adjustments
+
+Applied accounting
+First pass of partnership, audit, PFMS, cost, taxation complete
+
+GK/J&K
+J&K and J&K Act covered at least once with recall cards
+
+English
+Grammar, voice, narration, jumbled, blanks, vocabulary first pass complete
+
+Statistics
+Data, central tendency, probability, index, demography/vital statistics covered
+
+Mathematics
+High-ROI topics complete; low-ROI advanced topics given lean first pass
+
+Economics
+Micro core, macro policy/RBI, national income/reforms covered
+
+Science
+Physics, chemistry, energy, biology, ecology/environment covered
+
+Computers
+Basics, MS Office, internet/email, virus, OS, governance/open source first pass complete
+
+Error log
+Organized by subject and error type
+
+
+
+───
+
+Stage 3 Progress After Part 3
+
+
+Item
+Hours
+
+Phase 1 completed
+~62 hrs
+
+Phase 2 Weeks 3–4 completed
+~67 hrs
+
+Phase 2 Weeks 5–6 completed
+~67 hrs
+
+Cumulative completed hours
+~196 / 314
+
+Estimated remaining hours
+~118 hours
+
+Current position
+End of Week 6
+
+Next phase
+Phase 3 — Consolidation
+
+Revision cycle
+Daily + weekly active recall
+
+Mock frequency
+Completion test done; full mocks begin later
+
+
+Stage 3 — Execution Calendar
+Part 4: Phase 3 — Consolidation + Phase 4 — First Revision
+Weeks 7–8
+
+Cross-Stage Tracking Before Continuing
+
+
+Item
+Status
+
+Stage 1 total estimated hours
+314 hours
+
+Cumulative hours allocated so far
+~196 hours
+
+Estimated remaining hours
+~118 hours
+
+Current phase
+Phase 3 — Consolidation
+
+Current week position
+Week 7
+
+Topics covered so far
+Full first pass of all Tier 1 and lean first pass of Tier 2
+
+Revision cycle
+Daily recall + weekly cumulative tests
+
+Mock-test frequency
+No full mocks yet; mixed consolidation tests now begin
+
+Tier emphasis
+Tier 1 integration first; Tier 2 maintained selectively
+
+
+
+───
+
+Phase 3 — Consolidation
+
+Phase 3 Entry Dependency Check
+
+
+Required from Phase 2
+Needed For Consolidation
+Status Required
+
+Accounting cycle first pass
+Integrated accounting sets
+Required
+
+Final accounts first pass
+Mixed final account practice
+Required
+
+GK/J&K first pass
+Mixed recall and factual speed
+Required
+
+English grammar/application first pass
+Mixed English objective sets
+Required
+
+Math/stat formula first pass
+Interleaved quantitative practice
+Required
+
+Economics/science/computer first pass
+Mixed MCQ consolidation
+Required
+
+Error log organized
+Targeted repair
+Required
+
+
+
+Result: Phase 3 can begin if Phase 2 gate passed.
+ If accounting final accounts are still structurally weak, Day 43 should replace 45 minutes of Tier 2 review with final accounts repair.
+
+───
+
+Week 7 — Consolidation
+
+Weekly target hours: about 32–34 hours
+Primary focus: Connect topics, interleave subjects, convert notes into recall and problem-solving.
+Tier emphasis: Tier 1 complete consolidation; Tier 2 selective.
+
+───
+
+Day 43 — Accounting Integration + GK Recall
+
+
+Block
+Work
+
+Duration
+4.75–5 hours
+
+Relative Difficulty
+Very High
+
+Tier
+Tier 1 dominant
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Accountancy
+Integrated accounting cycle: journal → ledger → trial balance → final accounts linkage
+90 min
+
+Accountancy
+Final accounts adjustment map: closing stock, outstanding/prepaid, accrued/in-advance, depreciation, bad debts
+45 min
+
+GK — J&K
+J&K mixed recall: geography, rivers/lakes, climate, crops, economy, culture, tourism
+45 min
+
+English
+Grammar mixed: tense, article, preposition, modal, clause correction
+35 min
+
+Statistics
+Central tendency + index numbers formula recall
+35 min
+
+Revision
+Core Learning error-log review: top accounting and GK errors
+30 min
+
+
+
+Practice Work
+
+• 1 integrated final accounts problem with adjustments.
+• 30 J&K rapid recall prompts.
+• 25 English grammar correction questions.
+• 20 statistics formula questions.
+
+Revision Work
+
+• Redo the accounting problem’s incorrect sections only.
+• Mark whether each GK miss is: 
+◦ memory gap,
+◦ confusion between regions,
+◦ current affairs gap.
+
+───
+
+Day 44 — Quantitative Consolidation
+
+
+Block
+Work
+
+Duration
+4.5–4.75 hours
+
+Relative Difficulty
+High
+
+Tier
+Tier 1, with limited Tier 2
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Mathematics
+SI/CI, linear equations, sets, relations/functions mixed practice
+55 min
+
+Mathematics
+Probability + P&C mixed practice: favorable cases, selection vs arrangement, simple combined cases
+50 min
+
+Statistics
+Probability, attributes, fertility/mortality, WPI/CPI mixed practice
+55 min
+
+Economics
+Demand, IC, production, market forms comparison recall
+35 min
+
+Revision
+Formula sheet closed-book reconstruction
+35 min
+
+Error Analysis
+Quant/stat error classification
+25 min
+
+
+
+Practice Work
+
+• 30 math questions.
+• 30 statistics questions.
+• 15 economics comparison questions.
+• Rebuild formula sheet from memory.
+
+Revision Work
+
+• For each formula error, write: 
+◦ formula,
+◦ meaning of symbols,
+◦ one example,
+◦ common trap.
+
+───
+
+Day 45 — English + Computer + Science Consolidation
+
+
+Block
+Work
+
+Duration
+4.5 hours
+
+Relative Difficulty
+Medium-high
+
+Tier
+Tier 1 dominant
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+English
+Voice and narration mixed transformations across tenses
+45 min
+
+English
+Jumbled sentences + comprehension blanks using pronouns, phrases, homonyms/homophones
+45 min
+
+English
+Vocabulary: synonyms, antonyms, idioms, pairs of words in context
+30 min
+
+Computers
+Hardware/software/OS/MS Office/internet/email/virus mixed recall
+45 min
+
+Science
+Motion/electricity/biology/ecology mixed recall
+45 min
+
+Revision
+Revisit weak grammar and computer/science errors from Phase 2
+35 min
+
+Mini-Test
+35-question English-computer-science mixed timed set
+25 min
+
+
+
+Practice Work
+
+• 30 English grammar/application questions.
+• 25 computer MCQs.
+• 25 science MCQs.
+• 35-question timed mixed set.
+
+Revision Work
+
+• Make “English trap sheet”: 
+◦ tense backshift,
+◦ passive auxiliary,
+◦ article omission,
+◦ preposition pairs,
+◦ homophone traps.
+
+───
+
+Day 46 — Accounting Applied Topics Consolidation
+
+
+Block
+Work
+
+Duration
+4.75–5 hours
+
+Relative Difficulty
+High
+
+Tier
+Tier 2 consolidation after Tier 1 base
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Accountancy
+Partnership: profit appropriation, capital account basics, profit-sharing treatment
+45 min
+
+Accountancy
+Audit, social accounting, social audit: objective, difference, accountability use
+35 min
+
+Accountancy
+PFMS, cash-based accounting, Indian Financial Management System: public-finance purpose and distinctions
+45 min
+
+Accountancy
+Cost accounting, budgetary control, taxation, developments in accounting: concept distinctions
+45 min
+
+GK — Environment
+Environment, ecology, biodiversity; link with pollution, ozone, greenhouse effect
+35 min
+
+Revision
+Final accounts formats + adjustment table
+35 min
+
+Mini-Test
+40-question applied accounting + environment test
+30 min
+
+
+
+Practice Work
+
+• 50 applied accounting MCQs.
+• 20 environment/ecology questions.
+• Recreate public finance comparison table.
+
+Revision Work
+
+• Create “applied accounting distinction sheet”: 
+◦ audit vs social audit,
+◦ cash-based vs accrual idea,
+◦ cost control vs cost reduction,
+◦ direct vs indirect tax.
+
+───
+
+Day 47 — GK + Economics Consolidation
+
+
+Block
+Work
+
+Duration
+4.5–4.75 hours
+
+Relative Difficulty
+Medium-high
+
+Tier
+Tier 1 + Tier 2
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+GK — India/World
+Political and physical divisions, rivers/lakes, weather/climate/crops, transport/communication
+45 min
+
+GK — Culture/Freedom
+Indian culture, heritage, freedom struggle broad phases, major movement categories
+35 min
+
+GK — Current Events
+National, international, J&K, economy, science/tech current affairs recall
+35 min
+
+Economics
+Fiscal/monetary policy, RBI, national income, growth, reforms, developing economy
+55 min
+
+Revision
+J&K Act rapid recall + economics comparison sheets
+35 min
+
+Timed Set
+50-question GK/economics mixed set
+40 min
+
+
+
+Practice Work
+
+• 50 GK/economics timed questions.
+• 20 current affairs recall prompts.
+• 15 national income/RBI/policy comparison questions.
+
+Revision Work
+
+• Update GK error categories: 
+◦ J&K,
+◦ India/world geography,
+◦ culture/freedom,
+◦ current,
+◦ environment.
+
+───
+
+Day 48 — Mixed Sectional Simulation
+
+
+Block
+Work
+
+Duration
+5 hours
+
+Relative Difficulty
+Very High
+
+Tier
+Tier 1 full, Tier 2 sampled
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Sectional Test 1
+Accounting 30-mark equivalent: accounting cycle, final accounts, applied concepts
+60 min
+
+Sectional Test 2
+GK 30-mark equivalent: J&K, Act, current, India/world, environment
+45 min
+
+Sectional Test 3
+Combined 60-mark equivalent from English, stats, math, economics, science, computers
+60 min
+
+Analysis
+Accuracy by subject; errors by type; time spent; unanswered questions
+60 min
+
+Repair
+Reattempt top 15 wrong questions
+45 min
+
+Revision
+Final 30-minute active recall of formulas and accounting formats
+30 min
+
+
+
+Practice Work
+
+• 120-mark equivalent sectional simulation, split into 3 blocks rather than full mock.
+• Reattempt top 15 wrong answers.
+
+Revision Work
+
+• Create “Mock Readiness Sheet”: 
+◦ strongest subjects,
+◦ weakest subjects,
+◦ slowest question types,
+◦ high-confidence scoring zones.
+
+───
+
+Day 49 — Consolidation Recovery and Repair
+
+
+Block
+Work
+
+Duration
+4–4.5 hours
+
+Relative Difficulty
+Medium
+
+Tier
+Tier 1 repair first
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Accounting Repair
+Redo final accounts/BRS/trial balance errors from Day 48
+60 min
+
+GK Repair
+Redo J&K Act/J&K geography/current affairs misses
+45 min
+
+Quant/Stats Repair
+Redo formula and calculation errors
+45 min
+
+English Repair
+Redo grammar/vocabulary/comprehension misses
+35 min
+
+Science/Computer/Economics Repair
+Rapid recall of missed facts/concepts
+35 min
+
+Planning
+Verify readiness for First Revision phase
+20 min
+
+
+
+Practice Work
+
+• Reattempt wrong questions only.
+• Write one prevention rule for every repeated error.
+
+Revision Work
+
+• Final Phase 3 recall: 
+◦ accounting adjustment table,
+◦ J&K Act summary,
+◦ formula sheet,
+◦ English trap sheet,
+◦ computer/science/economics one-page sheets.
+
+───
+
+Phase 3 Completion Gate
+
+Before Phase 4, the student should have:
+
+
+Competency
+Required Status
+
+Tier 1 integration
+Can attempt mixed tests without needing notes
+
+Accounting
+Can attempt final accounts and BRS under time pressure
+
+GK/J&K
+Recall gaps identified and categorized
+
+English
+Grammar and transformation errors reduced
+
+Quant/stat
+Formula sheet mostly recallable
+
+Economics/science/computers
+One-page summaries available
+
+Error log
+Prioritized for First Revision
+
+
+
+───
+
+Phase 4 — First Revision
+
+Phase 4 Entry Dependency Check
+
+
+Required from Phase 3
+Needed For First Revision
+Status
+
+All topics first pass complete
+Full revision
+Required
+
+One-page summaries created
+Active recall
+Required
+
+Error log categorized
+Targeted revision
+Required
+
+Mixed tests attempted
+Revision priorities
+Required
+
+
+
+Result: Phase 4 can begin if Phase 3 gate passed.
+
+───
+
+Week 8 — First Revision
+
+Weekly target hours: about 32–34 hours
+Primary focus: First full active-recall cycle across the syllabus, Tier 1 dominant, Tier 2 compressed.
+No heavy new learning.
+
+───
+
+Day 50 — Accounting First Revision I
+
+
+Block
+Work
+
+Duration
+4.75–5 hours
+
+Relative Difficulty
+Very High
+
+Tier
+Tier 1 dominant
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Accountancy
+Closed-book recall: accounting terms, equation, double entry, debit/credit rules
+35 min
+
+Accountancy
+Journal and ledger: account selection, narration, posting, balancing
+60 min
+
+Accountancy
+Cash book: single/double-column, contra entries, bank/cash treatment
+45 min
+
+Accountancy
+BRS: cash book/pass book starting point, add/subtract logic, common timing differences
+50 min
+
+Practice
+Accounting revision set: journal, ledger, cash book, BRS
+60 min
+
+Error Analysis
+Correct and classify accounting errors
+30 min
+
+
+
+Practice Work
+
+• 20 journal entries.
+• 10 ledger postings.
+• 1 cash book.
+• 2 BRS problems.
+
+Revision Work
+
+• Rebuild debit/credit table and BRS add/subtract table from memory.
+
+───
+
+Day 51 — Accounting First Revision II + Applied Accounting
+
+
+Block
+Work
+
+Duration
+4.75–5 hours
+
+Relative Difficulty
+Very High
+
+Tier
+Tier 1 + Tier 2
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Accountancy
+Trial balance: balance classification, objectives, limitations, error detection
+35 min
+
+Accountancy
+Trading account, P&L, balance sheet formats from memory
+45 min
+
+Accountancy
+Final accounts with adjustments: dual effect recall
+75 min
+
+Accountancy
+Applied accounting: partnership, audit, social audit, PFMS, IFMS, cost, budgetary control, taxation
+60 min
+
+Practice
+Final accounts revision problem
+60 min
+
+Error Analysis
+Final accounts and applied accounting correction
+25 min
+
+
+
+Practice Work
+
+• 1 full final accounts problem with adjustments.
+• 40 applied accounting MCQs.
+• 20 trial balance classification questions.
+
+Revision Work
+
+• Recreate: 
+◦ trading format,
+◦ P&L format,
+◦ balance sheet format,
+◦ adjustment dual-effect table.
+
+───
+
+Day 52 — GK + J&K First Revision
+
+
+Block
+Work
+
+Duration
+4.5–4.75 hours
+
+Relative Difficulty
+High
+
+Tier
+Tier 1 dominant
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+J&K GK
+History, economy, geography, rivers, lakes, climate, crops, flora/fauna, culture, heritage, tourist destinations
+75 min
+
+J&K Act
+Reorganisation Act: UT formation, administrative structure, legislature, institutional changes
+50 min
+
+General GK
+India/world divisions, rivers/lakes, climate/crops/transport, culture/freedom movement
+45 min
+
+Environment
+Ecology, biodiversity, pollution, ozone, greenhouse, environment-science overlap
+35 min
+
+Current Events
+National/international/J&K/economy/science-tech recall
+35 min
+
+Timed Set
+50-question GK test
+35 min
+
+
+
+Practice Work
+
+• 50-question GK/J&K timed set.
+• 30 J&K rapid recall prompts.
+• 20 current affairs prompts.
+
+Revision Work
+
+• Mark weak GK categories for daily short recall in later phases.
+
+───
+
+Day 53 — English + Computers First Revision
+
+
+Block
+Work
+
+Duration
+4.5 hours
+
+Relative Difficulty
+Medium-high
+
+Tier
+Tier 1 dominant
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+English Grammar
+Tenses, articles, prepositions, modals, clauses
+45 min
+
+English Application
+Voice, narration, jumbled sentences, comprehension blanks
+60 min
+
+English Vocabulary
+Synonyms, antonyms, idioms/phrases, pairs of words, homonyms/homophones
+35 min
+
+Computers
+Basics, components, hardware/software, CPU, storage, peripherals, firmware/humanware
+35 min
+
+Computers
+OS, MS Word, Excel, Access, PowerPoint, PDF, internet/email, virus/antivirus, IT governance
+45 min
+
+Timed Set
+60-question English + computer test
+45 min
+
+
+
+Practice Work
+
+• 35 English questions.
+• 25 computer questions.
+• Reattempt wrong answers.
+
+Revision Work
+
+• Update: 
+◦ English trap sheet,
+◦ computer distinction sheet.
+
+───
+
+Day 54 — Statistics + Mathematics First Revision
+
+
+Block
+Work
+
+Duration
+4.75–5 hours
+
+Relative Difficulty
+Very High
+
+Tier
+Tier 1 dominant, Tier 2 lean
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Statistics
+Data, collection methods, questionnaires, tabulation
+25 min
+
+Statistics
+Mean, median, mode; probability; attributes
+55 min
+
+Statistics
+Index numbers, WPI, CPI, demography, census, vital statistics, fertility, mortality
+60 min
+
+Mathematics
+SI/CI, linear equations, sets, relations/functions
+45 min
+
+Mathematics
+Probability, P&C, binomial theorem basics, matrices/determinants
+45 min
+
+Mathematics
+Limits/derivatives, coordinate geometry, vectors, 3D geometry lean revision
+35 min
+
+Timed Set
+40-question quant/stat test
+35 min
+
+
+
+Practice Work
+
+• 25 statistics questions.
+• 25 math questions.
+• Formula recall without notes.
+
+Revision Work
+
+• Rebuild formula sheet from memory.
+• Circle formulas still not recallable within 10 seconds.
+
+───
+
+Day 55 — Economics + Science First Revision
+
+
+Block
+Work
+
+Duration
+4.5–4.75 hours
+
+Relative Difficulty
+Medium-high
+
+Tier
+Tier 1 + Tier 2
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Economics
+Basic concepts, demand, IC, production, factor pricing, rent theory, market forms
+60 min
+
+Economics
+Fiscal/monetary policy, RBI, developing economy, planning vs market, reforms, national income, growth
+55 min
+
+Science Physics
+Motion, mass, weight, acceleration, velocity, speed, electricity
+35 min
+
+Science Chemistry/Energy
+Chemical equations, metals/non-metals, conventional/non-conventional energy
+35 min
+
+Science Biology/Environment
+Nutrition, respiration, plant transport, diseases, vitamins, ecosystem, food chain/web, pollution, ozone, greenhouse
+50 min
+
+Timed Set
+50-question economics/science test
+35 min
+
+
+
+Practice Work
+
+• 25 economics questions.
+• 25 science questions.
+• Concept comparison recall.
+
+Revision Work
+
+• Update: 
+◦ economics comparison sheet,
+◦ science process/fact sheet.
+
+───
+
+Day 56 — First Revision Grand Mixed Test
+
+
+Block
+Work
+
+Duration
+5 hours
+
+Relative Difficulty
+Very High
+
+Tier
+Tier 1 full + Tier 2 sampled
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Mixed Test
+120-question syllabus-wide test, not strict full mock yet; allow brief pauses between sections
+120 min
+
+Analysis
+Score by subject; mark Tier 1 vs Tier 2 errors; identify time-heavy areas
+60 min
+
+Repair
+Reattempt 20 most important wrong questions, Tier 1 first
+45 min
+
+Revision
+Accounting formats, formula sheet, J&K Act, English trap sheet rapid recall
+45 min
+
+Planning
+Prepare PYQ/exam-style practice priorities
+30 min
+
+
+
+Practice Work
+
+• 120-question grand mixed test.
+• Reattempt 20 high-value errors.
+
+Revision Work
+
+• Build “PYQ Phase Priority List”: 
+◦ accounting weak areas,
+◦ GK weak categories,
+◦ formula gaps,
+◦ English transformation traps,
+◦ slow subjects.
+
+───
+
+Phase 4 Completion Gate
+
+Before Phase 5, the student should have:
+
+
+Competency
+Required Status
+
+First revision
+Completed across all subjects
+
+Tier 1 accuracy
+Ideally around 70–75% in mixed practice
+
+Accounting
+Formats recallable and common problems attemptable
+
+GK/J&K
+Recall categories clear and weak areas marked
+
+Quant/stat
+Formula sheet mostly recallable
+
+English
+Grammar rules and transformations practiced
+
+Smaller subjects
+Computers, science, economics revised at least once
+
+Error log
+Ready to drive PYQ/exam-style practice
+
+
+
+───
+
+Stage 3 Progress After Part 4
+
+
+Item
+Hours
+
+Phase 1 completed
+~62 hrs
+
+Phase 2 completed
+~134 hrs
+
+Phase 3 completed
+~33 hrs
+
+Phase 4 completed
+~33 hrs
+
+Cumulative completed hours
+~262 / 314
+
+Estimated remaining hours
+~52 hours
+
+Current position
+End of Week 8
+
+Next phase
+Phase 5 — PYQs / Exam-style Practice
+
+Revision cycle
+Daily + weekly; now error-log-driven
+
+Mock frequency
+Full mocks start after exam-style practice
+
+
+
+Stage 3 — Execution Calendar
+Part 5: Phase 5 — PYQs / Exam-Style Practice + Phase 6 — Mock Tests
+Weeks 9–10
+
+Cross-Stage Tracking Before Continuing
+
+
+Item
+Status
+
+Stage 1 total estimated hours
+314 hours
+
+Cumulative hours allocated so far
+~262 hours
+
+Estimated remaining hours
+~52 hours
+
+Current phase
+Phase 5 — PYQs / Exam-style Practice
+
+Current week position
+Week 9
+
+Topics covered so far
+Full first pass + consolidation + first revision
+
+Revision cycle
+Error-log-driven active recall
+
+Mock-test frequency
+Exam-style timed sets now; full mocks begin Phase 6
+
+Tier emphasis
+Tier 1 dominant; Tier 2 sampled based on errors
+
+
+
+───
+
+Phase 5 — PYQs / Exam-Style Practice
+
+Phase 5 Entry Dependency Check
+
+
+Required from Phase 4
+Needed For PYQ / Exam-Style Practice
+Status Required
+
+First revision completed
+Timed objective practice
+Required
+
+Accounting formats recallable
+Accounting PYQ-style problems
+Required
+
+Formula sheets recallable
+Quant/stat objective speed
+Required
+
+GK/J&K recall categories ready
+Factual timed sets
+Required
+
+English trap sheet ready
+Grammar objective accuracy
+Required
+
+Error log prioritized
+Targeted practice
+Required
+
+
+
+Result: Phase 5 can begin if Phase 4 gate passed.
+
+Note: Since actual PYQs were not provided in the syllabus prompt, use available previous-question papers if the student has them. If not, use syllabus-aligned objective sets.
+
+───
+
+Week 9 — Exam-Style Practice
+
+Weekly target hours: about 30–32 hours
+Primary focus: Objective-type timed performance, section accuracy, high-yield error repair.
+Tier emphasis: Tier 1 first; Tier 2 included through mixed sets.
+
+───
+
+Day 57 — Accounting Exam-Style Practice
+
+
+Block
+Work
+
+Duration
+4.5–4.75 hours
+
+Relative Difficulty
+Very High
+
+Tier
+Tier 1 dominant + Tier 2 sampled
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Accounting Timed Set 1
+Terms, equation, double entry, journal, voucher approach, ledger
+35 min
+
+Accounting Timed Set 2
+Cash book, BRS, trial balance
+35 min
+
+Accounting Timed Set 3
+Trading, P&L, balance sheet, financial statements
+45 min
+
+Accounting Timed Set 4
+Partnership, audit, social audit, PFMS, cash-based accounting, cost, taxation
+35 min
+
+Analysis
+Identify wrong answers by concept/procedure/memory/speed
+55 min
+
+Repair
+Reattempt final accounts/BRS/journal errors
+45 min
+
+Revision
+Accounting format and adjustment table recall
+30 min
+
+
+
+Practice Work
+
+• 80–100 accounting objective/practical questions.
+• 1 short final-accounts problem if errors appear in statements.
+• 2 BRS problems if BRS accuracy is below target.
+
+Revision Work
+
+• Update accounting “do-not-repeat” list: 
+◦ wrong account side,
+◦ missed dual effect,
+◦ wrong BRS direction,
+◦ item misplaced in final accounts.
+
+───
+
+Day 58 — GK + J&K Exam-Style Practice
+
+
+Block
+Work
+
+Duration
+4.25–4.5 hours
+
+Relative Difficulty
+High
+
+Tier
+Tier 1 dominant
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+J&K Timed Set
+J&K history, economy, geography, culture, heritage, tourist destinations
+40 min
+
+J&K Act Timed Set
+J&K Reorganisation Act administrative and institutional facts
+30 min
+
+General GK Timed Set
+India/world geography, rivers/lakes, climate, crops, transport, culture, freedom movement
+40 min
+
+Environment + Census Set
+Ecology, biodiversity, census, demography, transport/communication
+25 min
+
+Current Affairs Set
+National, international, J&K, economy, science/tech current events
+30 min
+
+Analysis
+Categorize factual misses
+45 min
+
+Repair
+Rebuild weak recall cards
+45 min
+
+
+
+Practice Work
+
+• 100 GK/J&K objective questions.
+• Reattempt all J&K Act misses.
+• 30 rapid current-affairs prompts.
+
+Revision Work
+
+• Daily GK recall now uses only weak cards plus current affairs.
+
+───
+
+Day 59 — Quant + Statistics Exam-Style Practice
+
+
+Block
+Work
+
+Duration
+4.5–4.75 hours
+
+Relative Difficulty
+Very High
+
+Tier
+Tier 1 dominant
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Mathematics Set 1
+SI/CI, linear equations, sets, relations/functions
+35 min
+
+Mathematics Set 2
+Probability, P&C, binomial basics, matrices/determinants
+40 min
+
+Mathematics Set 3
+Limits/derivatives, coordinate geometry, vectors, 3D geometry lean attempt
+25 min
+
+Statistics Set 1
+Data, collection, questionnaires, tabulation, central tendency
+35 min
+
+Statistics Set 2
+Probability, attributes, index numbers, WPI/CPI, demography, fertility, mortality
+40 min
+
+Analysis
+Formula error vs calculation error vs question-selection error
+50 min
+
+Repair
+Reattempt 20 wrong quant/stat questions
+45 min
+
+
+
+Practice Work
+
+• 50 math questions.
+• 50 statistics questions.
+• Formula sheet recall after timed sets.
+
+Revision Work
+
+• Update formula sheet with: 
+◦ formulas forgotten,
+◦ formulas confused,
+◦ formulas known but misapplied.
+
+───
+
+Day 60 — English + Computers Exam-Style Practice
+
+
+Block
+Work
+
+Duration
+4.25–4.5 hours
+
+Relative Difficulty
+Medium-high
+
+Tier
+Tier 1 dominant
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+English Set 1
+Tenses, articles, prepositions, modals, clauses
+30 min
+
+English Set 2
+Voice, narration, jumbled sentences
+35 min
+
+English Set 3
+Comprehension blanks, phrases, pronouns, homonyms/homophones
+30 min
+
+English Set 4
+Synonyms, antonyms, pairs of words, idioms/phrases
+25 min
+
+Computer Set 1
+Basics, components, hardware/software, CPU, storage, peripherals
+30 min
+
+Computer Set 2
+OS, MS Office, PDF, internet/email, virus/antivirus, IT governance
+35 min
+
+Analysis + Repair
+Correct all grammar and computer confusion errors
+55 min
+
+Revision
+English trap sheet + computer distinction sheet recall
+25 min
+
+
+
+Practice Work
+
+• 60 English questions.
+• 60 computer questions.
+• Reattempt all transformation errors.
+
+Revision Work
+
+• Update grammar trap sheet: 
+◦ tense signal,
+◦ passive auxiliary,
+◦ narration backshift,
+◦ article/preposition trap,
+◦ homophone confusion.
+
+───
+
+Day 61 — Economics + Science Exam-Style Practice
+
+
+Block
+Work
+
+Duration
+4.25–4.5 hours
+
+Relative Difficulty
+Medium-high
+
+Tier
+Tier 1 + Tier 2 sampled
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Economics Set 1
+Basic concepts, demand, IC, production, factor pricing, rent, market forms
+40 min
+
+Economics Set 2
+Fiscal/monetary policy, RBI, developing economy, planning vs market, reforms, national income, growth
+40 min
+
+Science Set 1
+Motion, mass/weight/acceleration/velocity/speed, electricity
+30 min
+
+Science Set 2
+Chemical equations, metals/non-metals, energy sources
+30 min
+
+Science Set 3
+Nutrition, respiration, plant transport, diseases, vitamins, ecosystem, food chains, pollution, ozone, greenhouse
+40 min
+
+Analysis
+Concept confusion vs factual memory error
+45 min
+
+Repair
+Reattempt 25 wrong economics/science questions
+35 min
+
+
+
+Practice Work
+
+• 50 economics questions.
+• 50 science questions.
+• Build concept comparison list from wrong answers.
+
+Revision Work
+
+• Update: 
+◦ economics comparison sheet,
+◦ science fact/process sheet.
+
+───
+
+Day 62 — Mixed Exam-Style Set I
+
+
+Block
+Work
+
+Duration
+4.75–5 hours
+
+Relative Difficulty
+Very High
+
+Tier
+Full syllabus; Tier 1 score protection
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Mixed Set
+120-question objective test in subject proportions: GK 30, accounting 30, six 10-mark subjects
+120 min
+
+Analysis
+Section-wise accuracy, time, skipped questions, avoidable mistakes
+60 min
+
+Repair
+Reattempt top 20 Tier 1 wrong questions
+45 min
+
+Revision
+Accounting formats, J&K Act, formula sheet, English trap sheet
+45 min
+
+Strategy
+Decide preliminary section order and skip rules
+20 min
+
+
+
+Practice Work
+
+• 120-question mixed exam-style paper.
+• Reattempt top 20 wrong questions.
+
+Revision Work
+
+• Build “exam attempt rules”: 
+◦ start section,
+◦ maximum time for stuck question,
+◦ calculation check rules,
+◦ when to skip advanced math.
+
+───
+
+Day 63 — Mixed Exam-Style Set II + Recovery
+
+
+Block
+Work
+
+Duration
+4–4.5 hours
+
+Relative Difficulty
+High
+
+Tier
+Tier 1 dominant
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Targeted Mixed Set
+60-question set built from Day 62 weak areas
+60 min
+
+Accounting Repair
+BRS/final accounts/journal weakness repair
+45 min
+
+GK Repair
+J&K Act/current affairs/factual weak cards
+40 min
+
+Quant/English Repair
+Formula traps and grammar traps
+40 min
+
+Small Subjects Repair
+Computer/science/economics weak facts
+35 min
+
+Planning
+Verify readiness for full mock phase
+20 min
+
+
+
+Practice Work
+
+• 60 targeted questions from weak areas.
+• Reattempt all red-marked Day 62 Tier 1 errors.
+
+Revision Work
+
+• Keep only the highest-risk error cards for Week 10.
+
+───
+
+Phase 5 Completion Gate
+
+Before Phase 6, the student should have:
+
+
+Competency
+Required Status
+
+Objective practice
+Attempted subject-wise and mixed sets
+
+Timing
+Preliminary section timing known
+
+Error log
+Reduced to high-risk recurring errors
+
+Tier 1 accuracy
+Moving toward 75–80%
+
+Accounting
+Procedural errors identified and repairable
+
+GK
+Weak factual categories known
+
+Quant/stat
+Formula and selection errors identified
+
+English
+Transformation traps known
+
+
+
+───
+
+Phase 6 — Mock Tests
+
+Phase 6 Entry Dependency Check
+
+
+Required from Phase 5
+Needed For Full Mocks
+Status
+
+Mixed exam-style sets attempted
+Full mock readiness
+Required
+
+Attempt strategy drafted
+Time management
+Required
+
+Error log prioritized
+Mock analysis
+Required
+
+Core recall sheets ready
+Between-mock repair
+Required
+
+
+
+Result: Phase 6 can begin if Phase 5 gate passed.
+
+───
+
+Week 10 — Full Mock Testing
+
+Weekly target hours: about 28–30 hours
+Primary focus: 2-hour exam simulation, score stabilization, repeated error elimination.
+Tier emphasis: Full syllabus, but Tier 1 error repair first.
+
+───
+
+Day 64 — Full Mock 1
+
+
+Block
+Work
+
+Duration
+4.5–5 hours
+
+Relative Difficulty
+Very High
+
+Tier
+Full syllabus
+
+
+
+Study Targets
+
+
+Component
+Sub-Concept Targets
+Time
+
+Pre-Mock Recall
+Accounting formats, formula sheet, J&K Act, English trap sheet
+30 min
+
+Full Mock 1
+120-mark, 2-hour objective simulation
+120 min
+
+Break
+Short recovery before analysis
+15 min
+
+Analysis
+Subject score, attempted/correct, skipped, time-heavy questions
+45 min
+
+Error Classification
+Concept, memory, calculation, misreading, time pressure, over-attempt
+35 min
+
+Repair
+Reattempt top 10 Tier 1 wrong questions
+35 min
+
+
+
+Practice Work
+
+• One full 120-mark mock under 2-hour timing.
+• Reattempt top 10 Tier 1 errors.
+
+Revision Work
+
+• Write Mock 1 diagnosis: 
+◦ best subject,
+◦ worst subject,
+◦ slowest section,
+◦ most common error type.
+
+───
+
+Day 65 — Mock 1 Repair Day
+
+
+Block
+Work
+
+Duration
+4–4.5 hours
+
+Relative Difficulty
+Medium-high
+
+Tier
+Tier 1 repair dominant
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Accounting Repair
+Re-solve wrong accounting items: journal/ledger/BRS/final accounts/applied concepts
+60 min
+
+GK Repair
+J&K, J&K Act, current affairs, India geography weak cards
+45 min
+
+Quant/Stats Repair
+Wrong formulas and calculation traps from mock
+45 min
+
+English Repair
+Grammar/narration/voice/jumbled/blanks mistakes
+35 min
+
+Science/Economics/Computer Repair
+Missed factual-conceptual questions
+35 min
+
+Timed Drill
+30-question set from weakest subject
+30 min
+
+
+
+Practice Work
+
+• Reattempt all Mock 1 wrong answers.
+• 30-question timed set from lowest-scoring area.
+
+Revision Work
+
+• Update “Mock 2 prevention sheet.”
+
+───
+
+Day 66 — Full Mock 2
+
+
+Block
+Work
+
+Duration
+4.5–5 hours
+
+Relative Difficulty
+Very High
+
+Tier
+Full syllabus
+
+
+
+Study Targets
+
+
+Component
+Sub-Concept Targets
+Time
+
+Pre-Mock Recall
+Mock 1 prevention sheet; formula/accounting/J&K rapid review
+25 min
+
+Full Mock 2
+120-mark, 2-hour simulation
+120 min
+
+Analysis
+Compare with Mock 1: score movement, accuracy, time, subject stability
+50 min
+
+Error Classification
+Repeated vs new errors
+35 min
+
+Repair
+Reattempt repeated errors first
+40 min
+
+
+
+Practice Work
+
+• One full mock.
+• Reattempt repeated Mock 1 + Mock 2 errors.
+
+Revision Work
+
+• Mark repeated errors as “critical repair” for Day 67.
+
+───
+
+Day 67 — Mock 2 Repair + Timed Sectionals
+
+
+Block
+Work
+
+Duration
+4.25–4.75 hours
+
+Relative Difficulty
+High
+
+Tier
+Tier 1 dominant
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Critical Repair
+Repeated errors from Mock 1 and Mock 2
+60 min
+
+Sectional 1
+Accounting 30-mark timed sectional
+35 min
+
+Sectional 2
+GK 30-mark timed sectional
+35 min
+
+Sectional 3
+Quant/Stats combined timed sectional
+30 min
+
+Sectional 4
+English/computer/science/economics rapid mixed set
+35 min
+
+Analysis
+Check whether repair reduced errors
+40 min
+
+Revision
+High-risk cards only
+30 min
+
+
+
+Practice Work
+
+• 4 timed sectionals.
+• Reattempt errors from the lowest sectional.
+
+Revision Work
+
+• Finalize: 
+◦ accounting danger list,
+◦ GK danger list,
+◦ formula danger list,
+◦ grammar danger list.
+
+───
+
+Day 68 — Full Mock 3
+
+
+Block
+Work
+
+Duration
+4.5–5 hours
+
+Relative Difficulty
+Very High
+
+Tier
+Full syllabus
+
+
+
+Study Targets
+
+
+Component
+Sub-Concept Targets
+Time
+
+Pre-Mock Recall
+Danger lists only; no heavy reading
+25 min
+
+Full Mock 3
+120-mark, 2-hour simulation
+120 min
+
+Analysis
+Stability check across 3 mocks
+55 min
+
+Repair
+Top 15 wrong questions, Tier 1 first
+45 min
+
+Strategy
+Adjust final section order and skip rules
+25 min
+
+
+
+Practice Work
+
+• One full mock.
+• Reattempt 15 wrong questions.
+
+Revision Work
+
+• Compare Mock 1–3: 
+◦ score trend,
+◦ subject trend,
+◦ time trend,
+◦ repeated error trend.
+
+───
+
+Day 69 — Optional Mock 4 or Deep Repair
+
+
+Block
+Work
+
+Duration
+4–5 hours
+
+Relative Difficulty
+Variable
+
+Tier
+Decision-based
+
+
+
+Decision Rule
+
+
+If Mock 1–3 Scores Are Stable
+If Mock 1–3 Scores Are Unstable
+
+Take optional Mock 4 only if stamina and recovery are good
+Do not take Mock 4; do deep repair instead
+
+Use it to refine timing
+Use time to fix repeated errors
+
+
+
+Option A — Mock 4
+
+
+Component
+Time
+
+Pre-mock recall
+20 min
+
+Full Mock 4
+120 min
+
+Analysis
+45 min
+
+Light repair
+45 min
+
+Revision
+30 min
+
+
+
+Option B — Deep Repair
+
+
+Subject
+Time
+
+Accounting repeated errors
+60 min
+
+GK/J&K repeated misses
+45 min
+
+Quant/stat formulas and calculations
+45 min
+
+English transformation traps
+35 min
+
+Computers/science/economics factual misses
+35 min
+
+40-question targeted timed set
+40 min
+
+
+
+Revision Work
+
+• Keep only final weak-area list for Phase 7.
+
+───
+
+Day 70 — Mock Phase Closure
+
+
+Block
+Work
+
+Duration
+3.5–4 hours
+
+Relative Difficulty
+Medium
+
+Tier
+Tier 1 repair
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Mock Trend Review
+Compare all mocks: score, attempts, accuracy, timing, weak subjects
+40 min
+
+Accounting Final Repair
+Reattempt recurring accounting mistakes
+45 min
+
+GK Final Repair
+J&K Act, J&K facts, current affairs weak recall
+40 min
+
+Formula Repair
+Math/stat formulas still missed under time
+35 min
+
+English/Small Subjects Repair
+Grammar traps, computer/science/economics facts
+35 min
+
+Planning
+Build Phase 7 weak-area improvement list
+20 min
+
+
+
+Practice Work
+
+• Reattempt only repeated wrong answers.
+• 30-question final weak-area check.
+
+Revision Work
+
+• Create final repair list: 
+◦ must fix,
+◦ should fix,
+◦ ignore if time short.
+
+───
+
+Phase 6 Completion Gate
+
+Before Phase 7, the student should have:
+
+
+Competency
+Required Status
+
+Full mocks
+At least 3 completed and analyzed
+
+Timing
+Section order and skip rules decided
+
+Error trend
+Repeated errors identified
+
+Weak areas
+Ranked by score loss
+
+Tier 1
+Major weaknesses known and repairable
+
+Final revision sheets
+Ready
+
+
+
+───
+
+Stage 3 Progress After Part 5
+
+
+Item
+Hours
+
+Phases 1–4 completed
+~262 hrs
+
+Phase 5 completed
+~31 hrs
+
+Phase 6 completed
+~29 hrs
+
+Cumulative completed hours
+~322 / 314
+
+Estimated remaining hours
+Phase 7–8 still needed; bottom-up total is exceeding Stage 1
+
+Current position
+End of Week 10
+
+Next phase
+Phase 7 — Weak-Area Improvement
+
+Revision cycle
+Error-log-driven
+
+Mock frequency
+3 full mocks completed, optional 4th if stable
+
+
+
+Planning drift detected: The bottom-up calendar has already reached about 322 hours, exceeding the Stage 1 estimate of 314 hours before Phases 7–8. This is acceptable to surface now rather than silently compress. Stage 4 will reconcile totals formally, but for Stage 3 execution integrity, I will continue with the required final phases at lean depth instead of thinning daily detail.
+
+Stage 3 — Execution Calendar
+Part 6: Phase 7 — Weak-Area Improvement + Phase 8 — Final Revision
+Week 11
+
+Cross-Stage Tracking Before Continuing
+
+
+Item
+Status
+
+Stage 1 total estimated hours
+314 hours
+
+Bottom-up cumulative hours so far
+~322 hours
+
+Planning drift
+Detected; Stage 3 bottom-up total now exceeds Stage 1 top-down estimate
+
+Current phase
+Phase 7 — Weak-Area Improvement
+
+Current week position
+Week 11
+
+Topics covered so far
+Full syllabus first pass, consolidation, first revision, exam-style practice, 3 full mocks
+
+Revision cycle
+Fully error-log-driven
+
+Mock-test frequency
+No mandatory new full mocks; only targeted timed checks
+
+Tier emphasis
+Tier 1 repeated errors first; Tier 2 only if low-cost marks remain
+
+
+
+───
+
+Phase 7 — Weak-Area Improvement
+
+Phase 7 Entry Dependency Check
+
+
+Required from Phase 6
+Needed For Weak-Area Improvement
+Status Required
+
+At least 3 full mocks completed
+Reliable error pattern
+Required
+
+Mock scores analyzed
+Weak-area ranking
+Required
+
+Repeated errors identified
+Targeted repair
+Required
+
+Section timing known
+Final strategy adjustment
+Required
+
+Final repair list created
+Phase 7 focus
+Required
+
+
+
+Result: Phase 7 can begin if Phase 6 gate passed.
+
+───
+
+Week 11, Days 71–74 — Weak-Area Improvement
+
+Target hours: about 17–19 hours
+Primary focus: Repair score-losing patterns, not broad rereading.
+Tier emphasis: Tier 1 dominates.
+
+───
+
+Day 71 — Accounting Weak-Area Repair
+
+
+Block
+Work
+
+Duration
+4.5–4.75 hours
+
+Relative Difficulty
+Very High
+
+Tier
+Tier 1 first; Tier 2 only if repeatedly missed
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Accounting Error Review
+Review all repeated accounting errors from mocks: journal, ledger, cash book, BRS, trial balance, final accounts, applied accounting
+35 min
+
+Journal/Ledger Repair
+Account selection, debit/credit side, compound entries, ledger posting and balancing
+45 min
+
+BRS Repair
+Starting balance, add/subtract logic, overdraft treatment, timing differences
+45 min
+
+Final Accounts Repair
+Item classification, trading vs P&L vs balance sheet, capital adjustment, dual-effect adjustments
+75 min
+
+Applied Accounting Repair
+Partnership, audit, PFMS, cost, budgetary control, taxation only if repeatedly wrong
+35 min
+
+Timed Check
+30-mark accounting sectional
+35 min
+
+Analysis
+Confirm whether repeated errors reduced
+20 min
+
+
+
+Practice Work
+
+• 15 journal/ledger questions.
+• 2 BRS problems.
+• 1 short final accounts problem with adjustments.
+• 25 applied accounting MCQs if needed.
+• 30-mark accounting sectional.
+
+Revision Work
+
+• Final accounting danger sheet: 
+◦ debit/credit rule,
+◦ BRS direction table,
+◦ final accounts classification table,
+◦ adjustment dual-effect table.
+
+Exit Condition for the Day
+
+Accounting is ready for final revision if repeated errors are now either corrected or clearly avoidable through skip/check rules.
+
+───
+
+Day 72 — GK/J&K + Current Affairs Weak-Area Repair
+
+
+Block
+Work
+
+Duration
+4.25–4.5 hours
+
+Relative Difficulty
+High
+
+Tier
+Tier 1 dominant
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+J&K Recall Repair
+Weak facts from J&K history, economy, geography, rivers, lakes, climate, crops, flora/fauna, heritage, culture, tourism
+70 min
+
+J&K Act Repair
+Reorganisation Act: UT formation, legislature, administration, representation/institutional changes
+45 min
+
+General GK Repair
+India/world political and physical divisions, rivers/lakes, climate/crops/transport, culture/freedom movement
+40 min
+
+Current Affairs Repair
+National, international, J&K, economy, science/tech weak cards
+35 min
+
+Environment/Census Repair
+Ecology, biodiversity, demography, census, transport/communication
+25 min
+
+Timed Check
+50-question GK/J&K timed set
+35 min
+
+Analysis
+Identify remaining factual blind spots
+20 min
+
+
+
+Practice Work
+
+• 80 rapid recall prompts.
+• 50-question timed GK/J&K set.
+• Reattempt all wrong questions immediately.
+
+Revision Work
+
+• Keep final GK deck limited to: 
+◦ repeatedly missed J&K facts,
+◦ J&K Act points,
+◦ current affairs,
+◦ high-confusion geography/culture/environment facts.
+
+Exit Condition for the Day
+
+No broad GK rereading remains; final revision uses only recall cards and weak sheets.
+
+───
+
+Day 73 — Quant/Stats + English Weak-Area Repair
+
+
+Block
+Work
+
+Duration
+4.5–4.75 hours
+
+Relative Difficulty
+Very High
+
+Tier
+Tier 1 dominant
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Math Formula Repair
+SI/CI, equations, sets, relations/functions, probability, P&C; advanced math only if repeated error
+45 min
+
+Statistics Formula Repair
+Central tendency, probability, attributes, index numbers, WPI/CPI, fertility/mortality measures
+55 min
+
+Quant Timed Drill
+40-question math/stat mixed set
+45 min
+
+English Grammar Repair
+Tense, article, preposition, modal, clause errors from mocks
+35 min
+
+English Application Repair
+Voice, narration, jumbled sentences, comprehension blanks, homonyms/homophones
+40 min
+
+English Timed Drill
+30-question English set
+25 min
+
+Analysis
+Formula vs reading vs rule-confusion error check
+25 min
+
+
+
+Practice Work
+
+• 40 math/stat questions.
+• 30 English questions.
+• Rebuild formula sheet without notes.
+• Reattempt all wrong grammar transformations.
+
+Revision Work
+
+• Final formula danger sheet: 
+◦ formula,
+◦ when to use,
+◦ one example,
+◦ common trap.
+• Final English danger sheet: 
+◦ tense signal,
+◦ passive structure,
+◦ narration rule,
+◦ preposition/article traps,
+◦ homophone traps.
+
+Exit Condition for the Day
+
+Quant/stat errors are reduced to known high-risk formulas, and English errors are reduced to a small trap list.
+
+───
+
+Day 74 — Economics + Science + Computers Weak-Area Repair
+
+
+Block
+Work
+
+Duration
+4.25–4.5 hours
+
+Relative Difficulty
+Medium-high
+
+Tier
+Tier 1 + high-return Tier 2
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Economics Repair
+Demand, IC, production, factor pricing, market forms, fiscal/monetary policy, RBI, national income, growth, reforms
+55 min
+
+Science Repair
+Motion/electricity, chemical equations, metals/non-metals, energy, nutrition, respiration, plant transport, diseases, vitamins, ecosystem, pollution, ozone, greenhouse
+60 min
+
+Computer Repair
+Basics, components, hardware/software, CPU, storage, OS, MS Office, PDF, internet/email, virus/antivirus, open source, firmware, humanware, IT governance
+55 min
+
+Timed Mixed Drill
+60-question economics/science/computer set
+45 min
+
+Analysis
+Identify remaining memory gaps
+25 min
+
+Final Strategy Update
+Update section order, skip rules, last-revision list
+20 min
+
+
+
+Practice Work
+
+• 20 economics questions.
+• 20 science questions.
+• 20 computer questions.
+• Reattempt wrong answers immediately.
+
+Revision Work
+
+• Final small-subject danger sheet: 
+◦ economics comparison pairs,
+◦ science processes and facts,
+◦ computer terminology distinctions.
+
+Exit Condition for the Day
+
+The smaller 10-mark subjects should be ready for final recall rather than further learning.
+
+───
+
+Phase 7 Completion Gate
+
+Before Phase 8, the student must have:
+
+
+Competency
+Required Status
+
+Error log
+Reduced to final danger sheets
+
+Accounting
+Repeated procedural errors repaired or controlled
+
+GK/J&K
+Final weak cards identified
+
+Quant/stat
+Formula danger sheet ready
+
+English
+Grammar trap sheet final
+
+Economics/science/computers
+Final fact/concept sheets ready
+
+Exam strategy
+Section order and skip rules fixed
+
+New learning
+Stopped
+
+
+
+───
+
+Phase 8 — Final Revision
+
+Phase 8 Entry Dependency Check
+
+
+Required from Phase 7
+Needed For Final Revision
+Status
+
+Final danger sheets ready
+Rapid recall
+Required
+
+Error log repaired
+No new heavy work
+Required
+
+Mock strategy fixed
+Exam readiness
+Required
+
+No major prerequisite gaps
+Final stabilization
+Required
+
+
+
+Result: Phase 8 can begin if Phase 7 gate passed.
+
+───
+
+Week 11, Days 75–78 — Final Revision
+
+Target hours: about 15–17 hours
+Primary focus: Stabilize recall. No new topics. No heavy expansion.
+Tier emphasis: Tier 1 almost entirely.
+
+───
+
+Day 75 — Final Revision I: Accounting + GK/J&K
+
+
+Block
+Work
+
+Duration
+4.25–4.5 hours
+
+Relative Difficulty
+High
+
+Tier
+Tier 1 dominant
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Accounting Recall
+Accounting equation, debit/credit rules, journal format, ledger posting rules, cash book, BRS direction table
+45 min
+
+Final Accounts Recall
+Trial balance, trading account, P&L, balance sheet, adjustment dual effects
+55 min
+
+Applied Accounting Recall
+Partnership, audit, social audit, PFMS, IFMS, cost, budgetary control, taxation, developments — only final distinction sheets
+35 min
+
+J&K Recall
+J&K history, geography, economy, culture, heritage, tourist destinations, rivers/lakes/climate/crops/flora/fauna
+50 min
+
+J&K Act + Current
+Reorganisation Act final sheet + current affairs weak cards
+35 min
+
+Light Timed Check
+30 accounting + 30 GK rapid questions
+35 min
+
+
+
+Practice Work
+
+• 60 rapid questions total.
+• No long new accounting problem unless a format collapses.
+
+Revision Work
+
+• If a final account format is forgotten, rewrite it once from memory after correction.
+• If J&K Act recall fails, reduce to final 10–15 high-risk cards.
+
+───
+
+Day 76 — Final Revision II: Quant, Statistics, English
+
+
+Block
+Work
+
+Duration
+4.25–4.5 hours
+
+Relative Difficulty
+High
+
+Tier
+Tier 1 dominant
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Statistics Recall
+Data, collection, questionnaires, tabulation, central tendency, probability, attributes, index, WPI/CPI, demography, fertility, mortality
+60 min
+
+Mathematics Recall
+SI/CI, equations, sets, relations/functions, probability, P&C, matrices/determinants, lean review of advanced topics
+50 min
+
+English Grammar Recall
+Tenses, articles, prepositions, modals, clauses
+35 min
+
+English Application Recall
+Voice, narration, jumbled sentences, comprehension blanks, homonyms/homophones
+40 min
+
+Vocabulary Recall
+Synonyms, antonyms, idioms/phrases, pairs of words
+25 min
+
+Light Timed Check
+30 quant/stat + 25 English questions
+40 min
+
+
+
+Practice Work
+
+• 55 rapid questions.
+• Formula sheet reproduced once without notes.
+
+Revision Work
+
+• Final formula sheet must be reduced to only: 
+◦ not instantly recalled,
+◦ often confused,
+◦ high scoring.
+
+───
+
+Day 77 — Final Revision III: Economics, Science, Computers + Strategy
+
+
+Block
+Work
+
+Duration
+4–4.25 hours
+
+Relative Difficulty
+Medium-high
+
+Tier
+Tier 1 + selected Tier 2
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Economics Recall
+Basic concepts, demand, IC, production, factor pricing, rent, markets, policy, RBI, developing economy, reforms, national income, growth
+55 min
+
+Science Recall
+Motion, electricity, chemistry, energy, nutrition, respiration, plant transport, disease, vitamins, ecosystem, pollution, ozone, greenhouse
+55 min
+
+Computer Recall
+Basics, components, OS, hardware/software, CPU, storage, MS Office, PDF, internet/email, virus, open source, firmware/humanware, IT governance
+55 min
+
+Final Strategy
+Section order, time allocation, skip rules, calculation check rules, no-overattempt rule
+30 min
+
+Light Timed Check
+60-question economics/science/computer rapid set
+40 min
+
+
+
+Practice Work
+
+• 60 rapid questions.
+• Reattempt wrong answers only once; do not expand notes.
+
+Revision Work
+
+• Finalize the one-page “exam rules sheet.”
+
+───
+
+Day 78 — Final Readiness Day
+
+
+Block
+Work
+
+Duration
+3–3.75 hours
+
+Relative Difficulty
+Low-medium
+
+Tier
+Tier 1 only unless a quick Tier 2 fact is already prepared
+
+
+
+Study Targets
+
+
+Subject
+Sub-Concept Targets
+Time
+
+Accounting Final Recall
+Formats, debit/credit, BRS table, adjustment table
+35 min
+
+GK/J&K Final Recall
+J&K Act, J&K weak cards, current affairs weak cards
+35 min
+
+Formula Final Recall
+Statistics and math formula danger sheet
+30 min
+
+English Final Recall
+Grammar trap sheet and transformation rules
+25 min
+
+Small Subjects Final Recall
+Economics/science/computer final facts
+35 min
+
+Ultra-Light Check
+40 mixed questions, only to stay sharp, not to discover new syllabus
+35 min
+
+Exam Strategy Lock
+Section order, skip rules, time checkpoints
+20 min
+
+Stop Rule
+End study after final corrections; no late new learning
+10 min
+
+
+
+Practice Work
+
+• 40 mixed rapid questions.
+• Recheck only the errors from this set.
+
+Revision Work
+
+• Final sheets only: 
+◦ accounting danger sheet,
+◦ J&K/current sheet,
+◦ formula sheet,
+◦ English trap sheet,
+◦ small-subject sheet,
+◦ exam rules sheet.
+
+───
+
+Phase 8 Completion Gate
+
+The student is ready if:
+
+
+Area
+Readiness Check
+
+Accounting
+Formats and BRS/adjustment rules recallable
+
+GK/J&K
+Final weak cards reviewed
+
+English
+Grammar traps known
+
+Quant/stat
+Formula sheet recallable
+
+Economics/science/computers
+Final fact sheets reviewed
+
+Mocks
+At least 3 full mocks analyzed
+
+Strategy
+Section order and skip rules fixed
+
+New learning
+Stopped
+
+
+
+───
+
+Stage 3 Bottom-Up Total
+
+
+Segment
+Approx. Hours
+
+Phase 1 — Foundation
+~62
+
+Phase 2 — Core Learning
+~134
+
+Phase 3 — Consolidation
+~33
+
+Phase 4 — First Revision
+~33
+
+Phase 5 — PYQ / Exam-style Practice
+~31
+
+Phase 6 — Mock Tests
+~29
+
+Phase 7 — Weak-Area Improvement
+~18
+
+Phase 8 — Final Revision
+~16
+
+Stage 3 Bottom-Up Total
+~356 hours
+
+
+
+Bottom-Up Duration
+
+
+Daily Capacity
+Bottom-Up Total
+Required Duration
+
+4 hours/day
+356 hrs
+89 days ≈ 12.7 weeks
+
+4.5 hours/day
+356 hrs
+79 days ≈ 11.3 weeks
+
+5 hours/day
+356 hrs
+71 days ≈ 10.1 weeks
+
+
+
+Important reconciliation note: Stage 1 estimated 314 hours, but the fully detailed Stage 3 bottom-up calendar totals about 356 hours. Per the planning rules, the bottom-up Stage 3 total is more authoritative and will need to be reconciled formally in Stage 4.
+
+───
+
+Stage 3 Completion Summary
+
+The execution calendar now covers all phases in Stage 2 order: Foundation → Core Learning → Consolidation → First Revision → PYQ/exam-style practice → Mock Tests → Weak-Area Improvement → Final Revision. Every day stays within the 4–5 hour workload limit, names sub-concepts rather than broad chapter titles, and includes practice, revision, duration, and relative difficulty. Revision begins from Week 1, becomes cumulative by Week 3, error-log-driven by Week 8, and mock-driven in Weeks 10–11. The final bottom-up estimate is ~356 hours, meaning responsible full readiness is closer to 10–13 weeks than the Stage 1 top-down 9–11 week estimate.
+
+Stage 4 — Final Quality Pass
+
+1. Quality-Control Checklist
+
+
+Check
+Result
+
+1. Every syllabus topic included
+Passed
+
+2. Learning sequence follows dependency map
+Passed
+
+3. Subject weightage influenced time allocation
+Passed
+
+4. Duration derived from topic hours, not reverse-engineered
+Passed
+
+5. Leanest sufficient version used under 1-month pressure
+Passed, with note: full readiness exceeds 1 month
+
+6. No day exceeds 5 hours
+Passed
+
+7. Revision continuous from early on
+Passed
+
+8. Practice difficulty progresses appropriately
+Passed
+
+9. Mock tests increase toward exam
+Passed
+
+10. Zero prior accounting knowledge assumed
+Passed
+
+11. Each phase starts after prerequisite checks
+Passed
+
+12. Totals and logic consistent
+Partially revised below
+
+13. Tier 1 forms coherent compressed plan
+Passed
+
+14. Topic-level weightage labeled inferred, not official
+Passed
+
+
+
+───
+
+2. Hour Reconciliation
+
+
+Source
+Total Hours
+
+Stage 1 top-down estimate
+314 hours
+
+Stage 3 bottom-up execution calendar
+~356 hours
+
+Difference
++42 hours
+
+
+
+Resolution: Per the stated rule, the Stage 3 bottom-up total is authoritative because it sums actual daily execution blocks.
+
+───
+
+3. Stage 1 Addendum — Revised Duration
+
+Replace the Stage 1 recommended duration table with:
+
+
+Daily Study Capacity
+Revised Total Hours
+Calendar Duration Needed
+
+4 hours/day
+356 hrs
+89 days ≈ 12.7 weeks
+
+4.5 hours/day
+356 hrs
+79 days ≈ 11.3 weeks
+
+5 hours/day
+356 hrs
+71 days ≈ 10.1 weeks
+
+
+
+Revised responsible duration: about 10–13 weeks.
+
+───
+
+4. Consistency Notes
+
+• The mismatch came from Stage 3 adding realistic daily repair, test-analysis, and final-revision blocks that were undercounted in Stage 1.
+• The syllabus sequence, dependency map, Tier 1/Tier 2 structure, revision logic, and mock cadence remain valid.
+• No topic needs removal; the corrected plan is simply longer and more realistic for a complete beginner.
+
+Final plan status: approved after reconciliation.

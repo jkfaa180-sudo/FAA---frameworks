@@ -1,0 +1,2147 @@
+STAGE 1 — STRATEGIC BLUEPRINT
+JKSSB Finance Accounts Assistant (FAA) — Self-Study System
+
+Evidence labeling key:[OFFICIAL] = from syllabus/your input · [LS] = learning science · [INF] = analytical inference. All study hours and all topic-level weightages are [INF] — never official.
+
+───
+
+1. Syllabus Breakdown
+
+[OFFICIAL] subject marks. Observations included only where they affect sequencing or hours.
+
+
+Subject
+Official Marks
+Sequencing/Allocation-Affecting Observation
+
+Accountancy & Book Keeping
+30
+Highest skill-build subject; heavily procedural/practice-driven; long internal prerequisite chain. Anchor #1.
+
+General Knowledge (J&K UT focus)
+30
+Largest memorization load; J&K-static portion is high-yield & finite; current affairs is open-ended. Anchor #2. Low prerequisite depth → can run in parallel from Day 1.
+
+General English
+10
+Mostly rule-based + recognition; fast ROI; minimal prerequisites.
+
+Statistics
+10
+Split personality: descriptive stats (easy, overlaps Math) vs. demography/vital-stats formulas (memorization-heavy).
+
+Mathematics
+10
+Widest difficulty spread; some topics low-yield-per-hour for a non-math beginner (3D geometry, vectors). Triage candidate.
+
+General Economics
+10
+Conceptual/theory; partial synergy with Accountancy (PFMS, national income) and GK.
+
+General Science
+10
+Pure recall; class 9–10 NCERT level; high marks-per-hour.
+
+Knowledge of Computers
+10
+Pure recall + familiarity; very high marks-per-hour; near-zero prerequisites.
+
+
+
+Cross-subject synergies affecting hours [INF]: Statistics⟷Mathematics (central tendency, probability); Economics⟷Accountancy (national income, PFMS, fiscal policy); Economics⟷GK (economic reforms, RBI); Statistics demography ⟷ GK demography (same topic appears in both — study once).
+
+───
+
+2. Learning Dependency Map
+
+Built before sequencing. Arrows = "must precede." Later stages follow this map, not syllabus order.
+
+2A. Accountancy (the only deep prerequisite chain in the exam)
+Accounting fundamentals (terms, equation)
+        ↓
+Double-entry rules (debit/credit, account types)
+        ↓
+Journal → Voucher approach
+        ↓
+Ledger posting
+        ↓
+Cash Book (special subsidiary book)
+        ↓
+Trial Balance
+        ↓
+  ┌─────────────┴───────────────┐
+Bank Reconciliation        Final Accounts:
+Statement (uses cash book)  Trading A/c → P&L A/c → Balance Sheet
+                                    ↓
+                          Partnership Accounts (applies final accounts)
+        ↓ (parallel applied branches, all need Trial Balance/Final A/cs first)
+Financial Statements/Mgmt · Cost Accounting · Budgetary Control
+        ↓ (standalone conceptual — low/no prereq, can slot anytime)
+Financial Audit · Social Accounting · Social Audit · Cash-based system ·
+PFMS · Indian FMS · Developments in Accounting · Taxation (Direct/Indirect)
+
+
+2B. Quantitative cluster (Math ⟷ Statistics shared roots)
+Basic algebra (linear equations) ──→ Simple & Compound Interest
+Permutations & Combinations ──→ Binomial Theorem
+                            └──→ Probability (Math) ──→ Theory of Probability (Stats)
+Set Theory ──→ Relations & Functions ──→ Limits & Derivatives
+Measures of Central Tendency ──→ (independent of demography)
+Index Numbers (WPI/CPI) — standalone
+Demography/Vital Stats/Fertility/Mortality — standalone formula cluster
+   (shared with GK demography → study ONCE)
+Matrices & Determinants — standalone
+Coordinate Geom → 3D Geom → Vectors  (chain; low-yield tail for beginner)
+
+
+2C. Low/zero-prerequisite subjects (can start any time, parallelizable)
+GK (static J&K, national static)  — no prereq; daily drip
+Current Affairs                   — no prereq; continuous daily drip
+General English                   — rule clusters, near-independent
+General Science                   — recall, independent
+Computers                         — recall, independent
+Economics — basic concepts ──→ (consumer demand, factor pricing, market forms,
+                                national income) mild internal ordering only
+
+
+Key dependency insight [INF]: Only Accountancy and the Math/Stats quantitative cluster have true prerequisite chains. Everything else is parallelizable recall, which lets revision and high-yield recall subjects run alongside the long Accountancy build from Day 1 — critical for fitting a lean horizon.
+
+───
+
+3. Topic-Level Weightage Apportionment Basis
+
+Stated once, here, before the hours table. Subject marks are [OFFICIAL]; I apportion them across topics using four factors, weighted as below [INF]:
+
+• Topic breadth (how much of the subject's question pool it plausibly covers) — primary driver
+• Conceptual complexity (harder topics tend to attract more discriminating questions)
+• Prerequisite density (foundational topics recur, so they're tested more)
+• Practice intensity required (procedural topics carry more question variety)
+
+All topic-level mark figures below are derived apportionments [INF], not official. They are expressed as inferred marks out of the subject's official total.
+
+───
+
+4. Difficulty & Study Hours (consolidated, per major topic)
+
+Scope: leanest sufficient version per the 1-month working horizon. Hours = Theory / Practice / Revision / Mock-applicable. "Inf. Marks" = derived apportionment [INF] of the official subject total. Demography is counted once (under Statistics) and reused for GK.
+
+Difficulty: 1 (recall) → 5 (deep skill). Practice intensity: Lo/Md/Hi. Confidence = my confidence in the hour estimate.
+
+Subject 1 — Accountancy & Book Keeping (30 official marks)
+
+
+Topic
+Diff
+#Prereq
+Practice
+Beginner curve note
+Inf. Marks
+Conf
+T / P / R / M (h)
+
+Fundamentals + Accounting Equation
+2
+0
+Md
+Gentle but conceptually pivotal; everything builds on it
+2
+High
+3 / 2 / 1 / –
+
+Double-entry + Journal + Voucher
+4
+1
+Hi
+Steepest first cliff; debit/credit rules feel counter-intuitive
+4
+High
+4 / 6 / 2 / –
+
+Ledger + Cash Book
+3
+2
+Hi
+Mechanical once journal clicks; volume of practice matters
+3
+High
+2.5 / 4 / 1.5 / –
+
+Trial Balance
+3
+3
+Md
+Error-spotting is the real skill; short but pivotal
+2
+High
+1.5 / 2.5 / 1 / –
+
+Bank Reconciliation Statement
+3
+2
+Hi
+Trips beginners on direction of adjustment; high question frequency
+3
+High
+2 / 3.5 / 1 / –
+
+Trading, P&L, Balance Sheet (Final A/cs)
+4
+4
+Hi
+Big integrative payoff; adjustments are the hard part
+4
+High
+3.5 / 5 / 2 / –
+
+Partnership Accounts
+4
+5
+Hi
+Heavy & broad (admission/retirement/profit-sharing); high effort
+3
+Medium
+3 / 4 / 1.5 / –
+
+Cost Accounting + Budgetary Control
+3
+1
+Md
+Semi-independent; formula + concept mix
+2
+Medium
+2 / 2 / 1 / –
+
+Financial Statements/Management
+2
+2
+Lo
+Conceptual; overlaps final accounts
+1
+Medium
+1 / 0.5 / 0.5 / –
+
+Audit (Financial + Social) + Social Accounting
+1
+0
+Lo
+Pure recall; definitions/scope
+1
+High
+1.5 / – / 0.5 / –
+
+PFMS + Indian FMS + Cash-based system
+2
+0
+Lo
+Govt-finance recall; synergy w/ Economics
+1
+Medium
+1.5 / – / 0.5 / –
+
+Taxation & Tax Laws (Direct/Indirect)
+2
+0
+Lo
+Broad but tested shallowly; GST/IT basics + terms
+2
+Medium
+2 / 0.5 / 0.5 / –
+
+Developments in Accounting
+1
+0
+Lo
+One-sitting recall
+1
+High
+0.5 / – / 0.5 / –
+
+Subject mock/integrated practice
+–
+–
+Hi
+–
+–
+High
+– / – / – / 4
+
+
+
+High-weight/high-difficulty estimate check [INF]:
+• Double-entry + Journal: lower plausible = 8h, higher = 14h. Settled 12h — it's the single highest-leverage skill; under-investing here cascades failure into 6 downstream topics. Erring high is justified.
+• Final Accounts: lower = 8h, higher = 13h. Settled 10.5h — integrative but reuses earlier skills, so the marginal new load is moderate.
+• Partnership: lower = 6h, higher = 11h. Settled 8.5h, Medium confidence — breadth is large but, at 1-mark objective depth with 0.25 negative marking, I scope to recognizing standard treatments rather than exhaustive computation mastery.
+
+Accountancy subtotal ≈ 31.5 T / 33.5 P / 14 R / 4 M = ~83 h
+
+Subject 2 — General Knowledge incl. J&K UT (30 official marks)
+
+
+Topic
+Diff
+#Prereq
+Practice
+Beginner curve note
+Inf. Marks
+Conf
+T / P / R / M (h)
+
+J&K static: History
+2
+0
+Md
+Finite, high-yield, definitely tested
+4
+High
+3 / 1 / 2 / –
+
+J&K static: Geography (rivers/lakes/climate/flora/fauna)
+2
+0
+Md
+Map + list memorization; high yield
+4
+High
+3 / 1 / 2 / –
+
+J&K static: Economy
+2
+0
+Lo
+Synergy w/ Economics; finite
+2
+High
+1.5 / 0.5 / 1 / –
+
+J&K: Heritage, Culture, Tourist Destinations
+1
+0
+Lo
+Pure recall; enjoyable, fast
+3
+High
+2 / 0.5 / 1 / –
+
+J&K Reorganisation Act, 2019
+2
+0
+Md
+Named explicitly → near-certain questions; high yield
+3
+High
+1.5 / 0.5 / 1 / –
+
+India static: Geography (rivers, climate, crops, transport, census)
+2
+0
+Md
+Broad but standard; demography shared w/ Stats
+3
+High
+3 / 1 / 1.5 / –
+
+India: Culture, Heritage, Freedom Struggle
+2
+0
+Md
+Large; freedom struggle is dense
+3
+Medium
+3 / 1 / 1.5 / –
+
+Environment, Ecology, Biodiversity
+2
+0
+Lo
+Overlaps Gen Science ecosystem topics
+2
+High
+1.5 / 0.5 / 0.5 / –
+
+Current Affairs (Nat'l + Int'l)
+3
+0
+Md
+Open-ended; capped to lean daily drip
+4
+Medium
+– (daily 15min) / 1 / cont. / –
+
+World/India political & physical divisions, transport & comm.
+2
+0
+Lo
+Standard recall
+2
+High
+1.5 / 0.5 / 0.5 / –
+
+GK mock/quiz cycles
+–
+–
+Hi
+–
+–
+High
+– / – / – / 4
+
+
+
+Note [INF]: Current Affairs capped deliberately — with 0.25 negative marking and open-ended scope, deep CA investment has poor marks-per-hour. I scope it as a continuous 15-min daily drip (not bulk hours), front-loading the finite, high-yield J&K static block instead. CA daily drip ≈ 0.25h × ~30 days ≈ 7.5h spread, counted separately in totals.
+
+GK subtotal ≈ 24 T / 8 P / 12.5 R / 4 M + ~7.5 CA drip = ~56 h
+
+Subject 3 — General English (10 official marks)
+
+
+Topic
+Diff
+#Prereq
+Practice
+Beginner note
+Inf. Marks
+Conf
+T / P / R / M
+
+Tenses, Modals, Articles, Prepositions, Clauses
+2
+0
+Hi
+Rule clusters; quick ROI
+3
+High
+2 / 3 / 1 / –
+
+Active/Passive, Narration
+2
+1
+Hi
+Transformation drills; very learnable
+2
+High
+1.5 / 2 / 0.5 / –
+
+Synonyms/Antonyms, Homonyms, Pairs of Words, Idioms
+1
+0
+Md
+Vocabulary recall; spaced repetition
+2
+High
+1 / 1.5 / 0.5 / –
+
+Comprehension, Jumbled Sentences, fill-blanks
+2
+1
+Hi
+Pure practice; test-taking technique
+3
+High
+1 / 2.5 / 0.5 / –
+
+English mock
+–
+–
+–
+–
+–
+High
+– / – / – / 2
+
+
+
+English subtotal ≈ 5.5 T / 9 P / 2.5 R / 2 M = ~19 h
+
+Subject 4 — Statistics (10 official marks) (includes shared demography, used by GK too)
+
+
+Topic
+Diff
+#Prereq
+Practice
+Beginner note
+Inf. Marks
+Conf
+T / P / R / M
+
+Data types, collection, questionnaires, tabulation
+1
+0
+Lo
+Pure recall; fast
+1.5
+High
+1 / 0.5 / 0.5 / –
+
+Measures of Central Tendency
+3
+1
+Hi
+Core computational; shared w/ Math
+2
+High
+1.5 / 2 / 0.5 / –
+
+Theory of Probability
+3
+2
+Md
+Shared w/ Math probability — study once
+1.5
+Medium
+1 / 1 / 0.5 / –
+
+Index Numbers, WPI, CPI
+2
+1
+Md
+Formula + concept; tested moderately
+1.5
+High
+1 / 1 / 0.5 / –
+
+Theory of Attributes
+2
+1
+Lo
+Niche; shallow at objective level
+0.5
+Medium
+0.5 / 0.5 / – / –
+
+Demography, Vital Stats, Fertility & Mortality rates
+3
+0
+Md
+Formula-dense (CBR/CDR/GFR/SFR/GRR/NRR); shared w/ GK
+1.5
+Medium
+2 / 2 / 1 / –
+
+Stats mini-mock
+–
+–
+–
+–
+–
+High
+– / – / – / 1.5
+
+
+
+Stats subtotal ≈ 7 T / 7 P / 3.5 R / 1.5 M = ~19 h (demography cost is shared, not duplicated in GK)
+
+Subject 5 — Mathematics (10 official marks)
+
+
+Topic
+Diff
+#Prereq
+Practice
+Beginner note
+Inf. Marks
+Conf
+T / P / R / M
+
+Simple & Compound Interest
+2
+1
+Hi
+High-yield, beginner-friendly, exam-favorite
+2
+High
+1 / 2 / 0.5 / –
+
+Linear Equations (2 variables)
+2
+0
+Md
+Foundational algebra; quick
+1
+High
+0.5 / 1 / 0.5 / –
+
+Permutations & Combinations → Binomial
+3
+1
+Hi
+Conceptual hurdle but high-yield
+1.5
+Medium
+1.5 / 2 / 0.5 / –
+
+Probability
+3
+1
+Md
+Shared w/ Stats — study once
+1
+High
+(shared) 0.5 / 1 / – / –
+
+Set Theory, Relations & Functions
+2
+1
+Md
+Manageable; modest yield
+1
+High
+1 / 1 / 0.5 / –
+
+Matrices & Determinants
+3
+0
+Md
+Procedural; learnable in isolation
+1
+Medium
+1 / 1.5 / 0.5 / –
+
+Limits & Derivatives
+3
+2
+Md
+Higher effort-per-mark for beginner
+1
+Medium
+1 / 1 / – / –
+
+Coordinate Geom → 3D Geom → Vectors
+4
+2
+Md
+Lowest yield-per-hour; triage tail
+0.5
+Low
+1 / 1 / – / –
+
+Math mini-mock
+–
+–
+–
+–
+–
+High
+– / – / – / 1.5
+
+
+
+Triage note [INF]: Coordinate/3D/Vectors marked Low confidence + Low priority. With 0.25 negative marking and ~0.5 inferred marks, deep study is poor ROI for a beginner; scope = recognition-level only. Possible Tier-2/skip candidate.
+
+Math subtotal ≈ 7.5 T / 10.5 P / 3 R / 1.5 M = ~22.5 h
+
+Subject 6 — General Economics (10 official marks)
+
+
+Topic
+Diff
+#Prereq
+Practice
+Beginner note
+Inf. Marks
+Conf
+T / P / R / M
+
+Intro concepts; Factors & Laws of Production
+2
+0
+Lo
+Foundational definitions
+1.5
+High
+1.5 / 0.5 / 0.5 / –
+
+Demand analysis, Indifference Curve, Consumer demand
+3
+1
+Md
+Graphical reasoning; moderate hurdle
+1.5
+Medium
+1.5 / 1 / 0.5 / –
+
+Factor pricing, Marginal Productivity, Ricardian Rent
+3
+2
+Lo
+Theory-dense; modest yield
+1
+Medium
+1.5 / 0.5 / 0.5 / –
+
+Market forms & pricing
+2
+1
+Lo
+Standard recall
+1
+High
+1 / 0.5 / 0.5 / –
+
+Fiscal & Monetary policy, Role of RBI
+2
+0
+Lo
+High-yield, synergy w/ GK & Accountancy
+1.5
+High
+1.5 / 0.5 / 0.5 / –
+
+National Income, Economic Growth (concept & measurement)
+3
+1
+Md
+Definitions + simple calc; synergy w/ Accountancy
+1.5
+High
+1.5 / 1 / 0.5 / –
+
+Developing economy, Planning vs Market, Economic Reforms in India
+2
+0
+Lo
+Recall; synergy w/ GK
+2
+High
+1.5 / 0.5 / 0.5 / –
+
+Economics mini-mock
+–
+–
+–
+–
+–
+High
+– / – / – / 1.5
+
+
+
+Economics subtotal ≈ 10 T / 4.5 P / 3.5 R / 1.5 M = ~19.5 h
+
+Subject 7 — General Science (10 official marks)
+
+
+Topic
+Diff
+#Prereq
+Practice
+Beginner note
+Inf. Marks
+Conf
+T / P / R / M
+
+Physics: Newton's laws, motion quantities, electricity (current/power/energy/voltage)
+3
+1
+Md
+Few simple formulas; otherwise recall
+2.5
+High
+2 / 1.5 / 0.5 / –
+
+Chemistry: equations & types, metals/non-metals
+2
+0
+Lo
+Recall + simple equation typing
+2
+High
+1.5 / 1 / 0.5 / –
+
+Energy sources (conventional/non-conv., solar/tidal/biomass/wind)
+1
+0
+Lo
+Pure recall; fast
+1.5
+High
+1 / 0.5 / 0.5 / –
+
+Biology: nutrition, respiration, transport in plants
+2
+0
+Lo
+Recall
+2
+High
+1.5 / 0.5 / 0.5 / –
+
+Health: diseases (communicable/non), vitamins & deficiencies
+1
+0
+Lo
+High-yield recall
+1
+High
+1 / 0.5 / 0.5 / –
+
+Environment: ecosystem, food chains/webs, pollution, ozone, greenhouse
+1
+0
+Lo
+Overlaps GK environment — study once
+1
+High
+1 / 0.5 / 0.5 / –
+
+Science mini-mock
+–
+–
+–
+–
+–
+High
+– / – / – / 1.5
+
+
+
+Science subtotal ≈ 8 T / 4.5 P / 3.5 R / 1.5 M = ~17.5 h (very high marks-per-hour)
+
+Subject 8 — Knowledge of Computers (10 official marks)
+
+
+Topic
+Diff
+#Prereq
+Practice
+Beginner note
+Inf. Marks
+Conf
+T / P / R / M
+
+Fundamentals, components, CPU, processing system, hardware/software
+2
+0
+Lo
+Recall + basic understanding
+2.5
+High
+2 / 0.5 / 0.5 / –
+
+Input/output devices, peripherals, storage media, firmware, humanware
+1
+0
+Lo
+Pure recall; fast
+2
+High
+1.5 / 0.5 / 0.5 / –
+
+MS Office (Word, Excel, Access, PowerPoint), PDF
+2
+0
+Md
+Feature recall; Excel slightly deeper
+2.5
+High
+2 / 1 / 0.5 / –
+
+OS, open-source concept
+1
+0
+Lo
+Recall
+1
+High
+0.5 / – / 0.5 / –
+
+Internet & email, virus/anti-virus, IT in governance
+1
+0
+Lo
+Recall; IT-in-governance synergy w/ GK
+2
+High
+1.5 / 0.5 / 0.5 / –
+
+Computers mini-mock
+–
+–
+–
+–
+–
+High
+– / – / – / 1
+
+
+
+Computers subtotal ≈ 7.5 T / 2.5 P / 3 R / 1 M = ~14 h (highest marks-per-hour in the exam)
+
+───
+
+5. Recommended Preparation Duration + Timeline Justification
+
+Bottom-up total of all topic hours [INF]:
+
+
+Subject
+Approx Hours
+
+Accountancy
+83
+
+General Knowledge (+CA drip)
+56
+
+Mathematics
+22.5
+
+General Economics
+19.5
+
+General English
+19
+
+Statistics
+19
+
+General Science
+17.5
+
+Computers
+14
+
+Subtotal (topics)
+~250.5
+
+Full-length integrated mocks + final revision (cross-subject)
+~20
+
+Grand total
+~270 h
+
+
+
+Duration math (the only correct direction — hours ÷ capacity):
+• At 5 h/day: 270 ÷ 5 = 54 days ≈ 7.7 weeks
+• At 4 h/day: 270 ÷ 4 = 67.5 days ≈ 9.6 weeks
+
+Timeline Justification:
+The leanest responsible full-syllabus plan (Tier 1 + Tier 2) requires ~7.5–9.5 weeks, i.e., roughly 8 weeks at the 4–5 h/day average. This exceeds the 1-month working horizon — and per your instructions, I am stating that explicitly rather than compressing unsafely. The single biggest driver is Accountancy (83h / ~31% of total), which carries 30 official marks and the only deep prerequisite chain; it cannot be safely rushed without cascading failure. GK's 30 marks add a large but parallelizable memorization load.
+
+Two honest readings:
+1. If ~8 weeks is available → run the full plan; comfortable at 4–5 h/day.
+2. If only ~1 month (~4 weeks) is available → the full syllabus is not safely masterable for a zero-background beginner. Fall back to Tier 1 only (Critical + High), which I've sized to be independently exam-ready: Tier 1 ≈ 150–160 h ≈ 30–32 days at 5 h/day ≈ ~4.5–5 weeks, still slightly over a strict month but achievable, and it protects the 60 highest-value marks (Accountancy + GK) plus the highest marks-per-hour subjects (Science, Computers, English).
+
+I am not pre-building a longer timeline. Stages 2–3 will be scoped to the lean ~8-week full plan, with Tier 1 verified as a coherent standalone subplan for the compressed case.
+
+───
+
+6. Topic Priority Matrix
+
+Priority follows directly from marks × difficulty × marks-per-hour in §4 (not re-argued). Critical + High = Tier 1 (standalone exam-ready minimum). Medium + Low = Tier 2 (extends to full mastery).
+
+
+Priority
+Topics
+One-line reason
+
+CRITICAL
+Accountancy core chain: Double-entry/Journal → Ledger/Cash Book → Trial Balance → Final Accounts; BRS
+The 30-mark anchor's backbone; everything else in the subject depends on it
+
+CRITICAL
+GK — J&K static (History, Geography, Heritage/Tourism, Economy) + J&K Reorg Act 2019
+Finite, high-yield, near-certain questions within the 30-mark anchor
+
+HIGH
+Computers (all)
+Highest marks-per-hour in the exam; near-zero prerequisites
+
+HIGH
+General Science (all)
+Very high marks-per-hour; pure recall at NCERT level
+
+HIGH
+General English (grammar rules + comprehension/practice)
+Fast ROI, rule-based, 10 nearly-securable marks
+
+HIGH
+GK — India static + Environment
+Large but standard recall; supports the 30-mark anchor
+
+HIGH
+Accountancy — Partnership, Cost/Budgetary, Taxation basics
+Completes the 30-mark subject; moderate effort
+
+HIGH
+Economics — Fiscal/Monetary/RBI, National Income, Reforms
+High-yield, synergy with GK & Accountancy
+
+HIGH
+Math — Simple/Compound Interest, Linear Eq., P&C/Binomial
+Beginner-friendly, exam-favorite, high-yield slice of Math
+
+HIGH
+Statistics — Central Tendency, Index Numbers (WPI/CPI), data basics
+Computational core + easy recall slice
+
+MEDIUM
+Accountancy — Audit, Social Accounting/Audit, PFMS/Indian FMS, Financial Mgmt, Developments
+Low-prereq recall; finishes subject but lower per-topic yield
+
+MEDIUM
+Stats — Demography/Vital Stats/Fertility & Mortality
+Formula-dense; shared with GK so cost is amortized
+
+MEDIUM
+Stats — Probability, Theory of Attributes
+Niche; probability shared with Math
+
+MEDIUM
+Economics — Demand/Indifference Curve, Factor pricing, Market forms
+Theory-dense, moderate yield
+
+MEDIUM
+Math — Set Theory/Relations & Functions, Matrices & Determinants
+Self-contained, modest yield
+
+MEDIUM
+Current Affairs
+High-ceiling, capped to daily drip due to 0.25 penalty
+
+LOW
+Math — Limits & Derivatives
+Higher effort-per-mark for a beginner
+
+LOW
+Math — Coordinate/3D Geometry, Vectors
+Lowest yield-per-hour; recognition-level only / triage candidate
+
+
+
+───
+
+Summary (duration & sequencing logic)
+
+I estimated ~270 total study hours bottom-up from topic-level difficulty, prerequisites, breadth, and practice intensity — which yields a ~8-week duration at 4–5 h/day (54–68 days), derived purely from hours ÷ capacity, never reverse-engineered. This exceeds the 1-month working horizon, so I've flagged it openly and sized a standalone Tier 1 (~150–160h, ~4.5–5 weeks) that protects the two 30-mark anchors (Accountancy + GK) plus the highest marks-per-hour subjects. Sequencing is driven by the dependency map: the long Accountancy prerequisite chain and the Math/Stats quantitative chain run as the structural spine, while all low-prerequisite recall subjects (Computers, Science, English, GK static, CA) run in parallel from Day 1 to absorb cognitive variety and feed continuous revision. The 0.25 negative marking shifts emphasis toward accuracy and mastery depth over thin coverage, and capped open-ended Current Affairs to a daily drip.
+
+Confirmed. I'll plan for both versions as instructed in Stage 1: the full ~8-week plan as the primary structure, with Tier 1 verified as a clean, standalone compression. Generating Stage 2 now.
+
+───
+
+STAGE 2 — ROADMAP SYSTEM
+JKSSB FAA — Phase-Wise Preparation Roadmap
+
+Carry-forward from Stage 1 (anchors for this stage): ~270 total hours [INF] · ~8 weeks at 4–5 h/day (primary) · Tier 1 ≈ 150–160h / ~4.5–5 weeks (compression fallback) · 0.25 negative marking → accuracy over coverage · Demography studied once (Stats, reused in GK) · Coordinate/3D/Vectors = recognition-only triage tail.
+
+Labeling:[OFFICIAL] · [LS] (learning science) · [INF] (inference). All hours/durations are [INF].
+
+───
+
+PART A — Sequencing Rationale (why dependency-driven, not syllabus order)
+
+The syllabus lists subjects 1→8 (GK first, Accountancy second, etc.). I reject that as the study order for three structural reasons, and weigh the main alternative before confirming.
+
+The decisive sequencing decisions
+
+Decision 1 — Accountancy starts Day 1, not after GK.
+• Syllabus order puts GK first. Dependency map shows Accountancy has the only deep prerequisite chain (8 links deep) and the largest hour load (83h) . A skill chain that long must start earliest to allow distributed practice and spaced revision [LS: spacing effect]. Starting it late forces last-minute cramming of the exact skill that can't be crammed.
+• Cognitive-continuity gain: building debit/credit → journal → ledger → trial balance → final accounts as one unbroken conceptual thread maximizes transfer; interrupting it costs re-warm-up time.
+
+Decision 2 — Recall subjects (Computers, Science, English, GK static, CA) run in parallel from Day 1, not in sequence.
+• These have near-zero prerequisites (Stage 1 §2C), so nothing is gained by sequencing them. Running a daily recall block alongside the skill block exploits interleaving[LS] — alternating a procedural subject (Accountancy) with declarative recall (Science/Computers) reduces fatigue and improves retention vs. massing one subject.
+• Negative-marking link: parallel daily drip of high-marks-per-hour recall subjects banks "safe" marks early, reducing pressure to guess later.
+
+Decision 3 — Demography is taught in the Statistics slot and reused in GK, never twice.
+• It appears in both subjects officially. Teaching the formula cluster once (CBR/CDR/GFR/SFR/GRR/NRR) and tagging GK's demography line as "covered" saves ~3–4h with zero coverage loss.
+
+Credible alternative weighed: strict weightage-first ordering
+A pure weightage-first sequence would study GK (30) then Accountancy (30) then the 10-mark subjects by descending marks-per-hour.
+• Why it's weaker: It ignores prerequisite time-distribution. Accountancy's 30 marks aren't won by studying it first in a block — they're won by studying it longest, with spacing. Weightage-first would either (a) front-load GK and delay the un-crammable skill chain, or (b) block Accountancy into one massed stretch, killing the spacing effect. It also wastes the free interleaving available from parallel recall subjects.
+• What I borrow from it: weightage-first correctly says high-marks-per-hour subjects (Computers, Science) deserve early, reliable inclusion — so I run them in the parallel recall track from Week 1 rather than deferring them. This captures the alternative's one real strength without its prerequisite blindness.
+
+Confirmed order: a two-track parallel design — a Skill Track (Accountancy spine, then the Math/Stats quantitative chain) and a Recall Track (Computers, Science, English, GK, Economics, CA drip) — synchronized phase by phase below.
+
+───
+
+PART B — Phase-Wise Roadmap
+
+Eight phases run overlapping, not strictly back-to-back, because Revision/Practice are continuous [LS]. Durations are [INF], scoped to the lean ~8-week primary plan. Each phase tags Tier 1 / Tier 2.
+
+Reading the tracks: within each phase, the Skill Track and Recall Track run on the same days (split daily hours), per Part A.
+
+───
+
+PHASE 1 — FOUNDATION
+Objective: Remove the zero-background barrier; install the Accountancy mental model and the first wave of safe recall marks.
+Duration [INF]: ~Week 1 (≈6–7 days, ~30h)
+Intensity: High focus on Accountancy fundamentals; light steady recall.
+
+
+Track
+Topics
+Tier
+
+Skill
+Accountancy: fundamentals & terms → accounting equation → double-entry rules (debit/credit, account types) → intro to Journal
+T1 (Critical)
+
+Recall
+Computers: fundamentals, components, CPU, hardware/software, I-O devices
+T1 (High)
+
+Recall
+GK J&K static kickoff: J&K History (start)
+T1 (Critical)
+
+Drip
+Current Affairs 15-min daily drip begins
+T2 (Medium)
+
+
+
+Deliverables: Personal "debit/credit rules" cheat-sheet (Feynman-explained in own words); first 15-card Anki/recall deck for account types; Computers Day-1 recall sheet.
+Exit criteria: Can classify any account (asset/liability/capital/income/expense) and state its debit/credit rule without notes, ≥90% on a 20-item self-quiz. This gate is non-negotiable — the entire Skill Track depends on it.
+
+───
+
+PHASE 2 — CORE LEARNING (the engine of the plan)
+Objective: Build the full Accountancy chain and the high-yield quantitative + recall content to first-pass competence.
+Duration [INF]: ~Weeks 2–4 (≈19–20 days, ~115–125h) — the longest phase.
+Intensity: High; this is where most new material is acquired.
+
+Skill Track (sequenced strictly by dependency map):
+
+Order
+Topic
+Tier
+
+1
+Journal → Voucher approach → Ledger posting → Cash Book
+T1 (Critical)
+
+2
+Trial Balance
+T1 (Critical)
+
+3
+Bank Reconciliation Statement
+T1 (Critical)
+
+4
+Final Accounts: Trading → P&L → Balance Sheet (incl. adjustments)
+T1 (Critical)
+
+5
+Partnership Accounts
+T1 (High)
+
+6
+Cost Accounting + Budgetary Control; Taxation basics (Direct/Indirect)
+T1 (High)
+
+7
+Financial Mgmt/Statements; Audit; Social Accounting/Audit; PFMS/Indian FMS; Cash-based system; Developments
+T2 (Medium)
+
+8
+Then Math/Stats quantitative chain: Simple/Compound Interest → Linear Eq. → P&C → Binomial → Probability (shared) → Central Tendency → Index Numbers
+T1 (High)
+
+
+
+Recall Track (parallel, interleaved daily):
+
+Topic
+Tier
+
+GK J&K static continues: Geography, Heritage/Culture/Tourism, Economy, J&K Reorg Act 2019
+T1 (Critical)
+
+GK India static: Geography, Culture/Heritage/Freedom Struggle, political/physical divisions
+T1 (High)
+
+General Science: Physics → Chemistry → Biology → Health → Environment (Environment shared w/ GK)
+T1 (High)
+
+Computers: MS Office, OS/open-source, Internet/email, virus, IT-in-governance
+T1 (High)
+
+General English: tense/modal/article/preposition/clause rule clusters; voice/narration
+T1 (High)
+
+
+
+Deliverables: Worked-example notebook for each Accountancy topic; running error log (starts here, runs to exam); topic recall decks for every Recall-Track subject; ~8–10 practice problems solved per Skill topic.
+Exit criteria: Can independently prepare a simple Final Account set from a trial balance with 2–3 adjustments; solve interest/central-tendency problems unaided; ≥75% on per-topic recall quizzes for Recall Track.
+
+Tier-2 deferral switch: Skill items #7 (Audit/PFMS/etc.) are the first to drop if compression is needed — they're low-prereq recall that can be absorbed in Phase 6 instead.
+
+───
+
+PHASE 3 — CONSOLIDATION
+Objective: Convert first-pass competence into integrated fluency; close Tier-2 gaps; finish the Economics + remaining Stats/Math.
+Duration [INF]: ~Week 5 first half (≈3–4 days, ~18h)
+Intensity: Medium-high; less new material, more linking.
+
+
+Track
+Topics
+Tier
+
+Skill
+Economics: Fiscal/Monetary/RBI, National Income, Reforms (T1) → Demand/Indifference Curve, Factor pricing, Market forms (T2)
+T1 + T2
+
+Skill
+Stats: Demography/Vital Stats/Fertility & Mortality (T2, shared→GK) ; Theory of Attributes (T2)
+T2
+
+Skill
+Math: Set Theory/Relations & Functions, Matrices/Determinants (T2); Limits & Derivatives (T2/Low) ; Coordinate/3D/Vectors recognition-only (Low)
+T2 / Low
+
+Recall
+English: comprehension, jumbled sentences, vocabulary (synonyms/idioms/homonyms)
+T1 (High)
+
+
+
+Deliverables: Cross-topic summary sheets (e.g., "national income" linking Economics↔Accountancy); demography formula card (tagged for GK reuse).
+Exit criteria: All syllabus topics have been touched at least once (full-coverage checkpoint); Tier-1 topics at first-pass mastery.
+
+───
+
+PHASE 4 — FIRST REVISION
+Objective: First structured spaced-repetition sweep of everything learned; cement before testing.
+Duration [INF]: ~Week 5 second half (≈3 days, ~15h) — but note revision has already been running continuously since Phase 1 (see Revision Strategy).
+Intensity: Medium; pure consolidation, minimal new input.
+
+
+Focus
+Method
+Tier
+
+Accountancy full chain
+Active recall + re-solve representative problem per topic
+T1
+
+GK J&K + India static
+Spaced-repetition deck sweep
+T1
+
+Science/Computers/English
+Rapid recall quizzes
+T1
+
+Economics/Stats/Math
+Formula + concept recall
+T1/T2
+
+
+
+Deliverables: Updated error log with recurring-mistake tags; "shaky topics" shortlist.
+Exit criteria: ≥80% on mixed-subject recall set spanning all Tier-1 topics.
+
+───
+
+PHASE 5 — PYQs (Previous-Year/representative questions)
+Objective: Calibrate to real question phrasing, difficulty, and the 0.25-penalty decision-making.
+Duration [INF]: ~Week 6 first half (≈3–4 days, ~16h)
+Intensity: Medium-high; applied retrieval.
+
+• Work topic-wise PYQ/representative sets in dependency order (Accountancy & GK first — the 60-mark anchors).
+• Negative-marking drill: for every question, mark attempt vs. skip decision and check whether your skip/guess rule was correct in hindsight.
+Deliverables: PYQ accuracy log per subject; "attempt-decision" accuracy stat.
+Exit criteria: Identify your reliable-vs-risky subjects from data; ≥70% accuracy on Tier-1 PYQ sets.
+Tier note: Tier 1 PYQs are mandatory; Tier 2 PYQs (Limits, Vectors, niche Stats) are optional/time-permitting.
+
+───
+
+PHASE 6 — MOCK TESTS
+Objective: Build full-length stamina, time management (120 Q / 120 min), and exam-day attempt strategy under the penalty.
+Duration [INF]: ~Week 6 second half → Week 7 (≈5–6 days, ~20h), mocks increasing in frequency toward the end.
+Intensity: High; simulation conditions.
+
+• Cadence (escalating [LS: testing effect]): Mock 1 → analyze 1 day → Mock 2 → analyze → Mock 3 → … compressing the gap as exam nears.
+• Each mock = strict 2-hour timed, full 120-Q simulation, then mandatory error analysis (longer than the mock itself early on).
+• Absorb any deferred Skill #7 Tier-2 recall (Audit/PFMS/etc.) here if it was dropped earlier.
+Deliverables: ≥3–4 full mocks with per-mock error analysis; running score-trend chart; refined attempt-rule (skip threshold).
+Exit criteria: Stable/ rising mock scores; net score (after penalty) trending up; finishing within 120 min with buffer.
+
+───
+
+PHASE 7 — WEAK-AREA IMPROVEMENT
+Objective: Deliberate practice on the specific recurring errors surfaced by Phases 5–6.
+Duration [INF]: Interleaved through Weeks 6–7 (~10h, overlaps Phase 6, not separate calendar time).
+Intensity: Targeted/high on few topics.
+
+• Driven entirely by the error log[LS: deliberate practice, error analysis] — no generic re-study.
+• Typical beginner weak spots to expect [INF]: BRS adjustment direction, Final Accounts adjustments, P&C setups, demography formulas.
+Deliverables: "Error → fix → re-test passed" closure log.
+Exit criteria: Each logged recurring error re-tested and resolved; no Tier-1 topic below threshold.
+
+───
+
+PHASE 8 — FINAL REVISION
+Objective: Peak retrieval strength on highest-yield content right before exam.
+Duration [INF]: ~Final 3–4 days (~15h)
+Intensity: Medium; recall-only, no new material [LS].
+
+• Priority order: Accountancy chain + GK J&K static + J&K Reorg Act first (the anchors), then high-marks-per-hour recall (Computers/Science/English), then formula cards (Math/Stats/Eco).
+• Final pass of error log + cheat-sheets only; no new topics in the last 72 hours [LS: avoid interference].
+Deliverables: One-page-per-subject final cheat sheets; exam-day attempt plan.
+Exit criteria: Calm recall of all Tier-1 content; finalized skip/guess rule.
+
+───
+
+PART C — Revision Strategy [LS]
+
+Revision is continuous from Phase 1, not a late phase only:
+• Daily: 20–30 min retrieval of yesterday's material (active recall, closed-book) — start of every study day.
+• Weekly: end-of-week mixed quiz across that week's topics (interleaving).
+• Spaced repetition schedule for recall decks: review at Day 1 → 3 → 7 → 14 → before exam (expanding intervals).
+• Three full sweeps total: continuous daily (built-in) + structured First Revision (Phase 4) + Final Revision (Phase 8).
+• Feynman checkpoints: for the 5 hardest Accountancy topics, write a plain-language explanation; gaps in the explanation reveal gaps in understanding.
+
+PART D — Practice Strategy [LS: progressive difficulty, deliberate practice]
+
+• Progression gate: never attempt application above the level taught — e.g., no multi-adjustment Final Accounts before single-entry Final Accounts is solid.
+• Volume targets [INF]: ~8–10 problems per Accountancy skill topic in Phase 2; rising to mixed/timed sets in Phase 5–6.
+• Error log is the spine: every wrong answer logged with cause tag (concept gap / careless / misread / formula). Phase 7 attacks the top cause-tags.
+• Negative-marking practice: from Phase 5, every practice question gets an explicit attempt/skip decision; track decision-accuracy, not just answer-accuracy.
+
+PART E — Mock Test Strategy [LS: testing effect]
+
+• Type progression: topic quizzes (Phase 2–4) → subject mini-mocks (per Stage 1 mock hours) → PYQ sets (Phase 5) → full 120-Q timed mocks (Phase 6) .
+• Escalating frequency toward exam (QC #9): spaced early, near-daily in the final stretch, each followed by error analysis ≥ the mock's own duration initially.
+• Penalty calibration: after each mock, compute gross vs. net score to tune the personal skip threshold (how many options must be eliminable before attempting).
+
+PART F — Milestones
+
+
+Milestone
+Target point
+Definition of done
+
+M1 — Debit/Credit mastery
+End Phase 1
+≥90% account-classification quiz, unaided
+
+M2 — Final Accounts independent
+Mid Phase 2
+Prepare Trading/P&L/BS from TB + adjustments
+
+M3 — Full coverage touched
+End Phase 3
+Every syllabus topic studied once
+
+M4 — First full revision done
+End Phase 4
+≥80% mixed Tier-1 recall
+
+M5 — PYQ calibration
+End Phase 5
+≥70% Tier-1 PYQ; attempt-rule defined
+
+M6 — Mock stability
+Through Phase 6
+Rising net mock scores within time
+
+M7 — Weak areas closed
+End Phase 7
+All logged errors re-tested & resolved
+
+M8 — Exam-ready
+End Phase 8
+Calm Tier-1 recall; finalized attempt plan
+
+
+
+PART G — Risk Assessment
+
+
+Risk
+Likelihood
+Impact
+Mitigation (built into plan)
+
+Double-entry doesn't "click" on schedule
+Medium
+High
+Phase 1 hard gate (M1); buffer in Phase 2; Feynman re-explanation before advancing
+
+Accountancy overruns its 83h estimate
+Medium
+High
+Tier-2 Skill #7 is pre-designated drop/defer; Math low-yield tail (Vectors/3D) is recognition-only to free hours
+
+Current Affairs scope creep
+Medium
+Medium
+Hard-capped to 15-min daily drip; never converted to bulk hours
+
+Negative marking erodes net score
+Medium
+High
+Attempt/skip discipline drilled from Phase 5; gross-vs-net tracked every mock
+
+Timeline shorter than ~8 weeks
+Medium
+High
+Tier 1 standalone subplan (stress-tested below)
+
+Beginner fatigue/burnout
+Low-Med
+Medium
+Two-track interleaving (skill+recall) prevents monotony; daily ≤5h cap
+
+
+
+───
+
+PART H — Stress Test (run before finalizing; repairs noted)
+
+(a) Student misses one full week.
+• Effect: ~30h lost. Response: Drop all Tier-2 Skill #7 (Audit/PFMS/Social Acct/Developments → absorbed as light recall in Phase 8), drop Math Low tail entirely, thin Phase 3 Tier-2. Tier-1 spine (Accountancy core + GK anchors + Science/Computers/English) remains intact. ✅ Repair applied: Phase 6 already designated as the absorption point for deferred Tier-2 recall, so no orphaned topics.
+
+(b) One major topic overruns (e.g., Final Accounts +50%).
+• Effect: ~5h spill. Response: Final Accounts is Critical → it gets the time; the hours come from the pre-designated reserves (Vectors/3D recognition-only, Limits to optional, Theory of Attributes trimmed). ✅ No Tier-1 topic is ever the donor.
+
+(c) Student progresses faster than expected.
+• Response: Pull Tier-2 forward (full Economics/Stats/Math depth, deeper Partnership computation, expanded CA), add a 4th–5th full mock, lengthen Phase 7. Plan scales up cleanly because Tier-2 was modular, not interwoven into Tier-1 gates. ✅
+
+(d) Exam confirmed shorter than 1 month → Tier 1 only.
+• Coherence check across all 8 phases: Phase 1 (debit/credit gate) ✅ Tier-1. Phase 2 (Accountancy core chain + GK anchors + Science/Computers/English + high-yield Math/Stats slice) ✅ all Tier-1. Phase 3 collapses to Economics-T1 + English practice only ✅. Phases 4–8 (revision/PYQ/mock/weak-area/final) operate on Tier-1 content alone ✅.
+• Critical repair found & applied: In the original draft, demography (Tier-2, taught in Phase 3) was the reuse source for GK demography — dropping Phase 3 Tier-2 would orphan GK's demography line. Fix: GK's demography requirement is downgraded to recognition-level recall within the GK deck in the Tier-1 path (CBR/CDR definitions only, no GRR/NRR computation), so dropping Stats demography computation in compression does not leave a GK gap. ✅
+• Conclusion:Tier 1 forms a coherent, exam-ready subplan independently, protecting all 60 anchor marks + the highest marks-per-hour 10-mark subjects, with no dependency on any Tier-2 content.
+
+Tier-1 standalone total [INF]: ~150–160h → ~30–32 days at 5h/day. Confirmed self-sufficient.
+
+───
+
+Summary (phase structure & cadence)
+
+The roadmap runs two synchronized tracks — a dependency-ordered Skill Track (Accountancy spine → Math/Stats quantitative chain) and a parallel Recall Track (Computers, Science, English, GK, Economics, CA drip) — across eight overlapping phases: Foundation → Core Learning → Consolidation → First Revision → PYQs → Mock Tests → Weak-Area Improvement → Final Revision, scoped to ~8 weeks (Tier-1 compresses cleanly to ~4.5–5 weeks). Revision is continuous (daily retrieval + weekly mixed quizzes + spaced-repetition decks at Day 1/3/7/14, plus two structured sweeps), practice progresses from guided problems to timed sets governed by an error log, and mocks escalate from topic quizzes to full 120-Q timed simulations with gross-vs-net scoring to drill the 0.25-penalty attempt discipline. The stress test surfaced and repaired one real flaw (the demography reuse dependency under compression), and confirmed Tier 1 stands alone as exam-ready across all phases.
+
+Confirmed. Building Stage 3 — Execution Calendar for the full ~8-week plan (primary), with Tier 1 tags preserved on every day so it compresses cleanly. I'll generate phase by phase, in Stage 2's order, with sub-concept-level daily targets, and stop at a week boundary rather than thin out detail.
+
+Internal cross-stage tracking (drift check):
+• Total estimated [INF]: ~270h · Daily capacity: 4.5h avg (range 4–5) · Horizon: ~8 weeks (56–60 days)
+• Cumulative allocated so far: 0h · Current position: Phase 1, Week 1, Day 1
+• Revision cycle: continuous daily + Day 1/3/7/14 spaced · Mock cadence: not yet started (begins Phase 5–6)
+
+Daily structure convention (applies to every day): each day = Skill Track block + Recall Track block + Revision block, capped ≤5h. "Diff" = relative difficulty for a zero-background beginner (1–5). Revision uses active recall / closed-book unless stated.
+
+───
+
+STAGE 3 — EXECUTION CALENDAR
+
+PHASE 1 — FOUNDATION (Week 1)
+
+Prerequisite check before Phase 1: None required (entry phase; zero-background assumed). ✅
+Phase objective recap: Install debit/credit mental model (hard gate M1) + first safe recall marks.
+Phase duration: Days 1–7 (~30h). Tier: predominantly T1.
+
+───
+
+WEEK 1
+
+Day 1 — ~4.5h · Diff 2
+• Skill — Accountancy fundamentals (60 min, theory): what accounting is; users of accounting; capital, drawings, assets, liabilities, expense, income, debtor/creditor, purchases vs. expenses — define each in own words (Feynman). Diff 2.
+• Skill — Accounting equation (45 min, theory+practice): Assets = Liabilities + Capital; effect of 6 sample transactions on the equation (write each out). Practice: 6 transaction-effect drills. Diff 2.
+• Recall — Computers: fundamentals & components (60 min): what a computer is, characteristics, generations (overview), block diagram (input→CPU→output), hardware vs. software definition. Diff 1.
+• Recall — GK J&K History kickoff (45 min): ancient J&K overview + timeline skeleton (to be filled across week). Diff 2.
+• Revision (20 min): none prior — instead, re-read & self-quiz today's account terms (closed-book, 15 items).
+• Deliverable: Start "terms cheat-sheet."
+
+Day 2 — ~4.5h · Diff 3
+• Revision (25 min): closed-book recall of Day 1 account terms + accounting equation (target ≥80%). Log misses.
+• Skill — Account classification (60 min, theory): the 5 account types (asset, liability, capital, income, expense); the modern (accounting-equation-based) rules of debit & credit. Diff 3.
+• Skill — Debit/credit drills (50 min, practice): 12 "which account, debit or credit?" drills. Diff 3.
+• Recall — Computers: CPU & processing (45 min): ALU, CU, registers; the processing cycle (fetch-decode-execute, simplified); hardware vs. software revisited. Diff 2.
+• Recall — GK J&K History (45 min): major dynasties (Karkota, Utpala, etc.) — names + one identifier each. Diff 2.
+• Deliverable: Debit/credit rules card (v1).
+
+Day 3 — ~4.5h · Diff 3
+• Revision (30 min): spaced review (Day-1 set, now interval-2) + Day-2 debit/credit drills, closed-book.
+• Skill — Double-entry principle (60 min, theory): dual aspect; every transaction = equal debit & credit; worked walk-through of 5 transactions showing both accounts. Diff 3.
+• Skill — Double-entry drills (50 min, practice): 10 transactions → name both accounts + direction. Diff 3.
+• Recall — Computers: I/O devices + peripherals (40 min): input devices, output devices, peripherals, examples. Diff 1.
+• Recall — GK J&K History (40 min): medieval J&K — Sultanate period, Mughal, Afghan, Sikh, Dogra rule (one identifier each). Diff 2.
+• Note: This is the first conceptual cliff — if drills <70%, repeat before Day 4.
+
+Day 4 — ~4.5h · Diff 4
+• Revision (30 min): closed-book — classify 15 accounts + state debit/credit rule (M1 dry-run).
+• Skill — Introduction to Journal (60 min, theory): journal format; what a journal entry is; narration; how debit/credit rules become an entry; 4 worked entries. Diff 4.
+• Skill — Journal drills (50 min, practice): journalize 8 simple single-transaction entries (cash purchase, sale, capital introduced, rent paid, etc.). Diff 4.
+• Recall — Computers: hardware/software + storage media (40 min): system vs. application software; primary vs. secondary storage; RAM/ROM, HDD/SSD/USB. Diff 1.
+• Recall — GK J&K History (40 min): consolidate dynasties timeline (closed-book fill of skeleton from Day 1). Diff 2.
+
+Day 5 — ~4.5h · Diff 4
+• Revision (30 min): spaced — Day-1 terms (interval-3), Day-3 double-entry drills.
+• Skill — Journal practice deepening (70 min, practice): 10 mixed journal entries incl. drawings, purchase on credit, payment to creditor. Error-log every mistake with cause tag. Diff 4.
+• Skill — Mini-consolidation (30 min): Feynman write-up "how I turn a transaction into a journal entry." Diff 3.
+• Recall — Computers: firmware, humanware, open-source, OS intro (40 min): definitions + examples; what an OS does. Diff 1.
+• Recall — GK J&K History wrap (40 min): accession of J&K (1947) basics + key freedom-movement points relevant to J&K. Diff 2.
+
+Day 6 — ~4h · Diff 3
+• Revision (40 min): weekly mixed quiz — 25 items spanning account terms, classification, debit/credit, journal (interleaved). Log weak spots.
+• Skill — Journal error-fix session (60 min, deliberate practice): redo the entries you got wrong in Days 4–5; 5 fresh entries to confirm fix. Diff 3.
+• Recall — Computers Week-1 consolidation (50 min): closed-book recall sheet of all Computer sub-topics covered; fill gaps. Diff 1.
+• Recall — GK J&K History closed-book recall (40 min): full timeline + dynasties + accession, unaided. Diff 2.
+
+Day 7 — ~4h · Diff 3 · (M1 GATE DAY)
+• MILESTONE M1 test (45 min): 20-item account-classification + debit/credit quiz, closed-book, strict. Gate: ≥90%. If not met, spend remainder re-drilling and re-test next morning before Phase 2.
+• Skill — Journal mastery check (45 min): 8 fresh journal entries timed; target ≥85% correct. Diff 3.
+• Recall — light spaced review (40 min): Computers + J&K History decks (interval review).
+• Current Affairs drip begins (15 min): set up daily CA source/notes routine.
+• Buffer (remaining ~75 min): absorb any Day-1–6 spillover; update error log; write Week-1 reflection (what's shaky).
+• Exit criteria check: M1 passed; journal entries ≥85%. ✅ required to enter Phase 2.
+
+Phase 1 cumulative [INF]: ~30h · Running total: ~30h / 270h.
+
+───
+
+Prerequisite check before Phase 2: Requires M1 (debit/credit + classification mastery) and basic journalizing — both gated on Day 7. ✅ Proceed only if passed.
+
+───
+
+PHASE 2 — CORE LEARNING (Weeks 2–4)
+
+Phase objective recap: Build full Accountancy chain (Journal→…→Partnership→Cost/Tax→T2 conceptual) + Math/Stats high-yield quantitative chain; parallel Recall Track (GK static, Science, Computers finish, English). Longest phase (~115–125h).
+Tier: Skill core = T1; Skill #7 conceptual = T2; quantitative high-yield = T1.
+
+I'll detail Week 2 now, then continue Weeks 3–4 in the next message to keep every day fully detailed (per the no-thinning rule).
+
+───
+
+WEEK 2 — Ledger → Cash Book → Trial Balance; GK J&K Geography; Science Physics; English rules
+
+Day 8 — ~5h · Diff 3
+• Revision (30 min): closed-book — 10 journal entries (spaced from Week 1).
+• Skill — Voucher approach (40 min, theory): source documents; debit/credit/transfer vouchers; voucher → journal link. Diff 2.
+• Skill — Ledger posting (70 min, theory+practice): what a ledger is; T-account format; posting journal entries to ledger; 6 entries posted to relevant ledger accounts. Diff 3.
+• Recall — GK J&K Geography (50 min): location, physiographic divisions (Jammu plains, Pir Panjal, Kashmir valley), districts overview. Diff 2.
+• Recall — General Science: Physics — motion basics (60 min): distance/displacement, speed/velocity, acceleration; definitions + units. Diff 2.
+• CA drip (15 min).
+
+Day 9 — ~5h · Diff 3
+• Revision (30 min): closed-book ledger-posting drill (3 entries).
+• Skill — Ledger balancing (70 min, theory+practice): balancing c/d & b/d; debit vs. credit balances; balance 6 ledger accounts. Diff 3.
+• Recall — GK J&K Geography (50 min): major rivers (Jhelum, Chenab, Indus, Tawi), lakes (Dal, Wular, Manasbal). Diff 2.
+• Recall — Science Physics — Newton's laws (70 min): 1st/2nd/3rd law statements, F=ma, everyday examples; 4 simple F=ma plug-ins. Diff 3.
+• CA drip (15 min).
+
+Day 10 — ~5h · Diff 3
+• Revision (30 min): spaced — Week-1 journal set (interval-7) + ledger balancing (interval-1).
+• Skill — Cash Book: single & double column (75 min, theory+practice): cash book as journal+ledger; single-column then double-column (cash+bank); contra entries; prepare a 6-transaction double-column cash book. Diff 3.
+• Recall — GK J&K Geography (45 min): climate, crops, flora & fauna, passes (Banihal, Zoji La). Diff 2.
+• Recall — Science Physics — mass/weight & electricity intro (60 min): mass vs. weight; electric current, voltage, power, energy; P=VI basics. Diff 3.
+• CA drip (15 min).
+
+Day 11 — ~5h · Diff 4
+• Revision (30 min): closed-book — prepare a 4-entry cash book from scratch.
+• Skill — Cash Book: triple column + petty cash (70 min, practice): discount columns; petty cash (imprest system); one full triple-column problem. Diff 4.
+• Recall — GK J&K Geography wrap + Economy intro (50 min): tourist destinations; J&K economy basics (horticulture, handicrafts, tourism). Diff 2.
+• Recall — Science Physics — electricity drills (60 min): 6 P=VI / energy problems; series/parallel intro. Diff 3.
+• CA drip (15 min).
+
+Day 12 — ~5h · Diff 4
+• Revision (40 min): weekly-style mixed recall — journal→ledger→cash book chain on 1 small dataset (closed-book).
+• Skill — Trial Balance (75 min, theory+practice): purpose; how balances flow from ledger to TB; preparing a TB from given balances; total-method vs. balance-method. One full TB. Diff 3.
+• Recall — English: Tenses (70 min, theory+practice): all 12 tenses — form + use; 15 fill-in-the-tense drills. Diff 2.
+• Recall — GK J&K History spaced review (30 min): closed-book timeline recall (interval). Diff 2.
+• CA drip (15 min).
+
+Day 13 — ~5h · Diff 4
+• Revision (40 min): closed-book TB from a small ledger set; error-log mismatches.
+• Skill — Trial Balance: error types (60 min, theory): errors disclosed vs. not disclosed by TB; suspense account intro. Diff 4.
+• Skill — Integrated mini-drill (40 min, practice): journal→ledger→TB on one 8-transaction dataset. Diff 4.
+• Recall — English: Articles + Modals (60 min, theory+practice): a/an/the rules; modal verbs (can/could/may/must/should…); 15 drills. Diff 2.
+• CA drip (15 min).
+
+Day 14 — ~4.5h · Diff 3 · (WEEK REVIEW)
+• Weekly mixed quiz (50 min): 30 items across ledger, cash book, trial balance, J&K geography, physics, tenses/articles (interleaved). Log weak spots. Diff 3.
+• Skill — Error-fix deliberate practice (60 min): redo wrong items from Days 8–13; 1 fresh full journal→ledger→TB cycle. Diff 3.
+• Recall — consolidation (50 min): closed-book recall sheets — J&K Geography + Physics. Fill gaps. Diff 2.
+• Spaced review (30 min): Computers (Week-1) deck interval review; J&K History interval review.
+• CA drip (15 min).
+• Exit check (partial): Can independently produce journal→ledger→cash book→trial balance for a simple dataset. ✅ required before Final Accounts (Week 3).
+
+Phase 2 Week-2 cumulative [INF]: ~34h · Running total: ~64h / 270h · Position: Phase 2, end of Week 2.
+
+───
+
+Cross-stage tracking update: Allocated ~64h of ~270h (24%). Topics covered: full Accountancy chain through Trial Balance; Computers complete; GK J&K History + Geography + Economy-intro; Physics (motion/Newton/electricity); English tenses/articles/modals. On pace for ~8-week horizon. Revision cycle running daily + spaced intervals as designed. Mocks not yet due (Phase 5–6). No drift detected.
+
+Prerequisite check before Week 3 (Final Accounts): Requires Trial Balance mastery (gated Day 14) + ledger/cash book fluency. ✅ Verify Day-14 exit met before continuing.
+
+───
+
+Continuing in the next message with Week 3 (BRS → Final Accounts: Trading/P&L/Balance Sheet + adjustments) and Week 4 (Partnership → Cost/Budgetary/Taxation → quantitative chain: Interest/Linear Eq./P&C/Binomial/Probability/Central Tendency/Index Numbers) , fully detailed day-by-day — then on to Phases 3–8.
+
+Continuing Stage 3 — Phase 2, Weeks 3–4, fully detailed.
+
+Cross-stage tracking (entry): Running total ~64h / 270h · Position: Phase 2, start of Week 3 · Prerequisites verified: Trial Balance mastery + ledger/cash-book fluency (Day-14 gate). ✅
+
+───
+
+WEEK 3 — Bank Reconciliation → Final Accounts (Trading / P&L / Balance Sheet + adjustments); GK India static; Science Chemistry; English voice/narration
+
+Prerequisite note: BRS requires cash book (bank column) fluency ✅; Final Accounts requires Trial Balance ✅.
+
+Day 15 — ~5h · Diff 3
+• Revision (30 min): closed-book — prepare a small TB from balances (spaced, interval-3 from Day 12).
+• Skill — Bank Reconciliation Statement: concept (75 min, theory): why cash book (bank col) & passbook differ; timing differences — cheques issued not presented, cheques deposited not credited, bank charges, direct deposits, standing instructions. Direction of effect for each cause. Diff 3.
+• Recall — GK India Geography (50 min): major rivers (Himalayan vs. Peninsular systems), mountain ranges. Diff 2.
+• Recall — Science Chemistry — chemical equations (60 min): writing & balancing equations; reactants/products; symbols & states. 6 balancing drills. Diff 2.
+• CA drip (15 min).
+
+Day 16 — ~5h · Diff 4
+• Revision (30 min): closed-book — list all BRS causes + their direction (the beginner trap). Log misses.
+• Skill — BRS: preparation methods (75 min, practice): starting from cash book balance → passbook (and reverse); 2 full BRS problems with mixed adjustments. Diff 4.
+• Recall — GK India Geography (45 min): climate, monsoon, major crops & cropping seasons (kharif/rabi), means of transport. Diff 2.
+• Recall — Science Chemistry — types of reactions (60 min): combination, decomposition, displacement, double-displacement, redox (intro). Examples each. Diff 3.
+• CA drip (15 min).
+
+Day 17 — ~5h · Diff 4
+• Revision (35 min): closed-book — 1 fresh BRS problem, timed (~15 min) + review.
+• Skill — Final Accounts: Trading Account (75 min, theory+practice): purpose; opening/closing stock, purchases, direct expenses, sales; gross profit; format; prepare 1 Trading A/c. Diff 4.
+• Recall — GK India static — Census/Demography intro (40 min): census features & functions (the GK side; computation lives in Stats later). Diff 2.
+• Recall — Science Chemistry — metals & non-metals (60 min): physical & chemical properties, reactivity series (overview), uses. Diff 2.
+• CA drip (15 min).
+
+Day 18 — ~5h · Diff 4
+• Revision (30 min): closed-book — Trading A/c items classification (direct vs. not).
+• Skill — Final Accounts: Profit & Loss Account (80 min, theory+practice): indirect expenses & incomes; net profit; format; carry GP from Trading A/c; prepare 1 P&L A/c. Diff 4.
+• Recall — GK India — Culture & Heritage (45 min): classical dances, UNESCO heritage sites, major festivals. Diff 2.
+• Recall — Science — energy sources (45 min): conventional (coal/petroleum/natural gas) vs. non-conventional (solar/wind/tidal/biomass) — fast recall topic. Diff 1.
+• CA drip (15 min).
+
+Day 19 — ~5h · Diff 5 (hardest single day)
+• Revision (30 min): closed-book — Trading + P&L item placement quiz (15 items).
+• Skill — Balance Sheet + the structure (80 min, theory+practice): assets (current/fixed), liabilities (current/long-term), capital; marshalling (order of liquidity/permanence); prepare 1 Balance Sheet from a TB (no adjustments yet). Diff 4.
+• Skill — Full set without adjustments (30 min, practice): one complete Trading→P&L→BS from a simple TB. Diff 4.
+• Recall — GK India — Freedom Struggle (60 min): key phases (1857, INC formation, Gandhian movements, 1947) — timeline + 1 identifier each. Diff 3.
+• CA drip (15 min).
+
+Day 20 — ~5h · Diff 5
+• Revision (30 min): closed-book — full set (no adjustments) on a fresh small TB.
+• Skill — Final Accounts adjustments I (90 min, theory+practice): closing stock, outstanding expenses, prepaid expenses, accrued income, income received in advance — the double-effect rule for each; apply to 1 problem. Diff 5.
+• Recall — GK India — Freedom Struggle wrap + political/physical divisions (50 min): states/UTs, neighbouring countries; consolidate freedom-struggle timeline closed-book. Diff 2.
+• Recall — English: Active & Passive Voice (40 min, theory+practice): rules of conversion by tense; 12 conversion drills. Diff 2.
+• CA drip (15 min).
+
+Day 21 — ~4.5h · Diff 4 · (WEEK REVIEW)
+• Weekly mixed quiz (50 min): 30 items — BRS, Trading/P&L/BS, adjustments, India geography/freedom struggle, chemistry, voice (interleaved). Log weak spots. Diff 4.
+• Skill — Adjustments deliberate practice (70 min): 1 full Final Accounts problem with 4–5 adjustments (depreciation, bad debts, outstanding/prepaid, closing stock). This is the integrative target. Diff 5.
+• Recall — consolidation (45 min): closed-book recall — India static + Chemistry sheets. Diff 2.
+• Spaced review (30 min): BRS (interval), J&K Geography (interval), Physics (interval).
+• CA drip (15 min).
+• MILESTONE M2 check: Prepare Trading/P&L/Balance Sheet from a TB with 2–3 adjustments, independently. Gate before Week 4 Partnership. If shaky, use a Week-4 buffer slot to re-drill.
+
+Phase 2 Week-3 cumulative [INF]: ~34h · Running total: ~98h / 270h · Position: Phase 2, end of Week 3.
+
+───
+
+Cross-stage tracking update: ~98h / 270h (36%). Added: BRS, full Final Accounts incl. adjustments (M2), India static (geography/culture/freedom struggle), Chemistry (equations/reactions/metals), energy sources, voice. Accountancy spine now complete through Final Accounts. On pace. Prerequisite for Partnership (Final Accounts mastery, M2) gated Day 21. ✅
+
+───
+
+WEEK 4 — Partnership → Cost/Budgetary → Taxation + T2 conceptual Accountancy; Quantitative chain (Interest → Linear Eq → P&C → Binomial → Probability → Central Tendency → Index Numbers); Science Biology/Health; English vocab/comprehension
+
+Prerequisite note: Partnership requires Final Accounts ✅ (M2). Quantitative chain requires only basic algebra (assumed/refreshed Day 25).
+
+Day 22 — ~5h · Diff 4
+• Revision (30 min): closed-book — 1 Final Accounts problem with 3 adjustments (spaced).
+• Skill — Partnership Accounts: fundamentals (80 min, theory+practice): partnership deed; profit-sharing ratio; fixed vs. fluctuating capital; interest on capital/drawings; partners' salary; Profit & Loss Appropriation Account — prepare 1. Diff 4.
+• Recall — Science Biology — nutrition (50 min): autotrophic/heterotrophic; photosynthesis basics; human digestion overview. Diff 2.
+• Recall — English: Synonyms & Antonyms (45 min, practice): 30-word batch; spaced-repetition deck started. Diff 1.
+• CA drip (15 min).
+
+Day 23 — ~5h · Diff 4
+• Revision (30 min): closed-book — P&L Appropriation A/c from scratch (small data).
+• Skill — Partnership: capital accounts + goodwill intro (80 min, theory+practice): partners' capital & current accounts; goodwill concept & simple valuation (average-profit method, recognition-level). Diff 4.
+• Recall — Science Biology — respiration & transport in plants (55 min): aerobic/anaerobic respiration; xylem/phloem; transpiration. Diff 2.
+• Recall — English: Homonyms/Homophones + Pairs of Words (40 min): 20 confusable pairs; usage in sentences. Diff 1.
+• CA drip (15 min).
+
+Day 24 — ~5h · Diff 3
+• Revision (30 min): closed-book — partnership appropriation + goodwill quick quiz.
+• Skill — Cost Accounting + Budgetary Control (85 min, theory+practice): elements of cost (material/labour/overhead); cost sheet basics; budgetary control concept; types of budgets; standard costing (intro). 1 simple cost-sheet. Diff 3.
+• Recall — Science Health (50 min): communicable vs. non-communicable diseases; vitamins & deficiency diseases (high-yield recall table). Diff 1.
+• Recall — English: Idioms & Phrases (40 min): 25 idioms with meanings; deck. Diff 1.
+• CA drip (15 min).
+
+Day 25 — ~5h · Diff 3
+• Revision (30 min): closed-book — cost elements + vitamins recall.
+• Skill — Math: algebra refresh + Simple & Compound Interest (85 min, theory+practice): linear-equation basics (quick refresh); SI formula; CI formula, compounding frequency; SI vs CI difference; 8 problems. Diff 3 (high-yield T1).
+• Recall — Science Environment (45 min): ecosystem, food chains/webs, trophic levels (shared w/ GK environment — study once). Diff 1.
+• Recall — GK J&K — Reorganisation Act 2019 (45 min): key provisions, UT formation, bifurcation, schedules — named in syllabus, near-certain. Diff 2.
+• CA drip (15 min).
+
+Day 26 — ~5h · Diff 4
+• Revision (30 min): closed-book — 4 mixed SI/CI problems, timed.
+• Skill — Math: Linear Equations (two variables) (50 min, practice): substitution & elimination; 6 problems. Diff 2.
+• Skill — Math: Permutations & Combinations (70 min, theory+practice): factorial; nPr vs nCr; when to use which; 8 problems. Diff 3 (conceptual hurdle). Diff 3.
+• Recall — Science Environment wrap (40 min): environmental pollution, ozone depletion, greenhouse effect (shared w/ GK). Diff 1.
+• Recall — GK J&K Reorg Act consolidation (30 min): closed-book provisions recall. Diff 2.
+• CA drip (15 min).
+
+Day 27 — ~5h · Diff 4
+• Revision (30 min): closed-book — P&C "permutation or combination?" decision drill (10 items).
+• Skill — Math: Binomial Theorem + Probability (80 min, theory+practice): binomial expansion, general term; basic probability (sample space, events, addition/multiplication rules) — probability studied once here, reused in Stats. 8 problems. Diff 4.
+• Skill — Statistics: Measures of Central Tendency (60 min, theory+practice): mean (incl. assumed-mean), median, mode for raw & grouped data; 5 problems. Diff 3.
+• Recall — English: Comprehension technique (30 min): approach to passage + fill-blanks (phrases/pronouns); 1 passage. Diff 2.
+• CA drip (15 min).
+
+Day 28 — ~4.5h · Diff 3 · (WEEK + PHASE 2 REVIEW)
+• Weekly mixed quiz (55 min): 30 items — partnership, cost, SI/CI, P&C, central tendency, biology/health/environment, Reorg Act (interleaved). Diff 3.
+• Skill — Statistics: Index Numbers + T2 conceptual Accountancy sweep (75 min): Index numbers — WPI, CPI, simple aggregate & weighted methods (theory + 2 problems); then rapid first-pass of T2 conceptual Accountancy — Financial Audit, Social Accounting/Audit, Cash-based system, PFMS, Indian FMS, Financial Management, Developments in Accounting, Taxation overview (Direct/Indirect, GST basics). Recall-level only. Diff 3.
+• Spaced review (35 min): BRS, Final Accounts, Partnership intervals (closed-book mini).
+• CA drip (15 min).
+• Phase 2 exit criteria: ✅ Can prepare Final Accounts w/ adjustments (M2); ✅ solve SI/CI, P&C, central-tendency unaided; ✅ Recall Track subjects (Computers, Science, GK static, English rules) at ≥75% first-pass; ✅ all T1 quantitative high-yield covered; T2 conceptual Accountancy touched once.
+
+Phase 2 Week-4 cumulative [INF]: ~34h · Running total: ~132h / 270h · Position: end of Phase 2.
+
+───
+
+Cross-stage tracking update: ~132h / 270h (49%). Phase 2 complete. Topics now covered: entire Accountancy syllabus (core chain + Partnership + Cost/Budgetary + Taxation + all T2 conceptual, first pass); Math high-yield (SI/CI, Linear Eq, P&C, Binomial, Probability); Stats core (Central Tendency, Index Numbers); full Science; full Computers; GK J&K + India static + Reorg Act + environment; English rules + vocab + comprehension intro. Remaining for Phase 3: Economics (full), Stats demography/attributes, Math Set Theory/Relations-Functions/Matrices/Limits/Coordinate-3D-Vectors (T2/Low), English finishing. On pace. No drift.
+
+Prerequisite check before Phase 3: Consolidation needs first-pass mastery of all prior — verified at Day 28 exit. ✅
+
+───
+
+Continuing in the next message with Phase 3 (Consolidation — Economics full + remaining Stats/Math T2 + English finish) and Phase 4 (First Revision) , fully detailed day-by-day, then Phases 5–8.
+
+Continuing Stage 3 — Phase 3 (Consolidation) and Phase 4 (First Revision) , fully detailed.
+
+Cross-stage tracking (entry): Running total ~132h / 270h (49%) · Position: start of Phase 3, Week 5 · Prerequisites verified: all Phase-2 first-pass mastery (Day-28 exit). ✅
+
+───
+
+PHASE 3 — CONSOLIDATION (Week 5, first half)
+
+Phase objective recap: Finish remaining syllabus (Economics full; Stats demography/attributes; Math T2/Low; English finish) and convert first-pass competence into integrated fluency. Reaches M3 — full coverage touched.
+Duration [INF]: Days 29–32 (~18h). Tier: mostly T2 (+ Economics T1 slice, English T1 practice).
+
+Prerequisite note: Economics national-income/fiscal topics gain from Accountancy ✅ done. Stats demography is standalone. Math T2 needs Set Theory→Relations basics (taught in sequence). Probability already done (Day 27) — Stats probability is reuse only.
+
+Day 29 — ~4.5h · Diff 3
+• Revision (30 min): closed-book — Index Numbers (WPI/CPI) + 2 central-tendency items (spaced from Days 27–28).
+• Skill — Economics: foundations (70 min, theory): intro concepts (scarcity, micro/macro, types of economies); factors of production & laws of production (returns to scale). Diff 2 (T1/T2).
+• Skill — Economics: Fiscal & Monetary policy + Role of RBI (60 min, theory): meaning/scope/tools; RBI functions; high-yield, synergy w/ GK. Diff 2 (T1).
+• Recall — English: Clauses + Prepositions (45 min, theory+practice): clause types; common preposition rules; 15 drills. Diff 2 (T1).
+• CA drip (15 min).
+
+Day 30 — ~4.5h · Diff 3
+• Revision (30 min): closed-book — fiscal vs. monetary tools + RBI functions recall.
+• Skill — Economics: National Income + Economic Growth (70 min, theory+practice): GDP/GNP/NNP/NDP, methods of measuring national income, growth vs. development; 3 concept-application items. Diff 3 (T1).
+• Skill — Economics: Developing economy, Planning vs Market, Economic Reforms in India (55 min, theory): characteristics/problems; 1991 reforms (LPG) — synergy w/ GK. Diff 2 (T1/T2).
+• Recall — English: Narration (Direct/Indirect) (45 min, theory+practice): conversion rules across tenses/sentence types; 10 drills. Diff 2 (T1).
+• CA drip (15 min).
+
+Day 31 — ~4.5h · Diff 3
+• Revision (30 min): closed-book — national-income aggregates + reforms recall.
+• Skill — Economics: micro theory cluster (75 min, theory): consumer demand & Indifference Curve technique; demand analysis (law of demand, elasticity intro); factor pricing, marginal productivity theory, Ricardian rent (recognition-level). Diff 3 (T2, theory-dense). Diff 3.
+• Skill — Economics: market forms (30 min, theory): perfect competition, monopoly, monopolistic, oligopoly — key features & pricing. Diff 2 (T2).
+• Recall — English: Jumbled Sentences technique (40 min, practice): sequencing logic; 6 sets. Diff 2 (T1).
+• CA drip (15 min).
+
+Day 32 — ~4.5h · Diff 3 · (M3 — FULL COVERAGE CHECKPOINT)
+• Revision (30 min): closed-book — Economics micro cluster quick quiz (indifference curve, market forms).
+• Skill — Statistics: data + attributes + demography (90 min, theory+practice):
+◦ Primary/secondary data, collection methods, questionnaires, tabulation/compilation (fast recall, T2).
+◦ Theory of Attributes — basic concepts (recognition-level, T2).
+◦ Demography/Vital Statistics — taught once here, reused for GK: CBR, CDR (Crude rates), GFR, SFR (fertility), GRR & NRR (reproduction), measures of mortality. Formula card built. 3 computation drills. Diff 3 (T2). (Compression note: in Tier-1-only path, this drops to definitions/CBR-CDR recognition within the GK deck — see Stage 2 stress-test fix.)
+• Skill — Math T2/Low rapid pass (60 min): Set Theory → Relations & Functions (basics); Matrices & Determinants (operations, determinant, recognition of inverse); Limits & Derivatives (T2/Low — basic rules only) ; Coordinate/3D Geometry & Vectors — recognition-only triage (formulas to recognize, not master). Diff 3 / Low. Diff 3.
+• MILESTONE M3: ✅ Every syllabus topic now touched at least once. Confirm checklist; flag any untouched item before Phase 4.
+• CA drip (15 min).
+• Phase 3 exit criteria: ✅ All topics covered once; ✅ Economics T1 (fiscal/monetary/RBI/national income/reforms) at first-pass mastery; demography formula card built; Math T2 tail at recognition level.
+
+Phase 3 cumulative [INF]: ~18h · Running total: ~150h / 270h · Position: end of Phase 3.
+
+───
+
+Cross-stage tracking update: ~150h / 270h (56%). Full syllabus now covered (M3). This ~150h point also marks the Tier-1 standalone threshold from Stage 1 — consistent with the plan. Remaining ~120h is revision, PYQs, mocks, weak-area, and final revision (Phases 4–8). No drift; dependency map fully honored (no prerequisite taught after its dependent).
+
+Prerequisite check before Phase 4: First Revision requires all topics learned once — ✅ confirmed at M3.
+
+───
+
+PHASE 4 — FIRST REVISION (Week 5, second half → early Week 6)
+
+Phase objective recap: First structured spaced-repetition sweep of the entire syllabus; cement before applied testing. (Daily/spaced revision has run since Phase 1; this is the dedicated full pass.) Reaches M4.
+Duration [INF]: Days 33–36 (~15h). Tier: T1 priority order, T2 included time-permitting.
+Method emphasis [LS]: active recall + retrieval practice + Feynman on hardest topics; re-solve one representative problem per quantitative/Accountancy topic (not re-reading).
+
+Day 33 — ~4.5h · Diff 3 — ACCOUNTANCY DEEP REVISION (the 30-mark anchor)
+• Active recall (40 min): blank-sheet reconstruct the Accountancy chain: debit/credit rules → journal → ledger → cash book → TB → final accounts → partnership.
+• Re-solve representative problems (110 min): 1 each — journal+ledger set, BRS, Final Accounts with adjustments, Partnership appropriation. Time them; error-log. Diff 4.
+• Feynman (30 min): explain "adjustments in final accounts" in plain language; patch gaps.
+• CA drip (15 min).
+
+Day 34 — ~4.5h · Diff 2 — GK ANCHOR + SCIENCE/COMPUTERS REVISION
+• Spaced deck sweep (90 min): GK J&K static (History/Geography/Economy/Heritage/Reorg Act) + India static — closed-book, flag weak cards. Diff 2.
+• Rapid recall quizzes (75 min): General Science (all sub-topics) + Computers (all sub-topics) — 25-item each, closed-book. Diff 2.
+• Error-log update (20 min): tag recurring GK/Science misses for Phase 7.
+• CA drip (15 min).
+
+Day 35 — ~4.5h · Diff 3 — QUANTITATIVE + ECONOMICS REVISION
+• Re-solve representative problems (90 min): SI/CI, P&C, Binomial, Probability, Central Tendency, Index Numbers, 1 demography computation — 1 each, timed. Diff 3.
+• Economics recall (60 min): fiscal/monetary/RBI, national income aggregates, reforms, micro cluster — closed-book concept map. Diff 2.
+• Math T2/Low (30 min): recognition check on Set Theory/Matrices/Limits + Coordinate/Vectors formulas — confirm recognition level holds. Diff 2.
+• CA drip (15 min).
+
+Day 36 — ~4.5h · Diff 3 · (M4 — FIRST REVISION COMPLETE)
+• English revision (60 min): rule clusters (tenses/articles/modals/voice/narration/clauses/prepositions) rapid recall + 1 comprehension + 1 jumbled set. Diff 2.
+• MILESTONE M4 test (75 min):mixed-subject recall set spanning all Tier-1 topics, closed-book. Gate: ≥80%. Diff 3.
+• Error analysis (45 min): build the "shaky topics shortlist" from M4 results — this drives Phases 5–7.
+• CA drip (15 min).
+• Phase 4 exit criteria: ✅ M4 ≥80% across Tier-1; shaky-topics shortlist produced; error log consolidated.
+
+Phase 4 cumulative [INF]: ~15h · Running total: ~165h / 270h · Position: end of Phase 4.
+
+───
+
+Cross-stage tracking update: ~165h / 270h (61%). First full structured revision done (M4). Revision cycles to date: continuous daily + spaced (Day 1/3/7/14 intervals) + this dedicated sweep = on schedule for "three sweeps total" (the third is Phase 8 Final Revision). Mocks begin next (PYQs Phase 5 → full mocks Phase 6). No drift; all 8 subjects revised at least once under retrieval conditions.
+
+Prerequisite check before Phase 5 (PYQs): Requires consolidated Tier-1 mastery — ✅ gated at M4. Applied testing can now begin safely (no advanced application before prerequisites taught — satisfied).
+
+───
+
+Continuing in the next message with Phase 5 (PYQs) , Phase 6 (Mock Tests) , Phase 7 (Weak-Area Improvement) , and Phase 8 (Final Revision) — fully detailed day-by-day — completing the Execution Calendar.
+
+Continuing Stage 3 — Phases 5–8, fully detailed, completing the Execution Calendar.
+
+Cross-stage tracking (entry): Running total ~165h / 270h (61%) · Position: start of Phase 5, Week 6 · Prerequisites verified: M4 consolidated Tier-1 mastery + shaky-topics shortlist. ✅
+
+───
+
+PHASE 5 — PYQs (Week 6, first half)
+
+Phase objective recap: Calibrate to real question phrasing/difficulty and drill the 0.25-penalty attempt/skip decision. Reaches M5.
+Duration [INF]: Days 37–40 (~16h). Tier: T1 PYQs mandatory; T2 PYQs time-permitting.
+Method [LS]: retrieval practice + error analysis. Every question gets an explicit attempt-vs-skip decision logged, then checked in hindsight.
+
+Day 37 — ~4.5h · Diff 4 — ACCOUNTANCY + ECONOMICS PYQs (anchor + synergy)
+• Topic-wise PYQ set — Accountancy (110 min): mixed set across journal/ledger, BRS, final accounts + adjustments, partnership, cost, taxation basics. Mark attempt/skip per question; compute gross vs. net (after 0.25 penalty). Diff 4.
+• Topic-wise PYQ set — Economics (55 min): fiscal/monetary/RBI, national income, reforms. Diff 3.
+• Error analysis (30 min): cause-tag each miss (concept gap / careless / misread / formula); update shortlist.
+• CA drip (15 min).
+
+Day 38 — ~4.5h · Diff 3 — GK PYQs (the other 30-mark anchor)
+• Topic-wise PYQ set — GK J&K (75 min): History, Geography, Economy, Heritage, Reorg Act 2019. Attempt/skip logged. Diff 3.
+• Topic-wise PYQ set — GK India + Current Affairs (75 min): static India + CA from drip notes. Diff 3.
+• Error analysis (30 min): identify reliable vs. risky GK sub-areas (drives skip rule).
+• CA drip (15 min).
+
+Day 39 — ~4.5h · Diff 3 — QUANTITATIVE PYQs (Math + Stats)
+• Topic-wise PYQ set — Math (75 min): SI/CI, P&C, Binomial, Linear Eq., Probability; T2/Low (Set Theory/Matrices/Limits) recognition-level only, Coordinate/Vectors skip-or-eliminate. Attempt/skip logged. Diff 3.
+• Topic-wise PYQ set — Statistics (60 min): central tendency, index numbers, demography rates, data methods. Diff 3.
+• Error analysis (45 min): quantitative careless-error vs. concept-gap split; flag for Phase 7 deliberate practice.
+• CA drip (15 min).
+
+Day 40 — ~4.5h · Diff 2 · (M5 — PYQ CALIBRATION) — Science / Computers / English PYQs
+• Topic-wise PYQ sets (120 min): General Science, Computers, General English — these are high-marks-per-hour; target high accuracy. Attempt/skip logged. Diff 2.
+• MILESTONE M5 (45 min): compile PYQ accuracy log per subject + attempt-decision accuracy stat; define personal skip threshold (how many options must be eliminable before attempting under 0.25 penalty). Gate: ≥70% on Tier-1 PYQ sets; reliable-vs-risky subjects identified from data.
+• CA drip (15 min).
+• Phase 5 exit criteria: ✅ Tier-1 PYQ ≥70%; ✅ data-driven reliable/risky map; ✅ finalized attempt-rule draft.
+
+Phase 5 cumulative [INF]: ~16h · Running total: ~181h / 270h · Position: end of Phase 5.
+
+───
+
+Cross-stage tracking update: ~181h / 270h (67%). PYQ calibration done (M5); attempt/skip discipline now data-driven. Next: full-length timed mocks with escalating frequency. No drift.
+
+Prerequisite check before Phase 6: Full mocks require all topics revised (M4) + PYQ calibration (M5) — ✅ both met.
+
+───
+
+PHASE 6 — MOCK TESTS (Week 6 second half → Week 7)
+
+Phase objective recap: Full-length stamina, time management (120 Q / 120 min), exam-day attempt strategy under penalty. Mocks escalate in frequency toward exam (QC #9). Reaches M6.
+Duration [INF]: Days 41–47 (~20h, mock + analysis interwoven). Tier: mocks are full-syllabus but scored by Tier priority.
+Method [LS]: testing effect + error analysis (analysis ≥ mock duration early on). Phase 7 weak-area work runs interleaved here (Stage 2: Phase 7 overlaps, not separate calendar time).
+
+Day 41 — ~5h · Diff 4 — MOCK 1
+• Full Mock 1 (120 min, strict timed): 120 Q across all 8 subjects. Apply skip threshold from M5. Diff 4.
+• Error analysis (135 min): review every question (right & wrong); cause-tag; compute gross vs. net; note time spent per section. Build "Mock-1 weak list." Diff —.
+• CA drip (15 min).
+
+Day 42 — ~4.5h · Diff 3 — WEAK-AREA DELIBERATE PRACTICE (Phase 7 interleaved)
+• Targeted drills (150 min): attack top 3 cause-tags from Mock 1 (expected beginner spots [INF]: BRS adjustment direction, Final Accounts adjustments, P&C setups, demography formulas) — re-teach (Feynman) → re-drill → re-test each. Diff 4.
+• Spaced review (45 min): GK + Science decks (interval).
+• CA drip (15 min).
+
+Day 43 — ~5h · Diff 4 — MOCK 2 (gap compressing)
+• Full Mock 2 (120 min, strict timed): new paper; focus on improving net score & time buffer. Diff 4.
+• Error analysis (120 min): cause-tag; compare Mock-1 vs Mock-2 trend; refine skip threshold. Diff —.
+• CA drip (15 min).
+
+Day 44 — ~4.5h · Diff 3 — WEAK-AREA + T2 ABSORPTION
+• Targeted drills (105 min): new top cause-tags from Mock 2; re-test prior Day-42 fixes (closure check). Diff 3.
+• T2 conceptual Accountancy reinforcement (60 min): Audit/Social Accounting/PFMS/Indian FMS/Developments/Taxation — recall sweep (this is the designated absorption slot for any deferred T2). Diff 2.
+• CA drip (15 min).
+
+Day 45 — ~5h · Diff 4 — MOCK 3 (gap compressing further)
+• Full Mock 3 (120 min, strict timed): target stable/rising net score, finish with buffer. Diff 4.
+• Error analysis (120 min): trend chart update; confirm risky-subject skip discipline is paying off. Diff —.
+• CA drip (15 min).
+
+Day 46 — ~4.5h · Diff 3 — WEAK-AREA CLOSURE
+• Deliberate practice (120 min): final attack on any cause-tag still recurring across Mocks 1–3; re-test to closure (the "error → fix → re-test passed" log). Diff 3.
+• Spaced review (60 min): Accountancy chain + quantitative formulas (interval). Diff 3.
+• CA drip (15 min).
+
+Day 47 — ~5h · Diff 4 · (M6 — MOCK STABILITY) — MOCK 4
+• Full Mock 4 (120 min, strict timed): near-exam simulation; full attempt-rule applied. Diff 4.
+• Error analysis (105 min): final trend confirmation; M6 gate: net mock score stable/rising AND finishing within 120 min with buffer. Diff —.
+• MILESTONE M7 check (interleaved): all logged recurring errors re-tested & resolved (weak-area closure).
+• CA drip (15 min).
+• Phase 6 + 7 exit criteria: ✅ ≥4 full mocks with analysis; ✅ rising net scores within time (M6); ✅ all logged errors closed (M7); ✅ no Tier-1 topic below threshold.
+
+Phase 6 cumulative [INF]: ~33h (mocks + interleaved weak-area Phase 7 ~10h) · Running total: ~214h / 270h · Position: end of Phases 6 & 7.
+
+───
+
+Cross-stage tracking update: ~214h / 270h (79%). Mocks: 4 full-length, escalating frequency (Days 41→43→45→47), each with error analysis ≥ mock duration early on. Phase 7 weak-area work interleaved (Days 42/44/46) and closed (M7). Remaining ~56h → Final Revision + buffer. No drift; mock cadence increased toward exam as required (QC #9).
+
+Prerequisite check before Phase 8: Final Revision requires closed weak areas (M7) + stable mocks (M6) — ✅ both met.
+
+───
+
+PHASE 7 — WEAK-AREA IMPROVEMENT
+
+Status:Interleaved within Phase 6 (Days 42, 44, 46), per Stage 2 design — not separate calendar time. Objective (deliberate practice driven entirely by the error log), deliverables ("error → fix → re-test passed" log), and exit (M7: all logged errors resolved) are completed at Day 47. ✅ No standalone days; this prevents double-counting hours and keeps weak-area work tightly coupled to mock evidence [LS: deliberate practice + error analysis].
+
+───
+
+PHASE 8 — FINAL REVISION (final 3–4 days before exam)
+
+Phase objective recap: Peak retrieval strength on highest-yield content; no new topics in last 72h[LS: avoid interference]. Reaches M8 — exam-ready.
+Duration [INF]: Days 48–51 (~15h). Tier: strict T1 priority order.
+Method [LS]: active recall + cheat-sheets + error log only; recall-only, no fresh learning.
+
+Day 48 — ~4.5h · Diff 2 — ANCHOR #1: ACCOUNTANCY + ANCHOR #2 start
+• Accountancy final pass (105 min): one-page cheat-sheet recall — debit/credit rules, BRS direction table, Final Accounts adjustments list, partnership appropriation; re-solve 1 representative adjusted Final Accounts (confidence solve, not learning). Diff 3.
+• GK J&K final pass (60 min): History/Geography/Heritage/Economy/Reorg Act rapid closed-book recall. Diff 2.
+• CA drip (15 min).
+
+Day 49 — ~4.5h · Diff 2 — ANCHOR #2 finish + HIGH-ROI RECALL SUBJECTS
+• GK India + CA final pass (60 min): static India + CA highlights. Diff 2.
+• Computers + General Science final pass (120 min): one-page-per-subject cheat-sheet recall; high-yield deficiency/disease, energy sources, MS Office, IT-in-governance. Diff 1.
+• CA drip (15 min).
+
+Day 50 — ~4.5h · Diff 2 — QUANTITATIVE + ECONOMICS + ENGLISH FORMULA/RULE PASS
+• Math/Stats formula card pass (90 min): SI/CI, P&C, Binomial, probability, central tendency, index numbers, demography rates — recall + 1 quick solve each of the 3 shakiest. Diff 2.
+• Economics + English rule pass (90 min): fiscal/monetary/RBI, national income, reforms; English rule clusters + 1 comprehension. Diff 2.
+• Error-log final scan (included): confirm no recurring error remains open.
+• CA drip (15 min).
+
+Day 51 — ~3.5h · Diff 1 · (M8 — EXAM-READY) — LIGHT FINAL PASS + STRATEGY
+• Light recall only (90 min): skim all one-page cheat-sheets across 8 subjects; no new material. Diff 1.
+• Exam-day attempt plan finalize (45 min): section order to attempt, time budget per section (anchors first), finalized skip/guess rule (≥2 options eliminable → attempt; else skip under 0.25 penalty), buffer for review. Diff 1.
+• MILESTONE M8: ✅ calm Tier-1 recall; ✅ finalized attempt plan; ✅ error log fully closed. Exam-ready.
+• Rest emphasis: keep load light; protect sleep before exam day [LS: consolidation].
+
+Phase 8 cumulative [INF]: ~17h · Running total: ~231h core + buffer ≈ matches plan.
+
+───
+
+EXECUTION CALENDAR — COMPLETION SUMMARY
+
+Bottom-up day-sum [INF]: Phase 1 (~30h) + Phase 2 (~132–64=~68h… let me state cleanly below) — full reconciliation is the job of Stage 4, but here is the day-sum tally:
+
+
+Phase
+Days
+Hours [INF]
+
+1 — Foundation
+1–7
+~30
+
+2 — Core Learning
+8–28
+~102
+
+3 — Consolidation
+29–32
+~18
+
+4 — First Revision
+33–36
+~15
+
+5 — PYQs
+37–40
+~16
+
+6 — Mocks (+7 interleaved)
+41–47
+~33
+
+8 — Final Revision
+48–51
+~17
+
+Total
+51 days
+~231h
+
+
+
+Note on totals: the bottom-up day-sum (~231h over 51 days) is lower than Stage 1's top-down ~270h. This gap (~39h) is expected — Stage 1 included demography-reuse and cross-subject mock hours that the calendar consolidated (e.g., demography studied once, weak-area interleaved not added). Per the rules, the Stage-3 bottom-up sum is authoritative; I will reconcile and issue a short addendum revising Stage 1's figure in Stage 4 — I am flagging it now, not silently.
+
+Duration: 51 study days ≈ ~7.3 weeks at ~4.5h/day (within the ~8-week Stage-1 estimate; consistent). Tier-1 compression (dropping T2 conceptual Accountancy depth, Economics micro cluster, Math T2/Low, demography computation) lands ~150–160h ≈ ~5 weeks, as stress-tested.
+
+───
+
+Cross-stage tracking (final): All 8 phases delivered day-by-day at sub-concept level; no day >5h (QC #6 ✅); revision continuous from Day 1 (QC #7 ✅); practice difficulty progressed 2→5 then applied (QC #8 ✅); mocks escalated in frequency (QC #9 ✅); zero prior knowledge assumed throughout (QC #10 ✅); each phase gated on prior prerequisites (QC #11 ✅); dependency map never violated. One hour-reconciliation flag raised for Stage 4 (QC #12).
+
+STAGE 4 — FINAL QUALITY PASS
+
+Run against Stages 1–3. Concise by design.
+
+───
+
+1. Hour Reconciliation (authoritative)
+
+Stage 1 top-down ([INF]): ~270h · Stage 3 bottom-up day-sum ([INF]): ~231h over 51 days.
+
+Source of the ~39h gap — identified, not hand-waved:
+
+
+Cause
+Stage 1 treatment
+Stage 3 treatment
+Δ
+
+Demography
+Counted in Stats (~3–4h)
+Studied once, reused in GK (already amortized)
+~0 (already correct in S1)
+
+Cross-subject / per-subject mini-mocks
+Listed as separate mock hours per subject (~13h)
+Absorbed into PYQ + full mocks (Phases 5–6), not added separately
+~−10
+
+Weak-area (Phase 7)
+~10h separate
+Interleaved into Phase 6 mock days (no new hours)
+~−10
+
+Current Affairs drip
+~7.5h listed separately
+Folded into daily 15-min within capped days
+~−7.5
+
+Rounding/buffer across 51 days
+Topic-level rounding up
+Day-level capping ≤5h
+~−11
+
+Total
+
+
+~−39
+
+
+
+Resolution: The discrepancies are consolidations, not lost coverage — every syllabus topic still appears in Stage 3 (verified §2 below). Per the rule, the Stage 3 bottom-up sum is authoritative.
+
+→ ADDENDUM TO STAGE 1 (revision, stated explicitly)
+
+Stage 1 §5 figures are hereby revised. The authoritative total is ~231 study hours over 51 days ≈ ~7.3 weeks at ~4.5h/day (range: ~46 days @5h to ~58 days @4h). The earlier ~270h was a top-down estimate that double-counted separable mock/weak-area/CA hours later consolidated in execution. Tier-1 standalone revises proportionally to ~135–150h ≈ ~4.5–5 weeks (unchanged conclusion: exceeds a strict 1-month horizon slightly; Tier-1 is the compression path). All other Stage 1 logic (sequencing, priority matrix, apportionment basis) stands.
+
+───
+
+2. QC Checklist (against Stages 1–3)
+
+
+#
+Check
+Result
+
+1
+Every syllabus topic included
+✅ All 8 subjects + every listed sub-topic mapped to specific days (Accountancy Days 1–28/33; GK Days 1–38; English Days 12–36; Stats Days 27–39; Math Days 25–39; Eco Days 29–37; Science Days 8–34; Computers Days 1–34). Coordinate/3D/Vectors present at recognition-level (Day 32).
+
+2
+Sequence follows dependency map; no prereq after dependent
+✅ Debit/credit→journal→ledger→cash book→TB→BRS/Final A/cs→Partnership strictly ordered; probability taught once (Day 27) before Stats reuse; demography before GK reuse.
+
+3
+Weightage influenced time; difficult topics get more, easy not overstudied
+✅ Accountancy ~68h core (30 marks); double-entry/Final Accounts get most hours; Computers/Science kept lean despite 10 marks each (high marks-per-hour).
+
+4
+Duration derived from hours ÷ capacity, not reverse-engineered
+✅ 231h ÷ 4.5 ≈ 51 days. Never back-fitted to a week count.
+
+5
+Leanest sufficient per 1-month assumption; more stated if needed
+✅ Lean scoping throughout; Timeline Justification openly states full plan exceeds 1 month and offers Tier-1 fallback.
+
+6
+No day >5h; weekly balance
+✅ Max day = 5h (mock days); lighter days only with stated reason (review/gate/pre-exam taper).
+
+7
+Revision continuous from early
+✅ Daily retrieval from Day 2; spaced Day 1/3/7/14; structured sweeps Phase 4 + Phase 8.
+
+8
+Practice difficulty progresses; no advanced app before prereqs
+✅ Diff 2→5 build; multi-adjustment Final Accounts (Day 21) only after single-adjustment (Day 20); applied PYQ/mocks only post-M4.
+
+9
+Mocks increase in frequency toward exam
+✅ Topic quizzes→mini→PYQ→full mocks at Days 41,43,45,47 (compressing gaps).
+
+10
+Zero prior accounting assumed
+✅ Day 1 starts at "what accounting is"; debit/credit gated before anything builds on it.
+
+11
+Each phase starts only after prereqs complete
+✅ Explicit prerequisite check + milestone gate before every phase (M1→M8).
+
+12
+Totals/logic consistent across stages; maps reconcile
+✅ After §1 reconciliation + addendum. Dependency map (S1/S2) and calendar (S3) consistent.
+
+13
+Tier 1 alone forms coherent exam-ready subplan
+✅ Stress-tested in S2 Part H; Tier-1 spine spans all phases independently (~135–150h).
+
+14
+Topic-level weightage labeled derived, basis stated
+✅ Apportionment basis stated once (S1 §3); all topic figures labeled [INF], never official.
+
+
+
+Result: 14/14 pass (after the §1 hour revision).
+
+───
+
+3. Cross-Stage Consistency Check
+
+• Marks: Official subject marks (30/30/10×6 = 120) identical across S1–S4. ✅
+• Assumptions: ~120 Q, 0.25 negative marking carried consistently; accuracy-over-coverage logic visible in every phase. ✅
+• Sequencing: Two-track design (Skill + Recall) defined in S2, executed identically in S3. ✅
+• Milestones: M1–M8 defined in S2, gated on the matching days in S3. ✅
+• Tier tags: Priority Matrix (S1) → phase Tier labels (S2) → daily Tier notes (S3) consistent. ✅
+• Demography fix: S2 stress-test fix (recognition-level in Tier-1 GK path) honored in S3 Day 32 compression note. ✅
+• Only intentional change: the hour figure, explicitly revised via the addendum above — no silent edits. ✅
+
+───
+
+4. Residual Flags (honest limitations)
+
+• All hours and topic-level weightages remain [INF] — never presented as official. Only subject marks, total, mode, and your stated 0.25 penalty are fixed inputs.
+• Question count (~120) is your stated assumption, not official; if the real notification differs, re-scope mock timing only (structure unaffected).
+• PYQ availability is assumed; if genuine JKSSB FAA PYQs are scarce, substitute analogous JKSSB/SSC-pattern sets — Phase 5 logic is unchanged.
+• Exam horizon still unconfirmed: plan is the lean full version (~7.3 weeks); if confirmed shorter than ~5 weeks, execute Tier-1 only.
+
+───
+
+Final Verdict
+
+The system is internally consistent, dependency-sound, and exam-aligned across all four stages. The single discrepancy (top-down vs. bottom-up hours) is resolved with the Stage-1 addendum, making ~231h / 51 days / ~7.3 weeks the authoritative plan, with a stress-tested Tier-1 ~5-week compression. All 14 QC items pass; zero syllabus topics dropped; zero silent revisions.
+
+The complete JKSSB FAA self-study system (Stages 1–4) is finalized and ready to execute. If you later confirm the exam date or obtain the official question count/PYQs, the only adjustment needed is mock-test timing — the learning architecture holds.

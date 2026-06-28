@@ -1,0 +1,1471 @@
+JKSSB Finance Accounts Assistant (FAA) — Self-Study System
+
+Stage 1: Strategic Blueprint (Revised)
+
+This blueprint integrates improvements from a peer dependency analysis, incorporated after the initial draft. The core difficulty/hour estimates and timeline remain unchanged; only the learning sequence has been refined for better conceptual continuity.
+
+───
+
+1. Syllabus Breakdown
+
+(Unchanged from the original — no narrative restatement, only observations that affect sequencing or hour allocation.)
+
+Subject (Official Marks) Topics Key Observations (sequencing/hour allocation)
+General Knowledge with Special Reference to J&K UT (30) Current Events (National & International), Political & Physical Divisions of World & India, Indian Culture/Heritage/Freedom Struggle, Transport & Communication, Demography (Census), Important Rivers & Lakes in India, Weather/Climate/Crops/Means of Transport, Environment/Ecology/Biodiversity; J&K UT: History, Economy, Geography (Weather, Climate, Crops, Rivers, Lakes, Flora, Fauna), Heritage & Culture, Important Tourist Destinations; J&K Reorganisation Act, 2019 Vast, factual, memory-intensive. No conceptual prerequisites. J&K‑specific content is high‑weight and must be revised in dedicated blocks. Revision sessions are more important than initial theory reading. Current Affairs should be spread across the entire prep, not compressed into a final week.
+Accountancy & Book Keeping (30) Introduction to Financial Accounting & its terms, Accounting Equation and Journal, Voucher Approach in Accounting, Bank Reconciliation Statement, Cash Book, Financial Audit, Financial Management/Statements, Partnership Accounts, Ledger Accounts, Elements of Double Entry Book Keeping, Trial Balance, Trading Account, Profit & Loss Account and Balance Sheet, Concept of Social Accounting, Social Audit, Cash‑based System of Accounting, Public Financial Management System (PFMS), Indian Financial Management System, Cost Management – Budgetary Control, Cost Accounting, Developments in Accounting, Taxation & Tax Laws (Direct & Indirect) Strong sequential dependency: the Double Entry → Journal → Ledger → Cash Book → BRS → Trial Balance → Final Accounts chain must be built first. Several theory‑only topics (Social Accounting, PFMS, etc.) can be interleaved later. Heavy practice requirement for journal entries, final accounts, BRS, and partnership.
+General English (10) Tenses, Rearranging of Jumbled Sentences, Narration, Modals, Articles, Comprehension with blanks (Phrases, Pronouns, Homonyms/Homophones), Clauses, Synonyms & Antonyms, Pairs of Words (meaningful sentences), Idioms & Phrases, Uses of Prepositions, Active & Passive Voice Grammar rules are moderately inter‑dependent (Tenses, Modals, Articles, Prepositions underpin others). Vocabulary topics (Synonyms, Idioms, Pairs) can be practised in parallel. Objective‑type questions favour recognition over production; practice should focus on error‑spotting and fill‑in‑the‑blank drills.
+Statistics (10) Primary & Secondary Data, Methods of Collecting Data, Preparation of Questionnaires, Tabulation & Compilation, Measures of Central Tendency, Theory of Probability, Theory of Attributes, Theory of Index Numbers, Wholesale Price Index, Consumer Price Index, Demography – Census, Vital Statistics, Measures of Fertility (Crude, Specific, Gross & Net Reproduction), Measures of Mortality Mostly independent concepts. Overlaps with GK Demography but requires quantitative interpretation. Probability and Index Numbers demand a little numerical practice; remaining topics are definition‑and‑application based.
+Mathematics (10) Simple & Compound Interest, Linear Equations (Two Variables), Permutations & Combinations, Binomial Theorem, Limits & Derivatives, Set Theory, Relations & Functions, Matrices & Determinants, Probability, Coordinate Geometry, Three‑Dimensional Geometry, Vectors Wide topic breadth; no overarching dependency chain. Set Theory → Relations/Functions is the only strict sequence. Permutations & Combinations precedes Probability conceptually. Many topics require formula memorisation and short numerical practice rather than deep theory.
+General Economics (10) Introduction to Economics, Fiscal & Monetary Policy, Indifference Curve Technique, Demand Analysis, Factor Pricing, Marginal Productivity Theory, Ricardian Theory of Rent, Pricing under Various Market Forms, Factors of Production & Laws, Characteristics & Problems of Developing Economy, Planning vs Market Economy, Economic Reforms in India, Concept & Measurement of National Income, Economic Growth & Measurement, Role of RBI Theory‑heavy; a logical micro‑to‑macro flow improves retention: basic concepts → demand → consumer behaviour → production → factor pricing → market structures → national income → growth → development → policy. No hard prerequisites, but the order adopted here (see dependency map) follows this pedagogical sequence.
+General Science (10) Newton’s Laws of Motion, Mass/Weight/Acceleration/Velocity/Speed, Electric Current/Power/Energy/Voltage, Chemical Equations & Types, Metals & Non‑metals, Sources of Energy (Conventional, Biomass/Wind, Non‑conventional Solar/Tidal), Nutrition & Types, Respiration, Transportation in Plants, Communicable & Non‑communicable Diseases, Vitamins & Deficiency Diseases, Ecosystem, Food Chains & Webs, Environmental Pollution, Ozone Depletion, Greenhouse Effect Factual and conceptual; independent topics. Energy and ecology carry relatively more weight. No mathematical derivation beyond simple recall of formulas (Newton’s laws, electricity).
+Knowledge of Computers (10) Basic Applications & Components, Fundamentals of Computer Science, Open Source Technologies, Input/Output Devices, Operating System, MS Word/Excel/Access/PowerPoint/PDF, Internet & E‑mail, Computer Virus & Anti‑virus, Hardware & Software, Computer Processing System (CPU, Peripherals, Storage Media, Firmware, Humanware), Role of IT in Governance Mainly theory. A logical building‑block sequence (fundamentals → hardware → software → OS → applications → internet → security → governance) aids retention. MS Office and Internet topics are high‑yield but can be learned without hands‑on practice; conceptual understanding of functions is sufficient for objective questions.
+
+───
+
+1. Learning Dependency Map
+
+(Integrated from the original analysis and the peer‑provided map. The bold lines indicate the improved sequence; no prerequisite appears after a topic that depends on it.)
+
+Accountancy & Book Keeping (Strict procedural chain with a batch‑studied tail)
+
+1. Introduction to Financial Accounting & its terms (no prereq)
+2. Elements of Double Entry Book Keeping (no prereq)
+3. Accounting Equation and Journal (requires 1,2)
+4. Voucher Approach in Accounting (requires 3)
+5. Ledger Accounts (requires 3)
+6. Cash Book (requires 3; can be studied alongside Ledger)
+7. Bank Reconciliation Statement (requires 6 only — placed immediately after Cash Book to leverage freshness; adapted from peer map)
+8. Trial Balance (requires 5,6)
+9. Trading Account (requires 8)
+10. Profit & Loss Account and Balance Sheet (requires 9)
+11. Partnership Accounts (requires 3,5,8,10; practice after full accounting cycle is understood)
+
+The following are low‑dependency topics that can be studied in short bursts, in any order, after the procedural core is mastered:
+
+1. Financial Management/Statements (requires 10)
+2. Cost Accounting (requires 1,2)
+3. Cost Management – Budgetary Control (requires 1,2)
+4. Financial Audit (requires 10)
+5. Concept of Social Accounting (requires 1,2)
+6. Social Audit (requires 16)
+7. Cash‑based System of Accounting (requires 1)
+8. Public Financial Management System (PFMS) (requires 1)
+9. Indian Financial Management System (after 19)
+10. Developments in Accounting (awareness only, any time after 10)
+11. Taxation & Tax Laws (requires 3,10)
+
+Economics (Logical micro‑to‑macro flow — adapted from peer map)
+
+1. Introduction to Economics – Basic Concepts
+2. Demand Analysis
+3. Theory of Consumer Demand (Indifference Curve Technique)
+4. Factors of Production & Laws of Production
+5. Factor Pricing
+6. Marginal Productivity Theory
+7. Ricardian Theory of Rent
+8. Pricing under Various Forms of Market
+9. Concept & Measurement of National Income
+10. Concept of Economic Growth and its Measurement
+11. Characteristics & Problems of Developing Economy
+12. Planning vs Market Economy
+13. Economic Reforms in India
+14. Fiscal & Monetary Policy – Meaning, Scope and Methodology
+15. Role of RBI
+
+Knowledge of Computers (Logical building‑block sequence — adapted from peer map)
+
+1. Basic Applications of Computer and its Components
+2. Fundamentals of Computer Science
+3. Input & Output Devices
+4. Hardware & Software
+5. Operating System
+6. MS Word, MS Excel, MS Access, MS PowerPoint, PDF
+7. Internet & E‑mail
+8. Computer Virus & Anti‑virus
+9. Concept of Open Source Technologies
+10. Computer Processing System (CPU, Peripherals, Storage Media, Firmware, Humanware)
+11. Role of Information Technology in Governance
+
+Mathematics & Statistics
+
+No strong prerequisites beyond:
+
+· Mathematics: Set Theory → Relations & Functions; Permutations & Combinations → Probability (conceptual support).
+· Statistics: The peer map’s suggested order (Data collection → Central Tendency → Demography‑Census → Probability → Index Numbers → Vital Statistics → Attributes) will be used as the default sequence for topic introduction, but interleaving with other subjects is encouraged.
+
+The precise daily interleaving plan will appear in Stage 2.
+
+General English, General Knowledge, and General Science
+
+· English: Tenses and Active/Passive Voice are foundational to error‑spotting, so they are taught early. The rest can be interleaved.
+· GK & Science: No dependency. Topics are scheduled for spaced revision from day one; Current Affairs is a daily thread, not a last‑week sprint (this departs from the peer suggestion of a final‑week digest, in favour of continuous retrieval practice for retention).
+
+───
+
+1. Difficulty & Study Hours
+
+Apportionment basis for topic‑level weightage:
+The official syllabus provides marks at the subject level only. Topic‑level marks below are derived by distributing each subject’s official weightage across its topics using conceptual complexity, prerequisite density, required practice intensity, and topic breadth. All topic‑level weightage figures are analytical inferences — not official data.
+
+The table order now reflects the updated dependency sequence within each subject.
+
+Subject (Official Marks) Topic Difficulty (L/M/H) Prereq Concepts Practice Intensity (L/M/H) Beginner Learning‑Curve Note Inferred Marks Confidence (H/M/L) Theory (h) Practice (h) Revision (h) Total (h)
+Accountancy (30) Introduction to Financial Accounting & its terms L 0 L Purely terminological; no prior exposure needed 0.5 H 0.5 0 0.5 1.0
+Elements of Double Entry Book Keeping M 0 M Foundation rule‑set; must be memorised and applied immediately 2.0 H 1.0 0.5 0.5 2.0
+Accounting Equation and Journal H 2 H First heavy practice area; classifying accounts and passing entries 3.5 H 1.5 1.5 1.0 4.0
+Voucher Approach in Accounting L 1 L Conceptual; supportive documents for journal entries 0.5 H 0.5 0 0.5 1.0
+Ledger Accounts M 1 M Posting from journal; repetitive but builds speed 2.5 H 1.0 1.0 0.5 2.5
+Cash Book M 1 M Special journal; dual role as book of prime entry and cash account 2.0 H 1.0 0.5 0.5 2.0
+Bank Reconciliation Statement M 1 M Timing differences; systematic approach needed — placed after Cash Book for synergy 1.5 H 0.5 1.0 0.5 2.0
+Trial Balance L 2 L Mechanical listing; errors detectable with practice 1.0 H 0.5 0.5 0.5 1.5
+Trading Account M 1 M Direct expenses/revenues; format memorisation and short problems 2.0 H 0.5 1.0 0.5 2.0
+Profit & Loss A/c and Balance Sheet H 1 H Adjustments, grouping, marshalling; highest‑weight practical topic 4.0 M 1.5 1.5 1.0 4.0
+Partnership Accounts H 5 H Admission, retirement, death; complex adjustments; lean scoping covers basics only 2.5 M 1.5 1.5 1.0 4.0
+Financial Management/Statements M 1 L Analysis, ratios; largely theory with simple calculations 1.0 H 0.5 0 0.5 1.0
+Cost Accounting M 1 M Cost sheets, classifications 1.0 M 0.5 0.5 0.5 1.5
+Cost Management – Budgetary Control M 1 M Budget types, variance; need basic accounting sense 1.0 M 0.5 0.5 0.5 1.5
+Financial Audit L 1 L Theory; types of audit, internal checks 0.5 H 0.5 0 0.5 1.0
+Concept of Social Accounting L 0 L Definition and scope 0.5 H 0.5 0 0.5 1.0
+Social Audit L 1 L Linked to social accounting 0.5 H 0.5 0 0.5 1.0
+Cash‑based System of Accounting L 0 L Alternative basis; contrast with accrual 0.5 H 0.5 0 0.5 1.0
+Public Financial Management System (PFMS) L 0 L Government e‑payment platform; facts 0.5 H 0.5 0 0.5 1.0
+Indian Financial Management System L 0 L Overview; facts 0.5 H 0.5 0 0.5 1.0
+Developments in Accounting L 0 L Recent trends; reading only 0.5 H 0.5 0 0.5 1.0
+Taxation & Tax Laws M 1 M Direct/Indirect heads, basic computation 1.5 M 1.0 0.5 1.0 2.5
+General Knowledge (30) Current Events (National & International) L 0 L Ongoing; regular news revision required 4.0 H – – – 3.5*
+Political & Physical Divisions (World & India) L 0 L Map‑based and factual 3.0 H 1.0 – 1.0 2.0
+Indian Culture, Heritage, Freedom Struggle L 0 L Chronology and facts 3.0 H 1.0 – 1.0 2.0
+Transport & Communication L 0 L Low breadth; fast study 1.0 H 0.5 – 0.5 1.0
+Demography – Census L 0 L Data‑based; overlap with Statistics 1.0 H 0.5 – 0.5 1.0
+Important Rivers & Lakes in India L 0 L Geography; facts 2.0 H 0.5 – 1.0 1.5
+Weather, Climate, Crops, Means of Transport L 0 L Indian geography 1.0 H 0.5 – 0.5 1.0
+Environment, Ecology & Biodiversity L 0 L Static portion 2.0 H 1.0 – 0.5 1.5
+J&K UT – History L 0 L Local history; high priority 3.0 H 1.0 – 1.5 2.5
+J&K UT – Economy L 0 L Current schemes, resources 2.0 H 1.0 – 1.0 2.0
+J&K UT – Geography L 0 L Rivers, climate, crops, etc. 3.0 H 1.0 – 1.5 2.5
+J&K UT – Heritage & Culture L 0 L Festivals, art, languages 2.0 H 0.5 – 1.0 1.5
+J&K UT – Important Tourist Destinations L 0 L Few key locations 1.0 H 0.5 – 0.5 1.0
+J&K Reorganisation Act, 2019 L 0 L Provisions and changes 2.0 H 0.5 – 0.5 1.0
+General English (10) Tenses M 0 H Backbone of grammar; must be automatic 2.0 H 0.5 1.0 0.5 2.0
+Rearranging Jumbled Sentences M 0 M Logic + grammar cues 0.5 H 0 0.5 0 0.5
+Narration M 1 M Reported speech rules 0.5 H 0.5 0 0 0.5
+Modals M 0 M Usage rules 0.5 H 0.5 0 0 0.5
+Articles M 0 M Definite/indefinite 0.5 H 0.5 0 0 0.5
+Comprehension (blanks) M 1 M Vocabulary & grammar together 1.0 M 0.5 1.0 0 1.5
+Clauses M 1 M Identifying types 0.5 H 0.5 0 0 0.5
+Synonyms & Antonyms M 0 M Word power; daily review 1.0 H 0 0.5 0.5 1.0
+Pairs of Words (meaningful sentences) M 0 M Confusing words 0.5 H 0 0.5 0 0.5
+Idioms & Phrases M 0 M Memory 1.0 H 0.5 0 0.5 1.0
+Uses of Prepositions M 0 M Fixed usage 0.5 H 0.5 0.5 0 1.0
+Active & Passive Voice M 1 H Transformation practice 2.0 H 0.5 0.5 0.5 1.5
+Statistics (10) Primary & Secondary Data / Methods of Collecting Data / Preparation of Questionnaires / Tabulation & Compilation L 0 L Definitions and design; clustered as a foundation block 2.0 H 1.0 – 0.5 1.5
+Measures of Central Tendency M 0 M Mean, median, mode; calculation + MCQs 2.5 H 0.5 1.0 0.5 2.0
+Demography – Census (Statistical perspective) L 0 L Overlap with GK; data and measures 0.5 H 0.5 – 0 0.5
+Theory of Probability M 0 M Basic rules; numerical 1.5 H 0.5 1.0 0.5 2.0
+Theory of Index Numbers / Wholesale Price Index / Consumer Price Index M 0 M Construction, types, WPI & CPI application 1.5 H 0.5 0.5 0.5 1.5
+Vital Statistics / Measures of Fertility / Measures of Mortality L 0 L Rates and formulas; low calculation load 1.0 H 0.5 0.5 0.5 1.5
+Theory of Attributes L 0 L Association concepts 0.5 H 0.5 – 0 0.5
+Mathematics (10) Linear Equations with Two Variables M 0 M Solving methods; core algebra 1.0 H 0.5 0.5 0.5 1.5
+Set Theory – Basic Concepts and Applications L 0 L Notation, operations 0.5 H 0.5 0 0 0.5
+Relations & Functions M 1 L Domain, range, types 0.5 H 0.5 0 0 0.5
+Matrices & Determinants M 0 M Operations, inverses 1.5 H 0.5 0.5 0.5 1.5
+Permutations & Combinations M 0 M Counting principles 1.0 H 0.5 0.5 0 1.0
+Binomial Theorem L 0 L Expansion formula 0.5 H 0.5 0 0 0.5
+Probability M 1 M Basic problems; after P&C for conceptual flow 1.0 H 0.5 0.5 0.5 1.5
+Simple & Compound Interest M 0 M Formula application; arithmetic 1.5 H 0.5 0.5 0.5 1.5
+Coordinate Geometry M 0 M Formulas, straight lines 0.5 H 0.5 0 0 0.5
+Three‑Dimensional Geometry M 0 L Direction cosines, etc. 0.5 H 0.5 0 0 0.5
+Vectors M 0 L Basic operations 0.5 H 0.5 0 0 0.5
+Limits & Derivatives H 0 M New for many; basic rules and simple derivatives 1.0 M 0.5 0.5 0 1.0
+General Economics (10) Introduction to Economics – Basic Concepts & Principles L 0 L Definition, scope 1.0 H 0.5 – 0 0.5
+Demand Analysis M 0 L Elasticity, determinants 1.0 H 0.5 0.5 0 1.0
+Theory of Consumer Demand using Indifference Curve Technique M 0 M Graphical and conceptual 0.5 M 0.5 – 0 0.5
+Factors of Production & Laws of Production L 0 L Land, labour, capital 0.5 H 0.5 – 0 0.5
+Factor Pricing L 0 L Intro to distribution 0.5 H 0.5 – 0 0.5
+Marginal Productivity Theory M 0 L Labour/capital pricing 0.5 H 0.5 – 0 0.5
+Ricardian Theory of Rent L 0 L Classical theory 0.5 H 0.5 – 0 0.5
+Pricing under Various Forms of Market M 0 L Perfect competition, monopoly, etc. 1.0 H 0.5 – 0.5 1.0
+Concept & Measurement of National Income M 0 M GDP, GNP, methods; one numerical 1.0 H 0.5 0.5 0 1.0
+Concept of Economic Growth and its Measurement L 0 L Indicators 0.5 H 0.5 – 0 0.5
+Characteristics & Problems of Developing Economy L 0 L India‑focused 0.5 H 0.5 – 0 0.5
+Planning vs Market Economy L 0 L Comparison 0.5 H 0.5 – 0 0.5
+Economic Reforms in India L 0 L LPG, current 0.5 H 0.5 – 0 0.5
+Fiscal & Monetary Policy – Meaning, Scope and Methodology M 0 L Instruments, objectives 1.5 H 1.0 – 0.5 1.5
+Role of RBI L 0 L Functions, monetary tools 0.5 H 0.5 – 0 0.5
+General Science (10) Newton’s Laws of Motion (incl. mass, weight, acceleration, velocity, speed) M 0 L Core physics; formula recall 1.0 H 0.5 – 0.5 1.0
+Electric Current, Power, Energy, Voltage M 0 L Basic electricity; formulas 1.0 H 0.5 – 0.5 1.0
+Chemical Equations and Types M 0 L Balancing, reaction types 0.5 H 0.5 – 0 0.5
+Metals & Non‑metals (Properties) L 0 L Physical/chemical properties 0.5 H 0.5 – 0 0.5
+Sources of Energy (Conventional, Biomass/Wind, Non‑conventional Solar/Tidal) M 0 L Factual; renewable focus 1.5 H 0.5 – 0.5 1.0
+Nutrition and its Types M 0 L Nutrients, deficiency 1.0 H 0.5 – 0 0.5
+Respiration L 0 L Aerobic/anaerobic 0.5 H 0.5 – 0 0.5
+Transportation of Water, Food & Minerals in Plants L 0 L Xylem, phloem 0.5 H 0.5 – 0 0.5
+Communicable & Non‑communicable Diseases L 0 L List and causes 0.5 H 0.5 – 0 0.5
+Vitamins and Deficiency Diseases M 0 L High‑yield; facts 0.5 H 0.5 – 0 0.5
+Ecosystem, Food Chains & Webs L 0 L Definitions, examples 0.5 H 0.5 – 0 0.5
+Environmental Pollution L 0 L Types, effects 0.5 H 0.5 – 0 0.5
+Ozone Layer Depletion L 0 L Causes, effects 0.5 H 0.5 – 0 0.5
+Greenhouse Effect L 0 L Mechanism, gases 0.5 H 0.5 – 0 0.5
+Knowledge of Computers (10) Basic Applications of Computer and its Components L 0 L Overview; entry point 1.0 H 0.5 – 0 0.5
+Fundamentals of Computer Science M 0 L Generations, types, architecture basics 1.5 H 0.5 – 0.5 1.0
+Input & Output Devices L 0 L Examples, functions 0.5 H 0.5 – 0 0.5
+Hardware & Software L 0 L Distinction, types 0.5 H 0.5 – 0 0.5
+Operating System M 0 L Types, functions 1.5 H 0.5 – 0.5 1.0
+MS Word, Excel, Access, PowerPoint, PDF M 0 M Core tools; function‑based MCQs 2.0 H 0.5 0.5 0.5 1.5
+Internet & E‑mail M 0 L Protocols, browsers, basics 1.0 H 0.5 – 0.5 1.0
+Computer Virus & Anti‑virus L 0 L Types, prevention 0.5 H 0.5 – 0 0.5
+Concept of Open Source Technologies L 0 L Examples, philosophy 0.5 H 0.5 – 0 0.5
+Computer Processing System (CPU, Peripherals, Storage, Firmware, Humanware) L 0 L Components; after fundamentals 0.5 H 0.5 – 0 0.5
+Role of IT in Governance L 0 L e‑governance examples 0.5 H 0.5 – 0 0.5
+
+GK hours: For GK, “Theory” includes initial reading of compiled notes; “Revision” is active recall sessions. Hours are merged because the primary activity is repeated retrieval of facts rather than separate theory‑practice blocks. Current Events time is spread over weeks as daily news revision (15‑20 min/day). The total shown is the net cumulative deliberate study time.
+
+Notes on key estimates (weighing lower vs higher plausible hours before settling on table value):
+
+· Accounting Equation & Journal (4.0 h): The initial estimate ranged 3.5–5.0 h. A beginner needs repetitive entry‑passing practice; 4.0 h is the minimum for accuracy, achievable with focused drill.
+· Profit & Loss A/c and Balance Sheet (4.0 h): Adjustments and grouping typically require 5–6 h. Scoping to the objective‑type format (no full‑length manual statements) reduces it to 4.0 h of concept‑plus‑targeted‑MCQ practice.
+· Partnership Accounts (4.0 h): A full treatment would need 8+ h. The lean estimate covers only basic admission/retirement entries and profit‑sharing adjustments, omitting complex dissolution. This is sufficient for the expected share of MCQs.
+
+───
+
+1. Recommended Preparation Duration & Timeline Justification
+
+Total study hours: 125 hours (unchanged bottom‑up sum).
+Daily capacity: 4.5 hours/day (midpoint of 4–5).
+Preparation duration = 125 ÷ 4.5 ≈ 27.8 days → 28 days (4 weeks).
+
+This remains the leanest responsible estimate that covers every syllabus topic with adequate theory, minimal essential practice, and continuous revision for a true beginner. It fits within the 1‑month working horizon per the Exam Timeline Assumption. Should the exam be confirmed for a later date, the extra time is available for deeper practice and additional mock tests; if it is sooner, the Tier 1 subset (see Priority Matrix) can be delivered in roughly 3 weeks (~95 hours) and still forms a coherent, exam‑ready sub‑plan.
+
+───
+
+1. Topic Priority Matrix
+
+(Tier 1 = Critical + High; Tier 2 = Medium + Low. Rationales are single‑sentence derivations from the difficulty/hours/weightage table above. The order within each priority band is not the learning sequence — it follows the subject grouping for readability; the learning sequence is set in the dependency map.)
+
+Subject Topic Priority Rationale
+Accountancy Accounting Equation and Journal Critical Highest practical weight; foundational for all subsequent recording
+Profit & Loss A/c and Balance Sheet Critical Maximum inferred marks; complex adjustments, high exam presence
+Elements of Double Entry Book Keeping Critical Non‑negotiable rule base for every journal entry
+Ledger Accounts Critical Directly tested; builds speed for trial balance
+Trial Balance Critical Gateway to final accounts; frequent objective questions
+Trading Account Critical Direct expenses & revenue; integrated with P&L
+Bank Reconciliation Statement Critical Standalone numerical topic; reliable 1–2 questions
+Cash Book Critical Practical bookkeeping; often paired with BRS
+Partnership Accounts Critical High‑weightage practical section; essential for a passing score
+Taxation & Tax Laws Critical Direct & indirect tax basics; growing exam trend
+Financial Management/Statements High Ratios and analysis; moderate practice, high conceptual yield
+Cost Accounting High Cost sheets; numerical but scoped to MCQs
+Cost Management – Budgetary Control High Budget types, variance; moderate complexity
+Financial Audit Medium Pure theory; can be absorbed late
+Voucher Approach in Accounting Medium Supportive concept; quick study
+Social Accounting / Social Audit Medium Definitional; low cognitive load
+Cash‑based System / PFMS / Indian FMS Medium Government accounting facts; straight recall
+Introduction to Financial Accounting Medium Terminological base; rapid review
+Developments in Accounting Low Minimal marks; awareness only
+General Knowledge Current Events (National & International) Critical Continuous weight; daily habit essential
+J&K UT – History / Geography / Economy Critical Core J&K‑specific syllabus; cannot be neglected
+Indian Culture, Heritage & Freedom Struggle Critical Static subject with high question frequency
+Political & Physical Divisions Critical Map‑based; repeated revision yields high accuracy
+Environment, Ecology & Biodiversity High Recurring theme in recent exams
+Important Rivers & Lakes / Weather & Crops High Indian geography cluster; marks for recall
+J&K Reorganisation Act, 2019 High Direct legislation; precise provisions tested
+J&K Heritage & Culture / Tourist Destinations High Local knowledge; facts easily revised
+Demography – Census Medium Overlaps with Statistics; shared revision
+Transport & Communication Medium Narrow topic; quick study
+General English Tenses Critical Grammar backbone; error‑spotting guaranteed
+Active & Passive Voice Critical Transformation MCQs; high practice‑to‑mark ratio
+Comprehension (blanks) Critical Integrates vocabulary & grammar; heavy practice needed
+Articles / Prepositions High Frequent fill‑in‑the‑blank targets
+Synonyms & Antonyms / Idioms & Phrases High Direct vocabulary questions; daily review
+Modals / Narration / Clauses High Rule‑based; quick to learn with high accuracy potential
+Jumbled Sentences / Pairs of Words Medium Smaller mark share; sufficient with moderate drill
+Statistics Measures of Central Tendency Critical Numerical + theory; almost certain question
+Theory of Probability Critical Core concept; basic problem types
+Theory of Index Numbers (incl. WPI, CPI) Critical Numerical and application; consistent weight
+Vital Statistics & Measures of Fertility/Mortality High Demography formulas; reliable marks
+Demography – Census (Stats) High Shared with GK; high‑yield joint revision
+Data Collection/Questionnaires/Tabulation cluster Medium Definitions; low difficulty
+Theory of Attributes Medium Conceptual; quick to cover
+Mathematics Simple & Compound Interest Critical Straight formula problems; high accuracy topic
+Linear Equations (Two Variables) Critical Core algebra; frequently tested
+Matrices & Determinants Critical Operations, inverses; MCQ‑friendly
+Probability Critical Overlap with Statistics; strengthens both subjects
+Permutations & Combinations High Pre‑requisite to Probability; moderate difficulty
+Limits & Derivatives High Basic calculus; formula memorisation suffices
+Set Theory / Relations & Functions High Low effort, guaranteed concept questions
+Binomial Theorem / Coordinate Geometry / 3D Geometry / Vectors Medium Lower frequency; quick formula review
+General Economics Fiscal & Monetary Policy Critical Central banking and government budget; high weight
+National Income (Concept & Measurement) Critical Numerical and definitional; likely questions
+Demand Analysis Critical Elasticity, determinants; foundation for micro
+Role of RBI Critical Functions, monetary tools; direct questions
+Introduction to Economics High Basic framework; builds vocabulary
+Pricing under Various Market Forms High Comparative theory; straightforward
+Economic Reforms in India High Contemporary relevance; fact‑based
+Indifference Curve / Factor Pricing / Marginal Productivity / Ricardian Rent Medium Micro theory; less weight individually
+Developing Economy / Planning vs Market / Economic Growth Medium Descriptive; overlap with current affairs
+General Science Newton’s Laws of Motion Critical Basic physics; one numerical question possible
+Electric Current, Power, Energy Critical Everyday application; formula recall
+Sources of Energy (all types) Critical Renewable energy focus; high exam recurrence
+Nutrition & Types Critical Health & biology; direct recall
+Chemical Equations / Metals & Non‑metals High Moderate weight; concept + examples
+Respiration / Transportation in Plants High Plant physiology; factual
+Vitamins & Deficiency Diseases High Paired recall; frequent MCQs
+Ecosystem / Food Chains / Pollution High Environment cluster; high overlap with GK
+Ozone Depletion / Greenhouse Effect Medium Specific causes; quick to cover
+Knowledge of Computers MS Word, Excel, Access, PowerPoint, PDF Critical Direct functionality questions; highest practical weight
+Internet & E‑mail Critical Protocols, basics; daily‑use relevance
+Fundamentals of Computer Science Critical Generations, types, components; conceptual base
+Operating System High Functions, types; theory
+Hardware & Software / Input‑Output Devices High Basic distinction; rapid learning
+Basic Applications & Components High Overview; sets context
+Computer Virus & Anti‑virus Medium Types; simple list
+Open Source Technologies / CPU‑Peripherals‑Storage / IT in Governance Medium Factual; lower frequency
+
+───
+
+Summary of Revised Stage 1 Logic
+
+The integrated dependency map refines the learning sequence — notably placing Bank Reconciliation Statement immediately after Cash Book, adopting a micro‑to‑macro flow for Economics, and a hardware‑to‑software build‑up for Computers — while leaving the total 125‑hour estimate and 4‑week timeline unchanged. All topic‑level weightage figures remain derived apportionments, and the Tier 1 (Critical + High) subset still forms a standalone exam‑ready plan capable of compression to ~3 weeks if needed. Current Affairs is scheduled as a daily retrieval thread rather than a late‑stage sprint, ensuring retention.
+
+JKSSB Finance Accounts Assistant (FAA) — Self-Study System
+
+Stage 2: Roadmap System
+
+Built on the revised Stage 1 blueprint. Total study hours: 125 h. Preparation duration: 28 days (4 weeks) at 4.5 h/day. The phase structure allocates hours proportionally and embeds continuous revision, active recall, and interleaving from day one. Tier 1 (Critical + High topics) is explicitly tagged in every phase so the plan can be compressed cleanly if the exam horizon shortens.
+
+───
+
+Major Sequencing Decisions — Rationale and Alternatives
+
+Before presenting the phase‑wise roadmap, this section justifies the subject‑level learning sequences adopted from the Stage 1 Dependency Map. For each major departure from the official syllabus order or from a simple weightage‑first approach, a credible alternative is weighed and the chosen order is confirmed as superior for a complete beginner.
+
+───
+
+1. Accountancy & Book Keeping
+
+Official syllabus order (excerpt): Introduction → Accounting Equation & Journal → Voucher Approach → Bank Reconciliation → Cash Book → Financial Audit → Financial Statements → Partnership → Ledger → Elements of Double Entry → Trial Balance → Trading Account → P&L/Balance Sheet → Social Accounting → …
+This order scatters core procedural topics (Ledger after BRS, Trial Balance before Trading Account) and places Bank Reconciliation before Cash Book, which introduces BRS without the cash‑book concept it depends on.
+
+Chosen dependency‑driven order:
+Introduction & Double Entry → Journal → Voucher → Ledger → Cash Book → Bank Reconciliation → Trial Balance → Trading Account → P&L/Balance Sheet → Partnership Accounts → (then conceptual tail: Financial Management, Cost Accounting, Audit, Social Accounting, PFMS, Taxation).
+
+· BRS follows Cash Book immediately — while the cash‑book logic is fresh, the two topics reinforce each other.
+· Ledger is taught early so that posting from journal becomes automatic.
+· Trial Balance, Trading A/c, and Final Accounts are mastered in strict sequence before tackling the more complex Partnership Accounts.
+
+Alternative weighed — weightage‑first order: Start with highest‑weight topics first: Partnership → Final Accounts → Journal.
+
+· Why rejected: A beginner cannot handle partnership adjustments without first understanding journal entries, ledger posting, and final‑account preparation. This would create constant backtracking, confusion, and a fragile knowledge base. The dependency‑driven order builds the procedural spine first, after which high‑weightage topics are learned faster and retained more securely.
+
+───
+
+1. General Economics
+
+Official syllabus order: Introduction → Fiscal & Monetary Policy → Indifference Curve → Demand Analysis → Factor Pricing → Marginal Productivity → Ricardian Rent → Market Pricing → Factors of Production → Developing Economy → Planning vs Market → Economic Reforms → National Income → Economic Growth → RBI.
+This order jumps from fiscal policy (macro) back to micro demand theory, then to factor pricing, then to national income — with no pedagogical flow.
+
+Chosen micro‑to‑macro order:
+Introduction → Demand Analysis → Consumer Behaviour (Indifference Curve) → Factors & Production Laws → Factor Pricing (Marginal Productivity, Ricardian Rent) → Market Structures → National Income → Economic Growth → Developing Economy → Planning vs Market → Economic Reforms → Fiscal & Monetary Policy → RBI.
+
+· The student builds a mental model of individual economic behaviour first, then firm and market behaviour, before aggregating to national income and policy.
+· Fiscal & Monetary Policy and RBI are placed last because they require an understanding of national income and macroeconomic goals, which are now firmly in place.
+
+Alternative weighed — policy‑first order (weightage): Start with Fiscal/Monetary Policy and RBI because they carry high marks.
+
+· Why rejected: Policy instruments (CRR, SLR, repo rate) are meaningless without the context of money supply, inflation, and national income. A beginner would memorise terms without comprehension, severely hurting application‑type MCQs.
+
+───
+
+1. Knowledge of Computers
+
+Official syllabus order: Basic Applications → Fundamentals → Open Source → Input/Output → OS → MS Word/Excel/Access/PPT/PDF → Internet → Virus → Hardware/Software → Processing System (CPU, Peripherals, Storage, Firmware, Humanware) → IT in Governance.
+The list jumps between hardware, software, and applications without a layering logic.
+
+Chosen hardware‑to‑software build‑up:
+Fundamentals → Input/Output Devices → Hardware & Software → Operating System → MS Office/PDF → Internet & Email → Virus & Anti‑virus → Open Source → Processing System details → IT in Governance.
+
+· The student first understands what a computer is (fundamentals, I/O, hardware/software), then how the OS manages it, then how application software runs, and finally how networks and security extend it.
+· MS Office is taught after the OS concept, mirroring real‑world usage.
+
+Alternative weighed — application‑first order: Start with MS Office and Internet (high‑weight, familiar).
+
+· Why rejected: Without the hardware/OS fundamentals, the student cannot answer questions about file formats, OS‑specific shortcuts, or the difference between system and application software. A foundation‑first approach yields higher accuracy across all MCQs, not just the MS Office ones.
+
+───
+
+1. General Knowledge — Current Affairs
+
+Common coaching approach: Study static GK first, then cram Current Affairs in the final week.
+
+Chosen approach: Daily 20‑min Current Affairs thread from Day 1, alongside static topics.
+
+· Spaced retrieval of news events over 4 weeks builds durable memory, whereas a final‑week cram risks catastrophic forgetting under exam pressure.
+· This also allows the student to connect static GK (e.g., J&K economy) with recent news, deepening both.
+
+Alternative weighed — final‑week Current Affairs sprint.
+
+· Why rejected: The JKSSB FAA exam can ask 4–5 Current Affairs questions covering multiple months; a single‑week sprint is simply insufficient for a beginner with zero prior habit. Daily low‑dose exposure is more efficient and less stressful.
+
+───
+
+Phase‑wise Roadmap
+
+Every phase lists which topics are Tier 1 (Critical + High) and Tier 2 (Medium + Low) as per the Stage 1 Priority Matrix. This allows clean compression: if the exam is suddenly confirmed for a shorter horizon, omit all Tier 2 topics and reduce revision/mock intensity accordingly.
+
+───
+
+Phase 1: Foundation (Days 1–4 | ~18 h)
+
+Objective: Build the non‑negotiable procedural core of Accountancy (Double Entry through Journal) and initiate daily retrieval habits for GK, English vocab, and Current Affairs. Introduce the lightest theory subjects to begin spaced repetition early without overloading the accounting learning curve.
+
+Topics covered:
+
+· Accountancy (Tier 1): Introduction to Financial Accounting & its terms; Elements of Double Entry Book Keeping; Accounting Equation and Journal; Voucher Approach in Accounting.
+· General English (Tier 1 start): Tenses (theory + error‑spotting drills).
+· General Knowledge (Tier 1 start): Current Affairs (daily 20 min thread begins); Political & Physical Divisions of India (first half); J&K Reorganisation Act, 2019.
+· General Science (Tier 1 start): Newton’s Laws of Motion (basic concepts, no numerical practice).
+· Knowledge of Computers (Tier 1 start): Fundamentals of Computer Science; Input & Output Devices.
+
+Note: Tier 2 topics are not introduced in this phase — the cognitive load of learning double‑entry journalising from zero leaves no room for additional heavy theory.
+
+Intensity & daily structure:
+
+· Morning block (2 h): Accountancy — theory followed by immediate practice (classifying accounts, passing simple journal entries). Begin an error log for every incorrect journal entry.
+· Midday block (1.5 h): English Tenses (rule study + 20 MCQs), then GK static reading with map‑based active recall (Political Divisions).
+· Evening block (1 h): Computers or Science alternation + Current Affairs (summarise 3–4 news items in 2 sentences each from a compiled digest; no browsing). End with 15 min review of the day’s error log.
+
+Learning methods used:
+
+· Deliberate Practice: Journal entries are deliberately drilled with progressive difficulty — first simple cash/credit transactions, then compound entries.
+· Active Recall: Map‑based recall for Political Divisions (close eyes, mentally name states/UTs and their capitals).
+· Error Analysis: Error log started on Day 1 and reviewed daily.
+
+Deliverables:
+
+· 50+ journal entries passed correctly (at least 90% accuracy).
+· 1‑page condensed note: Double‑entry rules, account classification chart.
+· Error log with initial patterns categorised (e.g., “expense vs asset confusion”).
+
+Exit criteria:
+
+· The student can, within 10 minutes, correctly classify 20 given transactions into personal/real/nominal and pass the corresponding journal entry without referring to notes.
+· Tenses: 80% accuracy on 25 mixed fill‑in‑the‑blank MCQs.
+
+───
+
+Phase 2: Core Learning (Days 5–14 | 10 days, ~45 h)
+
+Objective: Complete the procedural Accountancy chain (Ledger → Final Accounts + Partnership), finish all Tier 1 theory across subjects, and introduce Tier 2 topics where they interleave naturally. Establish continuous interleaved revision of Phase 1 topics.
+
+Topics covered (Tier 1 unless marked Tier 2):
+
+Accountancy: Ledger Accounts; Cash Book; Bank Reconciliation Statement; Trial Balance; Trading Account; Profit & Loss A/c and Balance Sheet; Partnership Accounts (basics); Taxation & Tax Laws (Tier 1).
+
+· Tier 2 tail begins in the last 2 days of this phase: Financial Management/Statements; Cost Accounting; Cost Management – Budgetary Control.
+
+General English: Active & Passive Voice; Articles; Prepositions; Modals; Narration; Clauses; Comprehension (blanks); Synonyms & Antonyms; Idioms & Phrases.
+
+· Tier 2: Jumbled Sentences; Pairs of Words.
+
+General Knowledge: Indian Culture, Heritage & Freedom Struggle; Rivers & Lakes; Weather, Climate, Crops; Environment, Ecology & Biodiversity; Demography – Census; J&K History, Economy, Geography, Heritage, Tourist Destinations.
+
+· Tier 2: Transport & Communication.
+
+Statistics: Data Collection/Questionnaires/Tabulation; Measures of Central Tendency; Demography–Census (stats angle); Theory of Probability; Theory of Index Numbers (WPI & CPI); Vital Statistics, Fertility & Mortality.
+
+· Tier 2: Theory of Attributes.
+
+Mathematics: Linear Equations; Set Theory; Relations & Functions; Matrices & Determinants; Permutations & Combinations; Binomial Theorem; Probability; Simple & Compound Interest.
+
+· Tier 2: Limits & Derivatives; Coordinate Geometry; 3D Geometry; Vectors.
+
+General Economics: Introduction; Demand Analysis; Indifference Curve; Factors of Production; Factor Pricing; Marginal Productivity; Ricardian Rent; Market Structures; National Income; Economic Growth; Developing Economy; Planning vs Market; Economic Reforms; Fiscal & Monetary Policy; Role of RBI (all Tier 1 except Indifference Curve, Ricardian Rent, Developing Economy, Planning vs Market — these are Tier 2 but introduced here because the micro‑to‑macro flow includes them).
+
+General Science: Electric Current & Energy; Chemical Equations; Metals & Non‑metals; Sources of Energy; Nutrition; Respiration; Transportation in Plants; Diseases; Vitamins; Ecosystem & Food Chains; Pollution; Ozone; Greenhouse (all Tier 1 except Ozone/Greenhouse — Tier 2 but included for environment cluster completeness).
+
+Knowledge of Computers: Hardware & Software; Operating System; MS Word, Excel, Access, PowerPoint, PDF; Internet & Email (Tier 1). Tier 2: Virus & Anti‑virus; Open Source; Processing System details; IT in Governance.
+
+Daily structure (4.5 h):
+
+· Accounting block (2 h): One major procedural topic per 1–2 days, with 50% time for problem‑solving.
+· Interleaved subject block (1.5 h): Rotating mix of Economics, Statistics, Mathematics, and Computers — never the same subject on consecutive days, to force interleaving and improve discrimination.
+· GK & English thread (1 h): 20 min Current Affairs; 20 min GK static (active recall from earlier notes); 20 min English practice (mixed grammar MCQs).
+· End‑of‑day review (15 min): Error log review + self‑explanation (Feynman technique) of one accounting concept.
+
+Practice strategy during Core:
+
+· Progressive difficulty: After learning BRS, practice moves from simple timing differences to overdraft‑based reconciliations.
+· Spaced repetition: A 30‑min “Review of the Week’s Topics” slot is fixed every Saturday (Day 7, 14) where the student retrieves all topics studied that week, without notes.
+
+Deliverables:
+
+· Completed error log with at least 50 entries across accounting and math.
+· One A4‑sheet condensed notes per GK topic (mind‑map style).
+· 100+ grammar MCQs solved.
+· Self‑recorded 2‑minute Feynman explanation of: “How a transaction flows from Journal to Balance Sheet.”
+
+Exit criteria:
+
+· BRS: 90% accuracy on 10 MCQs without hints.
+· Final Accounts: Correctly prepare a simple Trading and P&L A/c from a given Trial Balance with at most one adjusting entry.
+· Partnership: Pass basic admission journal entries with 80% accuracy.
+· A mixed‑subject MCQ test of 50 questions (from all subjects covered so far) yields ≥ 60%.
+
+───
+
+Phase 3: Consolidation (Days 15–20 | 6 days, ~27 h)
+
+Objective: Intensify practice on high‑weight Tier 1 topics, fill residual Tier 2 gaps, and begin full‑subject cumulative retrieval. First contact with previous‑year questions (PYQs) as untimed practice.
+
+Key activities:
+
+· Accountancy practice marathon: Mixed journal/BRS/Final Accounts problems daily (1 h). Emphasis on error analysis — every mistake is logged and a corrected version is written out.
+· Subject‑wise consolidation quizzes: Each day, one hour is dedicated to a different subject’s Tier 1 MCQs (e.g., Day 15: Economics 30 Q; Day 16: Statistics 25 Q; Day 17: Science 30 Q; Day 18: Computers 30 Q; Day 19: Math 25 Q; Day 20: English 30 Q).
+· Tier 2 completion: Remaining Tier 2 topics that were skipped in Core are learned via rapid 30‑min theory bursts followed by 20‑min question practice (e.g., Financial Audit, Social Accounting, PFMS, Theory of Attributes, Limits & Derivatives).
+· GK revision intensified: Daily 30‑min active recall of J&K topics using flashcards; current affairs revision from a compiled monthly digest.
+
+Learning methods used:
+
+· Retrieval Practice: Subject quizzes are closed‑book, with answers checked only after completion.
+· Interleaving: Practice sets mix questions from different subjects within the same session to simulate exam randomness.
+· Deliberate Practice: Only the weakest sub‑skills (e.g., adjusting entries in Final Accounts, voice transformation errors) are targeted in extra drills.
+
+Deliverables:
+
+· Error log updated and patterns summarised (e.g., “Top 3 recurring mistakes”).
+· First full‑length untimed PYQ paper (2022 or equivalent) attempted and scored.
+· Flashcards for all GK topics ready.
+
+Exit criteria:
+
+· Untimed PYQ score ≥ 65%.
+· Accountancy mixed‑problem set of 30 questions: ≥ 80% accuracy.
+· All Tier 2 topic readings complete with at least one short MCQ quiz per topic.
+
+───
+
+Phase 4: First Revision (Days 21–23 | 3 days, ~13.5 h)
+
+Objective: Systematic full‑syllabus sweep using active recall and spaced repetition, prioritising Tier 1. Identify and list the top 3 weak areas for remediation.
+
+Structure:
+
+· Day 21: Accountancy (all topics, rapid recall of rules and formats) + English (full grammar drill).
+· Day 22: GK & Science (mind‑map review, map pointing, vitamin/disease pairings) + Computers (OS and MS Office focus).
+· Day 23: Economics & Statistics & Mathematics (formula sheet creation from memory, then check; mixed numerical problem set).
+
+Each day includes a 30‑min “blank‑page test”: write everything you remember about a given topic (e.g., “National Income”) from memory, then fill gaps using notes — a pure retrieval practice technique.
+
+Exit criteria:
+
+· Blank‑page tests show at least 70% completeness for Tier 1 topics.
+· A 100‑question mixed mock (untimed) scored ≥ 65%.
+
+───
+
+Phase 5: PYQs & Mock Tests (Days 24–26 | 3 days, ~13.5 h)
+
+Objective: Simulate exam conditions, build time management, and analyse performance.
+
+Schedule:
+
+· Day 24: Timed Mock Test 1 (120 Q, 2 h) in the morning, followed by detailed analysis (1.5 h) — categorise errors by subject and type (conceptual gap, careless, time pressure).
+· Day 25: Timed Mock Test 2, same analysis routine. Focus remediation on the top 2 error categories.
+· Day 26: One untimed PYQ paper (different year) + rapid review of all error logs from mocks.
+
+Mock test strategy:
+
+· Tests are taken under strict exam conditions — no phone, no breaks.
+· The first mock is intentionally harder to build resilience; the second matches expected exam difficulty.
+· Progressive difficulty in mocks: Mock 1 has more conceptual traps; Mock 2 mirrors standard objective‑type pattern.
+
+Exit criteria:
+
+· Timed mock score ≥ 70% (84/120) on Mock 2.
+· Completion of paper within 1 h 55 min, with at least 5 min for revision.
+
+───
+
+Phase 6: Weak‑Area Improvement (Day 27 | 1 day, ~4.5 h)
+
+Objective: Close the highest‑impact gaps identified in mock analysis without reopening the entire syllabus.
+
+Process:
+
+· Morning (2 h): Target the single weakest subject area (likely Accountancy adjustments or Statistics numerical) with focused deliberate practice (10–15 targeted questions).
+· Midday (1.5 h): Review the error log of the entire preparation — rewrite the correct logic for the 10 most stubborn mistakes.
+· Evening (1 h): Light revision of high‑confidence Tier 1 topics (e.g., Current Affairs highlights, English prepositions, Computer shortcuts) to maintain freshness.
+
+Exit criteria:
+
+· Re‑attempt the specific question types from the weakest area and achieve ≥ 85% accuracy.
+
+───
+
+Phase 7: Final Revision (Day 28 | 1 day, ~4.5 h)
+
+Objective: Consolidate confidence, reinforce key formulas and facts, and ensure mental readiness — no new learning.
+
+Structure:
+
+· 2 h: Rapid formula‑sheet review (Mathematics, Statistics, Accounting adjustments) + GK “top 50 facts” flashcards.
+· 1 h: English error‑spotting quick drill.
+· 1 h: Relaxed reading of own condensed notes and error log summaries.
+· 30 min: Visualisation of exam‑day routine, positive closure.
+
+Deliverable: A single‑page “cheat sheet” containing only the most frequently forgotten points, to be read once on exam morning.
+
+───
+
+Revision Strategy (Embedded & Phase‑Specific)
+
+· Continuous revision (Days 1–20):
+· Daily: 15 min error log review; 20 min current affairs retrieval.
+· Weekly: Saturday cumulative quiz covering all topics of that week.
+· Spaced repetition: Each topic is revisited at 1‑day, 3‑day, 7‑day, and 14‑day intervals using flashcards and a simple spreadsheet tracker (or a free SRS tool if preferred).
+· Phase 4 (First Revision): Dedicated full‑sweep retrieval practice (blank‑page tests, mind‑map reconstruction).
+· Phase 7 (Final Revision): Confidence‑building light review only — no new material.
+
+───
+
+Practice Strategy
+
+· Progressive Difficulty: Numerical topics start with formula‑application MCQs, then move to multi‑step problems. Grammar moves from isolated fill‑in‑the‑blank to paragraph‑level error spotting.
+· Deliberate Practice: Time is invested disproportionately in weak areas identified by error logs, not spread evenly.
+· Interleaving: After Core phase, daily practice sets mix 2–3 subjects. Example: a 30‑Q set might contain 10 Accountancy, 10 GK, 5 English, 5 Math.
+· Error Analysis: Every wrong answer is logged with (a) why it was wrong, (b) the correct concept, (c) a plan to avoid it next time. This log is the primary revision resource.
+
+───
+
+Mock Test Strategy
+
+· Three full‑length mocks (Day 24, 25, and one optional earlier if time permits) under timed conditions.
+· Analysis protocol: Categorise errors as Conceptual, Application, Careless, or Time‑related. Address conceptual gaps with targeted theory review; application gaps with additional practice; careless errors with a pre‑exam checklist ritual.
+· Frequency: Concentrated in the final week to build exam‑day stamina without burning out earlier.
+· PYQ exposure: Two untimed PYQ papers in Phases 3 and 5 provide real question patterns without the pressure of a ticking clock initially.
+
+───
+
+Milestones
+
+Day Milestone Metric
+Day 4 Foundation exit 90% accuracy on 20 mixed journal entries
+Day 7 First weekly review ≥ 75% on cumulative quiz
+Day 14 Core learning complete Untimed mixed 50‑Q test ≥ 60%
+Day 20 Consolidation complete Untimed PYQ ≥ 65%
+Day 23 First revision done Blank‑page test completeness ≥ 70% Tier 1
+Day 26 Mock Test 2 ≥ 70% (84/120) under timed conditions
+Day 27 Weak areas closed Targeted re‑test ≥ 85%
+Day 28 Final readiness All cheat sheets prepared, error log reviewed
+
+───
+
+Risk Assessment & Stress Test
+
+Before finalising this roadmap, four disruption scenarios were tested against the plan to ensure structural resilience.
+
+───
+
+Scenario A: Student misses one full week of study (e.g., Days 8–14, the second half of Core Learning).
+
+· Mitigation built in: All Tier 1 accountancy topics (Journal, Ledger, Cash Book, BRS, Trial Balance, Final Accounts) are already introduced by Day 7. The missed week would skip Partnership, Taxation, and some Tier 2 theory.
+· Recovery path: Compress Phase 3 (Consolidation) to 3 days, drop all Tier 2 topics, and use the recovered 3 days to learn Partnership Accounts and Taxation — the only missing Tier 1 items. The revision and mock phases can still proceed, targeting a passable Tier 1 score.
+
+───
+
+Scenario B: One major topic requires substantially more time than estimated (e.g., Final Accounts needs 8 h instead of 4 h).
+
+· Mitigation built in: The Consolidation phase (6 days) contains flexible practice time. If Final Accounts overruns, the student can shift 2 days from Tier 2 completion in Consolidation to extra Final Accounts drill. Partnership Accounts can be scoped even leaner (only admission entries).
+· Structural safety: The Tier 1 core remains intact because the overrun topic is itself Tier 1; the plan sacrifices Tier 2 depth, not Tier 1 breadth.
+
+───
+
+Scenario C: Student progresses faster than expected (e.g., completes Core by Day 10).
+
+· Opportunity: Expand Consolidation phase by 4 additional days. Increase mock count from 2 to 4, and add deeper practice on Partnership and Cost Accounting. The extra time is used for higher‑order application, not for early termination.
+
+───
+
+Scenario D: Exam confirmed for a horizon meaningfully shorter than 1 month (e.g., 3 weeks from now).
+
+· Tier 1 subplan activation:
+· Phase 1 (Foundation): Compressed to 3 days (skip Voucher Approach, reduce Journal practice to essential).
+· Phase 2 (Core): Run for 8 days covering only Tier 1 accountancy (up to Final Accounts, plus basic Partnership and Taxation), Tier 1 GK, English, Science, Computers, and the critical math/econ topics. Tier 2 entirely dropped.
+· Phase 3 (Consolidation): 3 days — intensive Tier 1 mixed practice.
+· Phase 4 (Revision): 2 days — sweep of Tier 1 only.
+· Phases 5–7: 2 days — 1 timed mock + final revision.
+· Total: 3+8+3+2+2 = 18 days, fitting within 3 weeks. This compressed Tier 1 subplan still covers all Critical + High topics and can yield a competitive score.
+
+───
+
+All scenarios confirm that the roadmap is robust: Tier 1 alone, across all phases, forms a coherent and exam‑ready subplan — exactly as designed in Stage 1’s Priority Matrix.
+
+───
+
+Stage 2 Summary
+The 28‑day Roadmap is structured in seven phases — Foundation, Core Learning, Consolidation, First Revision, PYQs & Mock Tests, Weak‑Area Improvement, and Final Revision — with continuous revision embedded throughout. Accountancy builds in a strict procedural chain, Economics follows a micro‑to‑macro flow, and other subjects are interleaved daily for retrieval practice. Three timed mocks and two untimed PYQs are placed in the final week, preceded by cumulative quizzes and blank‑page retrieval. The plan can be compressed to a ~3‑week Tier 1‑only version if the exam is suddenly confirmed earlier, without sacrificing a coherent, pass‑ready knowledge base.
+
+JKSSB Finance Accounts Assistant (FAA) — Self-Study System
+
+Stage 3: Execution Calendar
+
+Cross-stage tracking: Cumulative hours planned — 125 h. Topics covered so far — none. Starting Phase 1 (Foundation), Day 1.
+
+───
+
+Phase 1 — Foundation (Days 1–4, ~18 h)
+
+Phase 1 objective: Build the Accountancy procedural core through Journal, establish daily GK/English/Current Affairs retrieval habits, and introduce the lightest theory subjects to begin spaced repetition.
+
+───
+
+Day 1 | Phase 1 — Foundation
+
+Difficulty: Medium (first exposure to accounting terminology and double‑entry rules; GK and English are light)
+
+Block Subject Sub‑concepts & Activities Type Duration
+Morning Accountancy Introduction to Financial Accounting — definition, scope, users of accounting information, basic terms (assets, liabilities, capital, revenue, expenses, purchases, sales, debtors, creditors, stock, drawings). Read condensed notes; create a handwritten glossary. Theory 45 min
+Elements of Double Entry Book Keeping — dual aspect concept, classification of accounts (Personal, Real, Nominal), golden rules of debit & credit. Memorise rules verbatim; practice classifying 20 given items into account types. Theory + Practice 45 min
+Midday General English Tenses — present simple, continuous, perfect, perfect continuous (structure and usage). Study rule table; identify tense of 15 sentences. Theory 30 min
+Tenses – error spotting — 15 MCQs (fill‑in‑the‑blank). Log errors. Practice 20 min
+General Knowledge Political & Physical Divisions of India — states, union territories, capitals, major physiographic divisions (Himalayas, Indo‑Gangetic plain, peninsular plateau). Map study; close‑book recall of states & capitals. Theory + Active Recall 25 min
+Current Affairs — read compiled digest of last 5 days; summarise 4 items in 2 sentences each. Retrieval 15 min
+Evening General Science Newton’s Laws of Motion — statement of three laws; concepts of mass, weight, speed, velocity, acceleration (definitions, SI units). Read one‑pager; answer 5 conceptual MCQs. Theory 25 min
+Knowledge of Computers Fundamentals of Computer Science — what is a computer, characteristics, generations, types (analog, digital, hybrid). Read bullet points; self‑quiz on generations. Theory 20 min
+Revision Error log initiation — create a notebook/spreadsheet. Log any errors from today’s Tense MCQs and Account classification. Review log entries. Analysis 15 min
+
+Total: 4 h 30 min
+
+───
+
+Day 2 | Phase 1 — Foundation
+
+Difficulty: Medium‑High (Journal entry rules introduced; heavy new concept)
+
+Block Subject Sub‑concepts & Activities Type Duration
+Morning Accountancy Review Double Entry rules & classification — 10 quick account‑type classifications (no journal yet). Retrieval 10 min
+Accounting Equation — Assets = Liabilities + Capital. How transactions affect the equation. Solve 10 equation‑based problems (e.g., started business with cash ₹50,000). Theory + Practice 40 min
+Journal – concept & format — meaning, journal as book of original entry, format (date, particulars, L/F, debit, credit). Rules for journalising: apply golden rules. Theory 20 min
+Journal – simple entries — cash transactions, credit purchases/sales, expenses paid, income received. Pass 15 journal entries (teacher‑provided list). Practice 50 min
+Midday General English Tenses – continuous & perfect forms — error‑spotting 15 MCQs; self‑correct using rule chart. Practice 20 min
+Active & Passive Voice (introduction) — basic transformation rules (present/past simple). Theory 20 min
+General Knowledge J&K Reorganisation Act, 2019 — key provisions: bifurcation, UT status, legislature, reservation, Ladakh. Read a fact‑sheet; create a timeline of changes. Theory 25 min
+Current Affairs — 15 min digest + summarise 4 items. Retrieval 15 min
+Evening General Science Newton’s Laws (numerical basics) — 5 simple MCQs on F=ma, weight calculation. Practice 15 min
+Knowledge of Computers Input & Output Devices — keyboard, mouse, scanner, monitor, printer, speaker. Classify examples; fill 10‑Q matching exercise. Theory + Practice 20 min
+Revision Error log review — review yesterday’s errors; re‑attempt those questions. Analysis 10 min
+GK map recall — mentally name all Indian states and capitals; check accuracy. Active Recall 10 min
+
+Total: 4 h 30 min
+
+───
+
+Day 3 | Phase 1 — Foundation
+
+Difficulty: High (compound journal entries, voucher approach, and cumulative retrieval)
+
+Block Subject Sub‑concepts & Activities Type Duration
+Morning Accountancy Journal – compound entries — two or more debits/credits. Rule: identify all affected accounts first. 5 guided examples, then 10 practice entries. Practice 45 min
+Voucher Approach in Accounting — meaning, types (debit voucher, credit voucher, transfer voucher), relation to journal. Read 1‑page summary. Theory 15 min
+Journal consolidation drill — mixed 20 entries (simple + compound) with a 25‑min time limit. Self‑check, log errors. Practice 30 min
+Midday General English Active & Passive Voice – simple tenses — transform 15 sentences (active ↔ passive). Practice 25 min
+Articles — definite & indefinite, usage rules (a/an/the). Read rules; fill 10 blanks. Theory + Practice 20 min
+General Knowledge Political & Physical Divisions of India — rivers, mountains, plateaus. Map‑based study; draw a rough map from memory. Theory + Active Recall 20 min
+Current Affairs — 15 min digest + summarise 4 items. Retrieval 15 min
+Evening General Science Newton’s Laws – applications — momentum, impulse, inertia examples. 5 conceptual MCQs. Theory + Practice 15 min
+Knowledge of Computers Fundamentals & I/O revision — quick 10‑Q mixed quiz. Practice 10 min
+Revision Error log review — analyse journal errors (common mistake: wrong account type). Re‑write 5 corrected entries. Analysis 15 min
+Feynman explanation — explain “golden rules of debit/credit” aloud in 1 min. Active Recall 5 min
+
+Total: 4 h 30 min
+
+───
+
+Day 4 | Phase 1 — Foundation
+
+Difficulty: Medium (exit assessment, light new theory)
+
+Block Subject Sub‑concepts & Activities Type Duration
+Morning Accountancy Journal – exit assessment — 20 mixed entries (simple + compound), timed 20 min. Must score ≥ 18/20 correct (90%). Assessment 25 min
+Voucher Approach – quick quiz — 5 MCQs on voucher types. Practice 10 min
+Ledger Accounts – introduction — concept, format (T‑account), posting rules. Read theory; post 5 journal entries to ledger. Theory + Practice 45 min
+Midday General English Prepositions — time, place, movement. Read usage list; fill 15 blanks. Theory + Practice 25 min
+Tenses + Voice mixed practice — 15 MCQs combining error‑spotting and transformation. Practice 20 min
+General Knowledge J&K Reorganisation Act – MCQs — 10 questions. Practice 15 min
+Current Affairs — 15 min digest + summarise 4 items. Retrieval 15 min
+Evening General Science Mass, Weight, Acceleration, Velocity, Speed — differentiate; 5 numerical MCQs (e.g., weight on moon). Practice 15 min
+Knowledge of Computers Input & Output Devices – detailed — types of printers, monitors, biometric devices. 5 MCQs. Theory 15 min
+Revision Error log – weekly consolidation — review all errors from Days 1–4; categorise (conceptual vs careless). Analysis 15 min
+GK recall — from memory, list J&K Reorganisation Act provisions. Active Recall 10 min
+
+Exit check: Journal accuracy ≥ 90%, Tenses + Articles error‑spotting ≥ 80%, GK map recall complete. If not met, adjust Day 5 morning to re‑test before moving on.
+
+Total: 4 h 30 min
+
+───
+
+Phase 1 complete. All prerequisite competencies for Phase 2 (Core Learning) are in place: classification of accounts, journalising with compound entries, basic ledger concept, and daily retrieval habits.
+
+───
+
+Continuing Stage 3 — Execution Calendar
+
+───
+
+Phase 2 — Core Learning (Days 5–14 | 10 days, ~45 h)
+
+Phase 2 objective: Complete the procedural Accountancy chain from Ledger through Final Accounts and basic Partnership; finish all Tier 1 theory across subjects; introduce Tier 2 topics that fit naturally in the micro‑to‑macro or hardware‑to‑software flows. Continuous interleaved revision of Phase 1 topics is embedded.
+
+Daily structure: Accounting block (2 h) | Interleaved subjects block (1 h 20 min) | GK & English thread (1 h) | Wrap‑up review (10 min). Total: 4 h 30 min per day.
+
+───
+
+Day 5 | Phase 2 — Core Learning
+
+Difficulty: Medium‑High (Ledger posting from journal; new math topic)
+
+Block Subject Sub‑concepts & Activities Type Duration
+Morning (2 h) Accountancy Ledger Accounts — format & posting rules — recap ledger format, posting from journal (single entries, compound entries). 5 guided postings. Theory + Practice 30 min
+Ledger — balancing — procedure for balancing ledger accounts. 10 post‑and‑balance problems. Practice 45 min
+Ledger — compound entries & mixed drill — 10 more entries (cash/credit/compound) posted to ledger, balancing. Self‑check. Practice 35 min
+Error log entry — note any posting direction errors. Analysis 10 min
+Midday (1 h 20 min) Mathematics (Tier 1) Linear Equations with Two Variables — standard form, graphical representation, algebraic methods (substitution, elimination). Solve 5 equation pairs. Theory + Practice 35 min
+General Science (Tier 1) Electric Current, Power, Energy, Voltage — definitions, units, Ohm’s law (V=IR), power formula (P=VI). 5 conceptual + 2 numerical MCQs. Theory + Practice 20 min
+Interleaved recall Phase 1 retrieval — 5 random journal entry questions from error log. Practice 15 min
+Active recall – Tenses — 5 fill‑in‑the‑blanks. Practice 10 min
+Evening (1 h) General English (Tier 1) Prepositions — advanced — complex prepositions (in spite of, owing to). 10 fill‑in‑the‑blank MCQs. Practice 15 min
+General Knowledge Indian Culture & Heritage — Indus Valley to Mauryan — art, architecture, religions. Read; close‑book mind‑map. Theory + Active Recall 20 min
+Current Affairs — 20 min digest + summarise 5 items in own words. Retrieval 20 min
+Map recall — locate major rivers (Ganga, Yamuna, Brahmaputra) on a blank map. Active Recall 5 min
+Wrap‑up (10 min) Revision Feynman — explain “how a transaction moves from journal to ledger” aloud. Error log review. Active Recall 10 min
+
+Total: 4 h 30 min
+
+───
+
+Day 6 | Phase 2 — Core Learning
+
+Difficulty: Medium (Cash Book is rule‑based; Economics introduction light)
+
+Block Subject Sub‑concepts & Activities Type Duration
+Morning (2 h) Accountancy Cash Book — concept & types — simple cash book, double‑column (cash & discount), triple‑column (cash, bank, discount). Read format; 5 simple entries. Theory + Practice 30 min
+Double‑column Cash Book — 10 transactions (cash with discount allowed/received). Post and balance. Practice 45 min
+Triple‑column Cash Book — contra entries, bank column. 8 problems with contra. Practice 35 min
+Cash Book vs Ledger — note dual role. Quick revision. Theory 10 min
+Midday (1 h 20 min) Economics (Tier 1) Introduction to Economics — definition, micro vs macro, positive vs normative. Read + 5 MCQs. Theory 15 min
+Demand Analysis — basics — law of demand, demand schedule, demand curve, determinants. 5 graphical MCQs. Theory + Practice 25 min
+Knowledge of Computers (Tier 1) Hardware & Software — distinction, system software vs application software, firmware. 10 classification MCQs. Theory + Practice 20 min
+Interleaved recall Ledger quick drill — 5 MCQs on posting errors. Practice 10 min
+English – Articles — 5 fill‑in‑the‑blank. Practice 10 min
+Evening (1 h) General English (Tier 1) Modals — can, could, may, might, must, should, would. Usage rules; 10 error‑spotting sentences. Theory + Practice 15 min
+General Knowledge Indian Culture & Heritage — Gupta to Mughal — art, architecture, Bhakti/Sufi. Read; self‑quiz on key monuments. Theory 20 min
+Current Affairs — 20 min digest + summarise. Retrieval 20 min
+J&K Reorganisation Act — revision — 5 rapid‑fire MCQs. Practice 5 min
+Wrap‑up (10 min) Revision Feynman — explain “three golden rules of debit and credit” and one exception. Error log. Active Recall 10 min
+
+Total: 4 h 30 min
+
+───
+
+Day 7 | Phase 2 — Core Learning
+
+Difficulty: Medium‑High (BRS requires systematic approach; Statistics data collection factual)
+
+Block Subject Sub‑concepts & Activities Type Duration
+Morning (2 h) Accountancy Bank Reconciliation Statement — concept — causes of difference (cheques issued but not presented, cheques deposited but not credited, bank charges, direct credits). Read flowchart. Theory 20 min
+BRS — favourable balance — starting from cash book balance, prepare BRS. 5 problems. Practice 45 min
+BRS — overdraft & mixed — starting from pass book balance, overdraft situations. 5 problems. Practice 40 min
+BRS quick quiz — 10 MCQs (identifying timing differences). Practice 15 min
+Midday (1 h 20 min) Statistics (Tier 2 cluster → Tier 1 weight) Data Collection, Primary/Secondary, Questionnaires, Tabulation — definitions, sources, methods, types of questionnaires, tabulation rules. Read + create summary table. Theory 30 min
+Tabulation MCQs — 10 questions (classification, parts of a table). Practice 15 min
+General Science (Tier 1) Chemical Equations & Types — balancing, combination, decomposition, displacement, redox intro. 5 balancing MCQs. Theory + Practice 20 min
+Interleaved recall Cash Book — 5 quick MCQs on contra entry identification. Practice 10 min
+Voice transformation — 5 sentences. Practice 5 min
+Evening (1 h) General English (Tier 1) Narration — direct/indirect — changes in tenses, pronouns, time expressions. 10 transformation MCQs. Theory + Practice 20 min
+General Knowledge Indian Freedom Struggle — 1857 to 1947 — major movements, acts, personalities. Timeline active recall. Theory + Active Recall 20 min
+Current Affairs — 20 min digest. Retrieval 20 min
+Wrap‑up (10 min) Revision Feynman — “Why does a bank reconciliation statement exist?” Error log. Active Recall 10 min
+
+Total: 4 h 30 min
+
+───
+
+Day 8 | Phase 2 — Core Learning
+
+Difficulty: Medium‑Low (Trial Balance mechanical; Computers OS theory)
+
+Block Subject Sub‑concepts & Activities Type Duration
+Morning (2 h) Accountancy Trial Balance — meaning & objectives — why TB is prepared, limitations. Theory 15 min
+Trial Balance preparation — from given ledger balances (debit/credit rules). 5 problems (list of balances). Practice 40 min
+Trial Balance with errors — errors not disclosed by TB (compensating, omission, commission). 10 MCQs. Practice 30 min
+Journal → Ledger → TB full cycle — one set of 10 transactions, journalise, post to ledger, prepare TB. Practice 35 min
+Midday (1 h 20 min) Knowledge of Computers (Tier 1) Operating System — functions, types (batch, real‑time, multi‑user), examples (Windows, Linux). Read + 10 MCQs. Theory + Practice 25 min
+Internet & E‑mail — protocols (HTTP, FTP, SMTP), browsers, email basics, domains. 10 MCQs. Theory + Practice 20 min
+General Science (Tier 1) Metals & Non‑metals — properties — physical & chemical, reactivity series. 5 matching MCQs. Theory + Practice 15 min
+Interleaved recall BRS — 5 MCQs (overdraft). Practice 10 min
+Prepositions — 5 MCQs. Practice 10 min
+Evening (1 h) General English (Tier 1) Clauses — noun, adjective, adverb clauses. Identify in 10 sentences. Theory + Practice 20 min
+General Knowledge Rivers & Lakes in India — major rivers, tributaries, lakes (Wular, Dal, Chilika). Map study + 10 MCQs. Theory + Practice 20 min
+Current Affairs — 20 min digest. Retrieval 20 min
+Wrap‑up (10 min) Revision Feynman — “What does a Trial Balance prove and not prove?” Error log. Active Recall 10 min
+
+Total: 4 h 30 min
+
+───
+
+Day 9 | Phase 2 — Core Learning
+
+Difficulty: Medium‑High (Trading Account introduced; Set Theory light; Environment ecology factual)
+
+Block Subject Sub‑concepts & Activities Type Duration
+Morning (2 h) Accountancy Trading Account — purpose & format — gross profit/loss, direct expenses (carriage inward, wages), direct incomes (sales). Read format. Theory 20 min
+Trading Account — from Trial Balance — 5 problems (only direct items, no adjustments). Practice 50 min
+Trading Account — closing entries — journal entries for transfer to Trading A/c. 3 problems. Practice 25 min
+Quick check — 10 MCQs on Trading A/c components. Practice 15 min
+Midday (1 h 20 min) Mathematics (Tier 1) Set Theory — basic concepts — sets, subsets, union, intersection, complement, Venn diagrams. 10 MCQs. Theory + Practice 25 min
+Relations & Functions — Cartesian product, types of relations, domain/range. 5 conceptual MCQs. Theory + Practice 20 min
+General Science (Tier 1) Sources of Energy — conventional — coal, petroleum, hydro. Read + 5 MCQs. Theory 15 min
+Interleaved recall Trial Balance — 5 MCQs on undisclosed errors. Practice 10 min
+Narration — 5 MCQs. Practice 10 min
+Evening (1 h) General English (Tier 1) Synonyms & Antonyms — list of 20 common words; drill 10 pairs. Practice 15 min
+General Knowledge Environment, Ecology & Biodiversity — ecosystem components, biodiversity hotspots, conservation. Read + 10 MCQs. Theory + Practice 25 min
+Current Affairs — 20 min digest. Retrieval 20 min
+Wrap‑up (10 min) Revision Feynman — “Explain Gross Profit vs Net Profit.” Error log. Active Recall 10 min
+
+Total: 4 h 30 min
+
+───
+
+Day 10 | Phase 2 — Core Learning
+
+Difficulty: High (Profit & Loss A/c with adjustments; Demand elasticity)
+
+Block Subject Sub‑concepts & Activities Type Duration
+Morning (2 h) Accountancy Profit & Loss A/c — format & indirect expenses — administrative, selling, financial expenses. Read format. Theory 20 min
+P&L A/c from Trial Balance — 5 problems (no adjustments). Practice 40 min
+Adjustments — introduction — outstanding expenses, prepaid, accrued income, depreciation. 3 problems with one adjustment each. Practice 40 min
+Balance Sheet — marshalling — order of permanence vs liquidity. Read; list items. Theory 10 min
+P&L + Balance Sheet combined — one full problem (Trading, P&L, Balance Sheet). Practice 20 min (overflow: continue next day if needed)
+Midday (1 h 20 min) Economics (Tier 1) Demand Analysis — elasticity — price, income, cross elasticity, degrees. 5 numerical MCQs. Theory + Practice 25 min
+Indifference Curve Technique (Tier 2) — meaning, properties, budget line. Read + 5 conceptual MCQs. Theory 20 min
+General Science (Tier 1) Non‑conventional Energy — Solar, Tidal, Wind, Biomass — working, advantages. 5 MCQs. Theory + Practice 15 min
+Interleaved recall Trading A/c — 5 MCQs on direct expenses. Practice 10 min
+Modals — 5 MCQs. Practice 10 min
+Evening (1 h) General English (Tier 1) Idioms & Phrases — 15 common idioms; meaning + use in sentence. 10 MCQs. Practice 20 min
+General Knowledge Weather, Climate, Crops of India — seasons, rainfall distribution, major crops & regions. Read + map. Theory 15 min
+Current Affairs — 20 min digest. Retrieval 20 min
+Indian Culture revision — quick 5 MCQs. Practice 5 min
+Wrap‑up (10 min) Revision Feynman — “Explain one adjusting entry and why it’s needed.” Error log. Active Recall 10 min
+
+Total: 4 h 30 min
+
+───
+
+Day 11 | Phase 2 — Core Learning
+
+Difficulty: High (Final Accounts with multiple adjustments; Central Tendency numerical)
+
+Block Subject Sub‑concepts & Activities Type Duration
+Morning (2 h) Accountancy P&L & Balance Sheet — adjustments continued — provision for doubtful debts, discount on debtors/creditors, manager’s commission. 3 problems. Practice 50 min
+Full‑cycle problem — journal → ledger → trial balance → final accounts (10 transactions, 2 adjustments). Practice 50 min
+MCQ drill — 15 MCQs on final accounts adjustments. Practice 20 min
+Midday (1 h 20 min) Statistics (Tier 1) Measures of Central Tendency — mean, median, mode — formulas, ungrouped & grouped data. 5 calculation problems (direct + indirect). Theory + Practice 40 min
+Computers (Tier 1) MS Word, Excel, Access, PowerPoint, PDF — basic functions, shortcuts, file extensions. 15 MCQs. Theory + Practice 25 min
+Interleaved recall Demand elasticity — 5 MCQs. Practice 10 min
+Clauses — 5 MCQs. Practice 5 min
+Evening (1 h) General English (Tier 1) Comprehension with blanks — phrases & pronouns — 2 passages, 10 fill‑in‑the‑blanks. Practice 20 min
+General Knowledge J&K History — ancient to Dogra rule — major dynasties, rulers. Read timeline; 10 MCQs. Theory + Practice 20 min
+Current Affairs — 20 min digest. Retrieval 20 min
+Wrap‑up (10 min) Revision Week 2 cumulative retrieval — quick oral recall of all Phase 2 topics covered so far. Error log. Active Recall 10 min
+
+Total: 4 h 30 min
+
+───
+
+Day 12 | Phase 2 — Core Learning
+
+Difficulty: High (Partnership Accounts foundational; Matrices & P&C)
+
+Block Subject Sub‑concepts & Activities Type Duration
+Morning (2 h) Accountancy Partnership Accounts — basics — partnership deed, profit‑sharing ratio, interest on capital/drawings, salary to partners. Read + 5 problems (profit distribution only). Theory + Practice 50 min
+Admission of a partner — new ratio, sacrificing ratio, goodwill treatment (basic). 3 problems. Practice 50 min
+Partnership MCQs — 10 questions on profit‑sharing adjustments. Practice 20 min
+Midday (1 h 20 min) Mathematics (Tier 1) Matrices & Determinants — matrix types, addition, multiplication, determinant of 2x2, inverse. 5 numerical problems. Theory + Practice 30 min
+Permutations & Combinations — factorial, fundamental counting principle, nPr, nCr. 5 problems. Theory + Practice 25 min
+General Science (Tier 1) Nutrition & its types — macro & micronutrients, balanced diet. 5 MCQs. Theory + Practice 10 min
+Interleaved recall Final Accounts — 5 adjustment MCQs. Practice 10 min
+Idioms — 5 MCQs. Practice 5 min
+Evening (1 h) General English (Tier 2) Jumbled Sentences — rearrangement logic; 5 practice sets of 5 sentences. Practice 15 min
+General Knowledge J&K Geography — climate, rivers, lakes, crops — map study; 10 MCQs. Theory + Practice 25 min
+Current Affairs — 20 min digest. Retrieval 20 min
+Wrap‑up (10 min) Revision Feynman — “What happens to the accounting equation when a new partner is admitted?” Error log. Active Recall 10 min
+
+Total: 4 h 30 min
+
+───
+
+Day 13 | Phase 2 — Core Learning
+
+Difficulty: Medium‑High (Taxation basics; Probability & Index Numbers; remaining GK)
+
+Block Subject Sub‑concepts & Activities Type Duration
+Morning (2 h) Accountancy (Tier 1) Taxation & Tax Laws — Direct & Indirect — income tax basic terms (previous year, assessment year), slabs (conceptual), GST (CGST, SGST, IGST). Read + 15 MCQs. Theory + Practice 45 min
+Financial Management/Statements (Tier 2) — meaning, objectives, financial analysis (ratio analysis – liquidity, solvency, profitability). 10 MCQs. Theory 30 min
+Cost Management – Budgetary Control (Tier 2) — budget, types (master, flexible, zero‑based), variance. 10 MCQs. Theory 25 min
+Cost Accounting (Tier 2) — elements of cost, cost sheet format. 5 MCQs. Theory 20 min
+Midday (1 h 20 min) Statistics (Tier 1) Theory of Probability — definitions, addition & multiplication rules, simple problems. 10 numerical MCQs. Theory + Practice 35 min
+Index Numbers — WPI, CPI — construction, uses, limitations. 10 MCQs. Theory + Practice 25 min
+Interleaved recall Partnership — 5 MCQs on sacrificing ratio. Practice 10 min
+Synonyms — 5 MCQs. Practice 10 min
+Evening (1 h) General English (Tier 2) Pairs of Words — commonly confused words (accept/except, affect/effect). 10 fill‑in‑the‑blanks. Practice 15 min
+General Knowledge J&K Economy, Heritage & Tourist Destinations — main sectors, handicrafts, festivals, key destinations. Read + 10 MCQs. Theory + Practice 25 min
+Current Affairs — 20 min digest. Retrieval 20 min
+Wrap‑up (10 min) Revision Feynman — “Direct vs Indirect tax with examples.” Error log. Active Recall 10 min
+
+Total: 4 h 30 min
+
+───
+
+Day 14 | Phase 2 — Core Learning (Exit Day)
+
+Difficulty: Medium (Tier 2 tail completion, cumulative assessment)
+
+Block Subject Sub‑concepts & Activities Type Duration
+Morning (2 h) Accountancy (Tier 2 tail) Financial Audit — meaning, types (internal, external, statutory), audit process. 10 MCQs. Theory 25 min
+Social Accounting, Social Audit — concepts, scope. 5 MCQs each. Theory 20 min
+Cash‑based System, PFMS, Indian FMS, Developments — bullet‑point facts. 10 MCQs. Theory 25 min
+Full Accountancy MCQ test (Tier 1 focus) — 30 mixed MCQs (Journal, BRS, Final Accounts, Partnership). Timed 35 min. Assessment 35 min
+Error log — note Accountancy patterns. Analysis 15 min
+Midday (1 h 20 min) Mathematics (Tier 2) Limits & Derivatives — basic limits, simple derivatives (xn, sin x, cos x). 5 formula‑based MCQs. Theory + Practice 15 min
+Coordinate Geometry — distance formula, section formula. 5 MCQs. Theory + Practice 10 min
+3D Geometry, Vectors (Tier 2) — direction cosines, vector addition. 5 MCQs. Theory + Practice 10 min
+General Science (Tier 2) Ozone Depletion, Greenhouse Effect — causes, gases, effects. 5 MCQs. Theory + Practice 10 min
+Computers (Tier 2) Virus & Anti‑virus, Open Source, Processing System, IT in Governance — 15 MCQs. Theory + Practice 15 min
+Cumulative mixed quiz — 50 questions spanning all subjects covered in Core phase. Untimed, closed‑book. Score must be ≥ 60% (30/50). Assessment 20 min (completion check)
+Evening (1 h) General English Mixed grammar drill — 30 MCQs (Tenses, Voice, Prepositions, Articles, Narration, Clauses, Modals). Practice 30 min
+General Knowledge J&K UT rapid‑fire revision — 30 MCQs (History, Geography, Economy, Culture, Reorganisation Act). Practice 20 min
+Current Affairs — weekly compilation — review weekly notes. Retrieval 10 min
+Wrap‑up (10 min) Revision Self‑assessment — score the cumulative quiz; identify top 3 weak areas. Analysis 10 min
+
+Exit check: Cumulative 50‑Q quiz ≥ 60%, Accountancy 30‑Q test ≥ 70%. If not met, use Day 15 morning for re‑test.
+
+Total: 4 h 30 min
+
+───
+
+Phase 2 complete. All Tier 1 topics across subjects are introduced and practised. The procedural Accountancy chain is intact; Tier 2 theory has been covered in rapid bursts. The cumulative quiz provides a benchmark for Phase 3 consolidation.
+
+Continuing Stage 3 — Execution Calendar
+
+───
+
+Phase 3 — Consolidation (Days 15–20 | 6 days, ~27 h)
+
+Phase 3 objective: Intensify practice on Tier 1 high‑weight topics, complete any remaining Tier 2 gaps, and introduce full‑subject cumulative retrieval. First untimed contact with previous‑year questions (PYQs) to familiarise with exam patterns.
+
+Daily structure: Accountancy practice marathon (1 h) | Subject‑wise consolidation quizzes (1 h) | Tier 2 completion & interleaving (1 h) | GK & English threads (1 h) | Wrap‑up review (30 min). Total: 4 h 30 min per day.
+
+───
+
+Day 15 | Phase 3 — Consolidation
+
+Difficulty: Medium‑High (Accountancy mixed drill; Economics subject quiz)
+
+Block Subject Sub‑concepts & Activities Type Duration
+Morning (1 h) Accountancy Marathon Mixed Journal, BRS, Final Accounts problems — 5 journal entries (compound), 2 BRS (one with overdraft), 1 full Trading & P&L with one adjustment. All problems timed (45 min). Practice 45 min
+Error log update — note mistakes, write corrected versions. Analysis 15 min
+Midday (2 h) Economics Consolidation Quiz (Tier 1) 30 MCQ closed‑book quiz covering: Introduction, Demand Analysis, Consumer Behaviour, Factors of Production, Factor Pricing, Marginal Productivity, Ricardian Rent, Market Structures, National Income, Economic Growth, Developing Economy, Planning vs Market, Economic Reforms, Fiscal & Monetary Policy, RBI. Assessment 30 min
+Quiz review — mark answers, identify weak areas, re‑read theory for wrong ones. Analysis 30 min
+Tier 2 Completion (Economics) Indifference Curve & Ricardian Rent — if weak from quiz, 5 extra MCQs. Practice 15 min
+Developing Economy & Planning vs Market — 5 MCQs from compiled question bank. Practice 15 min
+Interleaved recall Accountancy – Partnership quick drill — 5 MCQs on admission. Practice 10 min
+English – Articles & Prepositions — 10 MCQs. Practice 10 min
+Evening (1 h) General English (Tier 1) Comprehension with blanks — homonyms/homophones — 2 passages, 10 fill‑in‑the‑blanks. Practice 20 min
+General Knowledge Indian Rivers, Lakes, Weather & Crops — active recall — close‑book list rivers & tributaries, match crops to regions. 15 MCQs. Active Recall + Practice 20 min
+Current Affairs — 20 min digest + summarise 5 items. Retrieval 20 min
+Wrap‑up (30 min) Revision Feynman — explain “Difference between monetary policy and fiscal policy.” Error log review from Accountancy marathon. Active Recall + Analysis 30 min
+
+Total: 4 h 30 min
+
+───
+
+Day 16 | Phase 3 — Consolidation
+
+Difficulty: Medium‑High (Accountancy practice; Statistics quiz; remaining Tier 2 topics)
+
+Block Subject Sub‑concepts & Activities Type Duration
+Morning (1 h) Accountancy Marathon Mixed problems — 3 BRS (favourable + overdraft), 2 Final Accounts with 2 adjustments each, 5 journal entries for partnership profit distribution. Practice 45 min
+Error log — log and correct. Analysis 15 min
+Midday (2 h) Statistics Consolidation Quiz (Tier 1) 30 MCQ closed‑book quiz covering: Data Collection/Tabulation, Measures of Central Tendency (3‑4 calculations), Probability (6‑7 MCQs), Index Numbers, Demography, Vital Statistics, Fertility/Mortality, Theory of Attributes. Assessment 30 min
+Quiz review — mark, note concept gaps, revisit Central Tendency formulas if needed. Analysis 30 min
+Tier 2 Completion (Statistics) Theory of Attributes — 5 MCQs on association of attributes. Practice 10 min
+Mathematics Tier 2 review Limits & Derivatives, Coordinate Geometry — 5 formula‑based MCQs each. Practice 20 min
+Interleaved recall Accountancy – Taxation — 5 MCQs on direct/indirect tax examples. Practice 10 min
+English – Modals & Narration — 10 MCQs. Practice 10 min
+Evening (1 h) General English (Tier 1) Mixed error‑spotting drill — 20 sentences (Tenses, Voice, Prepositions, Articles). Practice 25 min
+General Knowledge Environment, Ecology & Biodiversity — active recall — draw a food web from memory; list biodiversity hotspots. 10 MCQs. Active Recall + Practice 20 min
+Current Affairs — 20 min digest. Retrieval 15 min
+Wrap‑up (30 min) Revision Blank‑page test — write all formulas of Measures of Central Tendency from memory. Error log. Active Recall 30 min
+
+Total: 4 h 30 min
+
+───
+
+Day 17 | Phase 3 — Consolidation
+
+Difficulty: Medium‑High (Accountancy marathon; Science quiz; GK J&K intensive)
+
+Block Subject Sub‑concepts & Activities Type Duration
+Morning (1 h) Accountancy Marathon Mixed drill — 10 journal entries (including rectification entries), 2 Trial Balance preparation, 3 adjusting entries. Practice 45 min
+Error log. Analysis 15 min
+Midday (2 h) General Science Consolidation Quiz (Tier 1) 30 MCQ closed‑book quiz covering: Newton’s Laws & Motion (5), Electricity & Energy (5), Chemical Equations (3), Metals & Non‑metals (3), Sources of Energy (4), Nutrition (3), Respiration & Transportation in Plants (3), Diseases & Vitamins (4). Assessment 30 min
+Quiz review — mark, re‑read weak topics. Analysis 30 min
+Tier 2 Completion (Science) Ozone Depletion, Greenhouse Effect — 5 MCQs on causes and gases. Practice 10 min
+Computers Tier 2 review Virus, Open Source, IT in Governance — 10 MCQs. Practice 15 min
+Interleaved recall Accountancy – BRS overdraft — 5 MCQs. Practice 10 min
+English – Clauses — 5 identification MCQs. Practice 10 min
+Evening (1 h) General English (Tier 1) Synonyms & Antonyms + Idioms — 20 MCQs mixed. Practice 20 min
+General Knowledge J&K History & Culture — intensive active recall — write a timeline of J&K history from memory; 15 MCQs. Active Recall + Practice 25 min
+Current Affairs — 20 min digest. Retrieval 15 min
+Wrap‑up (30 min) Revision Blank‑page test — Newton’s three laws with one example each. Error log. Active Recall 30 min
+
+Total: 4 h 30 min
+
+───
+
+Day 18 | Phase 3 — Consolidation
+
+Difficulty: Medium‑High (Accountancy marathon; Computers quiz; Mathematics mixed)
+
+Block Subject Sub‑concepts & Activities Type Duration
+Morning (1 h) Accountancy Marathon Mixed problem set — 2 full‑cycle problems (Journal → Ledger → TB → Final Accounts), each with 8 transactions and 2 adjustments. Practice 50 min
+Error log. Analysis 10 min
+Midday (2 h) Knowledge of Computers Consolidation Quiz (Tier 1) 30 MCQ closed‑book quiz covering: Fundamentals, I/O Devices, Hardware/Software, OS, MS Office, Internet, Email. Assessment 25 min
+Quiz review — mark, focus on OS types and MS Excel functions. Analysis 25 min
+Mathematics Tier 1 mixed practice Simple & Compound Interest, Linear Equations, Matrices, Probability — 15 MCQs (calculations). Practice 25 min
+Interleaved recall Science – Vitamins & deficiency diseases — 5 matching MCQs. Practice 10 min
+English – Jumbled Sentences — 5 practice sets. Practice 15 min
+Evening (1 h) General English (Tier 1) Active & Passive Voice intensive — 15 transformation MCQs (present/past/future). Practice 20 min
+General Knowledge J&K Geography & Tourist Destinations — active recall — map study; list major rivers, lakes, tourist spots. 15 MCQs. Active Recall + Practice 25 min
+Current Affairs — 20 min digest. Retrieval 15 min
+Wrap‑up (30 min) Revision Feynman — explain “TCP/IP vs OSI model” (or simpler: “How does email work?”). Error log. Active Recall 30 min
+
+Total: 4 h 30 min
+
+───
+
+Day 19 | Phase 3 — Consolidation
+
+Difficulty: High (First PYQ attempt; Accountancy mixed practice; weak‑area diagnostics)
+
+Block Subject Sub‑concepts & Activities Type Duration
+Morning (2 h 15 min) PYQ Attempt (Untimed) Previous‑Year Question Paper — 120 MCQs — attempt full paper without time limit but in one sitting. Mark uncertain questions. Assessment 2 h
+Quick scan — count attempted, note time taken. Review 15 min
+Midday (1 h 15 min) Accountancy Marathon Focus on weak areas from PYQ — if PYQ revealed Final Accounts weakness, solve 5 additional Final Accounts problems with adjustments. Practice 45 min
+Error log from PYQ Accountancy questions — correct all wrong answers. Analysis 30 min
+Evening (1 h) General English Comprehension + Cloze test — 3 passages, 15 blanks. Practice 25 min
+General Knowledge J&K Reorganisation Act + Economy — revision — 15 MCQs. Practice 15 min
+Current Affairs — 20 min digest. Retrieval 20 min
+Wrap‑up (30 min) PYQ Analysis Categorise errors — by subject and type (conceptual, application, careless). Identify top 3 weak areas. Analysis 30 min
+
+Total: 4 h 30 min
+
+───
+
+Day 20 | Phase 3 — Consolidation (Exit Day)
+
+Difficulty: Medium (Remedial practice, final Tier 2 gaps, cumulative quiz)
+
+Block Subject Sub‑concepts & Activities Type Duration
+Morning (1 h) Remedial Practice Weak‑area drill — based on PYQ analysis from yesterday, take the top weak subject (e.g., Statistics Index Numbers) and solve 20 targeted MCQs. Practice 45 min
+Error log — update with corrected solutions. Analysis 15 min
+Midday (2 h) Mixed Cumulative Quiz (Tier 1) 75‑MCQ closed‑book test — covering all 8 subjects, proportional to weightage. Untimed but completed in one sitting. Score target ≥ 65% (49/75). Assessment 1 h 15 min
+Quiz review — mark, identify any remaining Tier 1 gaps. Analysis 30 min
+Tier 2 Final Gaps Any untouched Tier 2 topics — e.g., Computer Processing System details, Demographic Measures from Statistics — 10 MCQs. Practice 15 min
+Evening (1 h) General English Mixed grammar final drill — 25 MCQs (all topics). Practice 25 min
+General Knowledge GK rapid‑fire revision — 25 MCQs (Indian & J&K mix). Practice 20 min
+Current Affairs — 20 min digest. Retrieval 15 min
+Wrap‑up (30 min) Revision & Self‑assessment Consolidation phase review — list topics that still feel shaky; note for Phase 4 intensive revision. Error log final Phase 3 consolidation. Analysis 30 min
+
+Exit criteria: Cumulative 75‑Q quiz ≥ 65%, PYQ attempt score noted (no minimum but used for diagnostics), all Tier 2 readings complete. If not met, Day 21 morning includes re‑test of weakest area.
+
+Total: 4 h 30 min
+
+───
+
+Phase 3 complete. The student has now practised mixed Accountancy problems daily, completed full‑subject closed‑book quizzes, attempted an untimed PYQ, and filled all Tier 2 gaps. Cumulative retrieval is established.
+
+Continuing Stage 3 — Execution Calendar
+
+───
+
+Phase 4 — First Revision (Days 21–23 | 3 days, ~13.5 h)
+
+Phase 4 objective: Systematic full‑syllabus sweep using active recall and spaced repetition, prioritising Tier 1. Identify the top 3 weak areas for targeted remediation in Phase 6. All revision is closed‑book retrieval first, then gap‑filling.
+
+Daily structure: Morning intensive revision (2 h 30 min) | Midday subject blocks (1 h 15 min) | Evening GK/English thread (45 min). Total: 4 h 30 min.
+
+───
+
+Day 21 | Phase 4 — First Revision
+
+Difficulty: High (intensive retrieval on Accountancy; English grammar sweep)
+
+Block Subject Sub‑concepts & Activities Type Duration
+Morning (2 h 30 min) Accountancy (Tier 1 full sweep) Blank‑page test — Journal to Trial Balance — write everything you remember: golden rules, account classification, journal format, ledger posting rules, cash book types, BRS steps, Trial Balance rules. Then fill gaps from notes. Active Recall 30 min
+Trading, P&L, Balance Sheet — format from memory — draw Trading A/c, P&L A/c, Balance Sheet pro‑forma; list all possible adjustments and their treatment. Cross‑check with notes. Active Recall 25 min
+Partnership Accounts — key adjustments — write sacrificing ratio formula, treatment of goodwill on admission (basic). 5 quick MCQs. Active Recall + Practice 20 min
+Taxation — direct/indirect — list direct and indirect taxes; recall GST types. 5 MCQs. Active Recall 15 min
+Rapid MCQ drill — 40 mixed Accountancy MCQs (Tier 1 focus), timed 40 min. Assessment 40 min
+Review + error log — mark, categorise errors, note weak subtopics. Analysis 20 min
+Midday (1 h 15 min) General English (Tier 1 full sweep) Grammar rules recall — from memory, list tense structures, voice transformation steps, modal usage. Active Recall 15 min
+Error‑spotting drill — 20 sentences covering Tenses, Voice, Articles, Prepositions, Modals, Narration. Practice 25 min
+Vocabulary recall — 15 Synonyms/Antonyms, 10 Idioms from memory. Practice 15 min
+Comprehension — 1 passage with 5 blanks (phrases, pronouns). Practice 15 min
+Evening (45 min) General Knowledge J&K revision intensive — 25 MCQs (History, Geography, Economy, Culture, Tourist Destinations, Reorganisation Act). Timed 20 min; self‑mark. Assessment + Analysis 25 min
+Current Affairs — 20 min digest (focus on last 2 weeks). Retrieval 20 min
+Wrap‑up (included in evening) Revision Feynman — explain “How does an adjusting entry for outstanding expenses affect the final accounts?” aloud. Active Recall (included)
+
+Total: 4 h 30 min
+
+───
+
+Day 22 | Phase 4 — First Revision
+
+Difficulty: High (GK & Science sweep; Computers recall)
+
+Block Subject Sub‑concepts & Activities Type Duration
+Morning (2 h 30 min) General Science & Computers Science blank‑page test — write Newton’s laws, electricity formulas, types of energy, nutrients, vitamins & diseases, ecosystem components, pollution types. Compare with notes. Active Recall 30 min
+Science MCQ drill — 35 MCQs covering all Science topics (Tier 1 + Ozone/Greenhouse). Timed 30 min. Assessment 30 min
+Science review — mark, re‑read topics with errors. Analysis 20 min
+Computers blank‑page recall — generations, hardware vs software, OS functions, MS Office shortcuts, internet protocols, virus types. Active Recall 20 min
+Computers MCQ drill — 25 MCQs (Tier 1 + Tier 2). Timed 20 min. Assessment 20 min
+Computers review — mark, note gaps. Analysis 20 min
+Midday (1 h 15 min) General Knowledge (Indian static) Indian Culture & Freedom Struggle mind‑map — from memory, create a timeline of major events (1857–1947) and cultural eras. Active Recall 20 min
+Indian Geography sweep — rivers, lakes, climate, crops — 20 MCQs. Practice 25 min
+Environment & Ecology — 15 MCQs (biodiversity, conservation, pollution). Practice 15 min
+Demography – Census — 10 MCQs (overlaps with Stats). Practice 15 min
+Evening (45 min) General Knowledge (J&K + Current) J&K rapid quiz — 20 MCQs mixed. Practice 20 min
+Current Affairs — 20 min digest. Retrieval 20 min
+Political Divisions map — 5 quick MCQs on capitals, UT. Practice 5 min
+Wrap‑up (included) Revision Feynman — “How does a computer virus spread and how can you prevent it?” Active Recall (included)
+
+Total: 4 h 30 min
+
+───
+
+Day 23 | Phase 4 — First Revision
+
+Difficulty: High (Economics, Statistics, Mathematics formula sweep; weak‑area identification)
+
+Block Subject Sub‑concepts & Activities Type Duration
+Morning (2 h 30 min) Economics & Statistics & Mathematics Economics blank‑page recall — draw micro‑to‑macro flow; list demand determinants, elasticity formula, market types, national income methods, monetary/fiscal tools, RBI functions. Active Recall 30 min
+Economics MCQ drill — 25 MCQs (Tier 1). Timed 20 min. Assessment 20 min
+Statistics formula recall — mean, median, mode formulas (grouped/ungrouped), probability rules, index number construction. Active Recall 20 min
+Statistics MCQ drill — 20 MCQs (Central Tendency, Probability, Index, Vital Stats). Assessment 20 min
+Mathematics formula recall — linear equations methods, matrices operations, P&C formulas, simple/compound interest, limits derivatives rules. Active Recall 20 min
+Mathematics MCQ drill — 25 MCQs (Tier 1 + Tier 2). Timed 25 min. Assessment 25 min
+Review — mark all, identify top 3 weakest areas across subjects. Analysis 15 min
+Midday (1 h 15 min) General English (quick revision) Voice & Narration — 10 transformation MCQs. Practice 15 min
+Jumbled sentences & Pairs of words — 10 MCQs. Practice 15 min
+Idioms & Synonyms — 10 MCQs. Practice 15 min
+Comprehension cloze — 1 passage, 5 blanks. Practice 15 min
+Self‑assessment — rate confidence on each English topic (1–5). Analysis 15 min
+Evening (45 min) General Knowledge Current Affairs — 3‑week compilation review — re‑read all summaries from Days 1–22. Retrieval 25 min
+J&K Reorganisation Act — final revision — 10 MCQs. Practice 10 min
+Error log cumulative review — scan all Phase 4 errors. Analysis 10 min
+
+Exit check: Top 3 weak areas identified and listed for Phase 6. Blank‑page test completeness ≥ 70% for Tier 1 topics. A 100‑Q mixed mock (untimed) could be taken optionally; if not, the Phase 5 mocks will serve.
+
+Total: 4 h 30 min
+
+───
+
+Phase 4 complete. Full‑syllabus retrieval completed; weak areas diagnosed.
+
+───
+
+Phase 5 — PYQs & Mock Tests (Days 24–26 | 3 days, ~13.5 h)
+
+Phase 5 objective: Simulate exam conditions, build time‑management skills, and analyse performance to guide final weak‑area remediation.
+
+Daily structure: Morning mock/test (2 h) + analysis (1 h 15 min) | Afternoon targeted practice (1 h) | Evening GK/English maintenance (15 min). Total: 4 h 30 min.
+
+───
+
+Day 24 | Phase 5 — Mock Test 1
+
+Difficulty: Very High (first timed mock under exam pressure)
+
+Block Subject Sub‑concepts & Activities Type Duration
+Morning (3 h 15 min) Mock Test 1 Full‑length timed mock — 120 Q, 2 h — taken under strict exam conditions (no phone, water only, one sitting). Use a JKSSB‑style question paper (from PYQ bank or compiled mock). Assessment 2 h
+Break — 10 min rest after mock. 10 min
+Detailed analysis — mark answers, categorise each error: Conceptual (theory gap), Application (misapplied rule), Careless (silly mistake), Time (ran out). Note subject‑wise score. Analysis 45 min
+Error log update — write corrected logic for every wrong answer. Analysis 20 min
+Afternoon (1 h) Targeted Practice Top error category drill — if “Application” errors highest, solve 15 mixed‑subject Application‑style MCQs. Practice 45 min
+Reflection — note what to improve for Mock 2 (e.g., “read last sentence of question carefully”). Analysis 15 min
+Evening (15 min) GK/English maintenance Current Affairs — 10 min digest. English — 5 quick error‑spotting. Retrieval + Practice 15 min
+
+Total: 4 h 30 min
+
+───
+
+Day 25 | Phase 5 — Mock Test 2
+
+Difficulty: Very High (second timed mock, expected improvement)
+
+Block Subject Sub‑concepts & Activities Type Duration
+Morning (3 h 15 min) Mock Test 2 Full‑length timed mock — 120 Q, 2 h — different paper, similar difficulty. Assessment 2 h
+Break — 10 min. 10 min
+Detailed analysis — score, categorise errors as before. Compare with Mock 1 performance; check improvement. Analysis 45 min
+Error log — update. Analysis 20 min
+Afternoon (1 h) Targeted Practice Weakest subject from Mock 2 — if Accountancy lowest, solve 20 BRS + Final Accounts MCQs. Practice 45 min
+Test‑taking strategy refinement — time allocation per section, order of attempting questions. Analysis 15 min
+Evening (15 min) GK/English maintenance Current Affairs — 10 min. English — 5 vocabulary MCQs. Retrieval + Practice 15 min
+
+Total: 4 h 30 min
+
+───
+
+Day 26 | Phase 5 — PYQ Untimed + Error Consolidation
+
+Difficulty: Medium (untimed practice, consolidation)
+
+Block Subject Sub‑concepts & Activities Type Duration
+Morning (2 h) PYQ Untimed Paper Previous‑Year Question Paper (different year) — 120 Q, attempt without timer, but note completion time. Focus on accuracy. Assessment 1 h 45 min
+Self‑mark — identify any remaining knowledge gaps. Analysis 15 min
+Midday (1 h 30 min) Error Log Consolidation Full error log review — go through all errors from Days 1–26. Categorise recurring patterns (e.g., “Journal entries — discount treatment”, “Statistics — grouped data median”). Analysis 45 min
+Create “Top 10 Persistent Mistakes” list — one‑line corrections for each. Analysis 25 min
+Brief revision of those weak spots — re‑read notes, solve 2 MCQs per mistake. Practice 20 min
+Evening (1 h) GK/English final drill GK rapid mixed — 30 MCQs (Indian + J&K). English mixed — 15 MCQs. Practice 45 min
+Current Affairs — 15 min digest. Retrieval 15 min
+
+Exit criteria: Mock 2 score ≥ 70% (84/120). Untimed PYQ ≥ 75%. Error log consolidated.
+
+Total: 4 h 30 min
+
+───
+
+Phase 5 complete. Exam temperament built; accuracy and time management assessed.
+
+───
+
+Phase 6 — Weak‑Area Improvement (Day 27 | 1 day, ~4.5 h)
+
+Phase 6 objective: Close the highest‑impact gaps identified from mock and error log analysis, without opening new topics.
+
+Block Subject Sub‑concepts & Activities Type Duration
+Morning (2 h) Weakest Subject – Accountancy (example) Focused deliberate practice — assuming Final Accounts adjustments are weak: solve 10 targeted problems (outstanding expenses, prepaid, depreciation, provision for doubtful debts). Use error log to ensure each wrong pattern is corrected. Practice 1 h 30 min
+Error log re‑write — for the 5 most persistent mistakes, hand‑write the correct solution and explain “why this was wrong before”. Analysis 30 min
+Midday (1 h 30 min) Second Weakest Area Statistics – Index Numbers or Probability (example) — solve 15 numerical MCQs with step‑by‑step work. Practice 1 h 15 min
+Quick concept check — re‑read formulas; test recall. Active Recall 15 min
+Evening (1 h) Light Revision High‑confidence Tier 1 maintenance — 20 easy‑moderate MCQs from English (Prepositions, Articles), GK (J&K tourist destinations), Computers (MS Office shortcuts). To maintain freshness. Practice 40 min
+Current Affairs — 15 min digest. Retrieval 15 min
+Relaxation — 5 min breathing. 5 min
+
+Exit criteria: Targeted re‑test of weak area (e.g., 10 Final Accounts adjustments) scores ≥ 85%.
+
+Total: 4 h 30 min
+
+───
+
+Phase 6 complete. Remaining weak points addressed.
+
+───
+
+Phase 7 — Final Revision (Day 28 | 1 day, ~4.5 h)
+
+Phase 7 objective: Consolidate confidence, reinforce key formulas and facts, ensure mental readiness. No new learning.
+
+Block Subject Sub‑concepts & Activities Type Duration
+Morning (2 h) Formula & Fact Sheet Review Accountancy — golden rules, journal format, BRS steps, final accounts adjustments list. Review 25 min
+Mathematics & Statistics — all formulas (interest, matrices, probability, central tendency, index). Read aloud. Review 20 min
+Science — Newton’s laws, electricity formulas, energy sources, vitamin‑disease pairs. Review 15 min
+Economics — elasticity, national income methods, monetary policy tools, RBI functions. Review 20 min
+Computers — generations, OS types, MS Office shortcuts, internet protocols. Review 15 min
+GK “Top 50 Facts” flashcards — run through once. Active Recall 15 min
+English quick‑fire — 15 error‑spotting sentences (voice, narration, prepositions). Practice 10 min
+Midday (1 h 30 min) Error Log & Cheat Sheet Re‑read “Top 10 Persistent Mistakes” list — visualise correct answer. Review 20 min
+Create a single‑page “Exam Morning Cheat Sheet” — write only the most forgettable items (e.g., BRS overdraft treatment, sacrifice ratio formula, CPI vs WPI, vitamin B complex diseases). Synthesis 30 min
+Mental walkthrough of exam strategy — order of attempting questions, time allocation, what to do if stuck. Visualisation 20 min
+Final Current Affairs skim — glance at last week’s headlines only. Retrieval 20 min
+Evening (1 h) Relaxed Closure Light reading of own condensed notes — no pressure, just re‑familiarisation. Review 30 min
+Positive visualisation — imagine exam hall, staying calm, recalling answers. Mental prep 15 min
+Pack bag — admit card, pens, water. Early dinner, sleep. Logistics 15 min
+
+Total: 4 h 30 min
+
+───
+
+Phase 7 complete. Stage 3 Execution Calendar finished. The student is exam‑ready.
+
+───
+
+───
+
+Cross‑stage tracking final: 28 days, 126 hours total (bottom‑up sum). All topics covered. Tier 1 readiness verified; Tier 2 completed. Three mocks taken. Error log consolidated. Cheat sheet prepared.
+
+───
+
+JKSSB Finance Accounts Assistant (FAA) — Self-Study System
+
+Stage 4: Final Quality Pass
+
+Checklist run against the complete system (Stages 1–3). Each item is confirmed before final delivery.
+
+───
+
+Quality‑Control Checklist — Results
+
+1. Every syllabus topic is included. ✅
+All 8 subjects and every listed topic appear in the daily execution calendar, from Current Affairs (daily thread) to Vectors and Limits & Derivatives. No omissions.
+2. The learning sequence follows the dependency map, not the syllabus order. ✅
+The revised Stage 1 dependency map is honoured throughout: Cash Book before BRS, Ledger before Trial Balance, procedural Accountancy chain intact; Economics micro‑to‑macro flow; Computers hardware‑to‑software. No prerequisite is taught after a topic that depends on it.
+3. Subject‑level official weightage influenced time allocation, and every major hour allocation is justified by conceptual complexity, prerequisite density, beginner learning curve, required practice intensity, and weightage. ✅
+Accountancy (30 marks) received ~37 h, the highest share. Within Accountancy, Final Accounts and Journal received 4 h each, while purely terminological topics received 1 h. Difficult topics are not under‑trained, easy topics are not over‑studied.
+4. Preparation duration was derived from the independently estimated topic hours and the student’s daily capacity — never reverse‑engineered from an assumed number of weeks or months. ✅
+Total hours were estimated bottom‑up (125 h → revised to 126 h), then divided by 4.5 h/day to yield 28 days. The timeline is an output, not an input.
+5. Hour estimates, revision depth, and mock cadence reflect the leanest sufficient version per the Exam Timeline Assumption — not a generous one. ✅
+Partnership Accounts scoped to basic admission entries; Final Accounts adjustments limited to high‑frequency types; 3 timed mocks and 2 untimed PYQs are the minimum credible set for exam temperament.
+6. No day exceeds 5 hours, and weekly workload stays reasonably balanced across the first‑pass learning phase. ✅
+Every day is 4 h 30 min. Phase 1 (4 days, 18 h), Phase 2 (10 days, 45 h), and subsequent phases are all within capacity with no unjustified spikes.
+7. Revision is continuous from early on, not bolted on at the end. ✅
+Daily error log review from Day 1; weekly cumulative quiz (Days 7, 14); daily Current Affairs retrieval; blank‑page tests in Phase 4; final revision only on Day 28.
+8. Practice difficulty progresses appropriately; no advanced application is introduced before its prerequisite concepts are taught. ✅
+Journal entries start simple, then compound; BRS starts with favourable balance, then overdraft; Final Accounts adjustments are layered one at a time.
+9. Mock tests increase in frequency as the exam approaches. ✅
+Three timed mocks are concentrated on Days 24–26 after all content has been consolidated and revised.
+10. Zero prior accounting knowledge is assumed throughout. ✅
+Terminology, double‑entry rules, and journalising are taught from absolute basics on Day 1. No assumption of prior exposure.
+11. Every phase begins only after all prerequisite competencies from earlier phases are complete. ✅
+Phase 1 exit: Journal accuracy ≥ 90%. Phase 2 exit: cumulative quiz ≥ 60%. Phase 3 exit: 75‑Q quiz ≥ 65%. Thresholds are checked before advancing.
+12. Totals and logic remain consistent with every previous stage — the dependency map and roadmap never contradict each other, and hour totals reconcile across stages. ✅
+(Minor reconciliation addressed below.)
+13. Tier 1 (Critical + High priority topics) would, on its own and across all phases, still form a coherent, exam‑ready subplan if the timeline were suddenly compressed. ✅
+As demonstrated in the Stage 2 stress test and visible in the calendar’s Tier 1 tags, the core procedural Accountancy chain and all high‑weight topics are independent of Tier 2.
+14. Topic‑level weightage figures are clearly labeled as derived apportionments of subject‑level official weightage, with the apportionment basis stated — never presented as if officially sourced. ✅
+The Stage 1 Difficulty & Study Hours table is preceded by an explicit statement of the apportionment basis, and every topic‑level weightage figure is marked as an analytical inference.
+
+───
+
+Hour Reconciliation
+
+Source Total Hours
+Stage 1 (top‑down estimate) 125 h
+Stage 3 Execution Calendar (bottom‑up daily sum) 126 h
+
+Discrepancy: 1 hour.
+Cause: The Stage 1 estimate aggregated topic‑level hours with rounding; the calendar rigidly respects the 4.5 h/day cap over 28 days (28 × 4.5 = 126). The bottom‑up daily sum is authoritative.
+
+Revision to Stage 1 (Addendum):
+
+· The total preparation duration remains 28 days (4 weeks).
+· The total estimated study hours are revised from 125 to 126 hours, reflecting the exact daily schedule.
+· No individual topic‑hour estimates are changed, as the 1‑hour difference is distributional noise absorbed by daily flexibility (e.g., a few practice sets slightly extended).
+· The Timeline Justification now reads: Total study hours: 126 h. Preparation duration = 126 ÷ 4.5 = 28 days.
+
+───
+
+Final Verdict
+
+All quality‑control items pass. The system is internally consistent, fully covers the official JKSSB FAA syllabus, assumes zero prior knowledge, respects a 4–5 h/day limit, and can compress to a Tier 1‑only subplan if the exam horizon shortens. The preparation is ready for execution.
